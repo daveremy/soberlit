@@ -28,6 +28,38 @@ Atrial fibrillation improves when alcohol stops. An RCT in regular drinkers with
 - AF burden can drop quickly in those with existing AF when alcohol stops.
 - Stroke risk is tied to BP and AF, so upstream improvements matter.
 
+---
+
+### 📦 Meet Susan, 64 (Retired Teacher & Wine Enthusiast)
+
+**Before:**
+Susan retired at 62 after 35 years teaching high school. Active, social, loved cooking and entertaining. Her evening routine: two glasses of wine with dinner, sometimes three on weekends. "The Mediterranean way," she called it. About 14-18 units per week—moderate by any standard.
+
+At her annual physical (age 63), her doctor flagged two things: BP was creeping up (142/88, up from 128/82 the year before), and she'd had a few episodes of her "heart racing"—palpitations that lasted 10-20 minutes, then resolved. EKG caught paroxysmal atrial fibrillation (AF). Doctor suggested a beta-blocker and "maybe cut back on the wine."
+
+Susan didn't want to start medication. "I'm only 63. I'm not ready to be on pills for the rest of my life."
+
+**The Data:**
+Susan's pattern—14-18 units/week—sits right in the range where cardiovascular risk climbs. Wood et al. (2018) shows each +100 g/week (about 7 drinks) above baseline raises stroke HR to 1.14, heart failure to 1.09, and fatal hypertensive disease to 1.24. Her rising BP aligns with Roerecke (2017): hypertension risk rises with >1-2 drinks/day, especially for women and older adults.
+
+The AF episodes: Voskoboinik et al. (2020) RCT showed that stopping alcohol in regular drinkers with AF cut recurrence from 73% to 53% over 6 months. AF burden dropped from 1.2% to 0.5%. The relationship is dose-dependent: more drinks = more AF.
+
+**After (3 months alcohol-free):**
+Susan quit alcohol completely to "see if it makes a difference."
+
+**Week 1-2:** BP still elevated (withdrawal effects can temporarily raise BP). Palpitations continued.
+
+**Week 3-4:** BP starting to drop. Home readings: 138/84, then 134/82. No palpitations for 10 days straight.
+
+**Month 2:** BP stabilized at 128/78 (back to her baseline from 5 years ago). No palpitations all month. Energy noticeably better—morning walks feel easier, not winded going upstairs.
+
+**Month 3:** BP holding steady at 126/76. Zero AF episodes in 8 weeks. Doctor re-checked EKG: normal sinus rhythm. "Whatever you're doing, keep doing it."
+
+**Her takeaway:**
+"I thought wine was protecting my heart—'the French paradox' and all that. Turns out it was doing the opposite. My BP dropped 16 points without medication. The palpitations stopped completely. I have more energy now than I did two years ago. I'm hiking, gardening, keeping up with my grandkids. I don't need a beta-blocker. I just needed to stop poisoning my heart every night. The 'J-curve' is a myth. My heart votes for zero."
+
+---
+
 ## The Successful Aging Angle
 
 Your heart at 60+ is remarkably responsive to what you put in your body. Cutting alcohol isn't about managing decline—it's about **reclaiming cardiovascular capacity** for the adventures, activities, and connections you want. Lower BP means more energy for morning walks, pickleball, or keeping up with grandkids. Steadier heart rhythm means confidence to travel, exercise, and say yes to spontaneous plans. Every alcohol-free day is a deposit in your cardiovascular reserve, buying you more vibrant years ([RoweKahn1997] successful aging: low disease risk is modifiable through lifestyle choices, not genetic fate).
