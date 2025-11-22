@@ -2,6 +2,8 @@
 
 > Supportive/coach-like; tie back to triggers. Keep claims modest; note that dehydration can masquerade as craving.
 
+We choose alcohol-free by conviction, not avoidance: urges point to real needs (HALT+Thirst/Stress). Meet those directly.
+
 ## Why hydration matters
 - Mild dehydration can show up as fatigue, low mood, or “craving something” and can be misattributed to alcohol desire.
 - After 60, thirst cues can be blunted; medications (diuretics, some antihypertensives) can shift fluid balance.
