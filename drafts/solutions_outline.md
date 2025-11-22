@@ -4,6 +4,8 @@
 
 ## Principles
 - Evidence-first: you’ve seen the costs; this is the “what to do instead.”
+- Unassailable (“unfuckwithable”) stance: we’re not avoiding alcohol out of fear; we see it offers zero upside. Even if it’s around and no one is looking, we choose not to drink because we meet the real need directly.
+- Root-cause check (HALT+Thirst/Stress): any urge points to hunger/anger/lonely/tired/thirst/stress—solve that, not with alcohol.
 - Replace, don’t just remove: social scripts, rituals, movement, rest, learning.
 - Trackable and modular: start where you are; stack wins.
 
