@@ -1,6 +1,6 @@
 # Hobbies, Games, Learning (Beat Boredom & Build Joy)
 
-> Purpose: replace “boredom drinking” with engaging, social, or skill-building activities.
+> Purpose: replace "boredom drinking" with engaging, social, or skill-building activities ([Csikszentmihalyi1990] Flow: happiness is developable through optimal engagement; boredom antidote is making/learning, not passive consumption).
 
 ## Quick-start ideas
 - Book club (in-person or virtual); set a cadence.
@@ -10,9 +10,9 @@
 - Volunteering: pick a cause; commit to a small, regular slot.
 
 ## Structure to reduce friction
-- Schedule 2–3 blocks/week (30–60 min) as “boredom blockers.”
-- Pair with a ritual NA drink to make it feel rewarding.
-- Keep a “menu” of 5 options to pick from quickly.
+- Schedule 2–3 blocks/week (30–60 min) as "boredom blockers" ([Gollwitzer1999] implementation intentions: pre-commit time/place).
+- Pair with a ritual NA drink to make it feel rewarding ([Duhigg2012] habit loop: anchor new routine to existing cue and reward).
+- Keep a "menu" of 5 options to pick from quickly ([Fogg2020]: reduce friction by pre-deciding).
 
 ## Social angle
 - Combine with movement: walk-and-talk, pickleball, tai chi group.

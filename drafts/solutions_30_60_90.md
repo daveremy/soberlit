@@ -2,17 +2,17 @@
 
 > Phased, gentle progression; supportive tone. Adjust pacing as needed.
 
-## Phase 0 (Days 0–7): Audit & Remove
-- Log when/why you drink; note triggers (HALT+Thirst/Stress).
-- Clear alcohol from easy reach; stock NA options and hydration plan.
+## Phase 0 (Days 0–7): Audit & Define Territory
+- Log when/why you drink; note triggers ([HALT]+Thirst/Stress).
+- Define your territory: You're choosing conviction, not avoidance. The bottle in the fridge is as irrelevant as bleach—you know it's toxic, so you have no desire for it. Stock superior options (NA, hydration) because they taste better and serve your goals, not to hide from booze.
 - Add evening wind-down (no alcohol): see `solutions_sleep_ritual.md`.
-- Start daily hydration targets; anchor morning/midday glasses.
+- Start daily hydration targets; anchor morning/midday glasses ([Fogg2020] habit anchoring).
 - Move daily (walk + 3–5 min balance); 1–2 strength sessions.
 
 ## Phase 1 (Days 8–30): Replace & Stabilize
-- Alcohol-free: use trigger→swap table (`solutions_hydration_substitutes.md`); social scripts for events.
+- Alcohol-free: use trigger→swap table (`solutions_hydration_substitutes.md`; [Duhigg2012] habit loop); social scripts for events ([Gollwitzer1999] implementation intentions).
 - Movement: follow starter week (`solutions_movement.md`); 2–3 strength, balance daily, walking most days.
-- Sleep: stick to routine; track subjective sleep/energy.
+- Sleep: stick to routine; track subjective sleep/energy ([Walker2017]).
 - Social: schedule 1–2 alcohol-free socials/week (coffee/walk/game/book club).
 - Mindset: morning/evening affirmation; note wins daily.
 
@@ -30,6 +30,6 @@
 - Review: monthly check-in; adjust affirmations; plan maintenance.
 
 ## Maintenance (post-90)
-- Monthly reflection: sleep, mood, energy, social, movement; adjust goals.
-- Keep NA/trigger swaps handy; keep scripts fresh.
-- Relapse plan: if a slip happens, pause; hydrate; eat; sleep; move lightly; revisit triggers and swap plan; recommit next day. No guilt spirals—treat it as data and resume.
+- Monthly reflection: sleep, mood, energy, social, movement; adjust goals ([BaltesSoc1990] ongoing optimization).
+- Stock superior options (NA, hydration) you genuinely enjoy; keep scripts authentic.
+- Relapse plan: if a slip happens, pause; hydrate; eat; sleep; move lightly; revisit triggers and swap plan; recommit next day. No guilt spirals—treat it as data and resume ([Lally2009]: habit formation is resilient to occasional misses).

@@ -3,11 +3,14 @@
 > Supportive; practical wording; low-friction swaps for social settings.
 
 ## Why it helps
-- Having words ready removes friction; holding a glass (NA) lowers pressure.
+- Having words ready removes friction ([Gollwitzer1999] implementation intentions: pre-planning "if-then" responses).
 - Social ease improves with practice, sleep, and confidence—not with sedation.
+- You're not going to events to "not drink"—you're going to connect, laugh, and be vibrant. Alcohol is irrelevant to that goal.
 
 ## Before an event
-- Eat/hydrate; decide your NA order; set one script; plan exit time; line up a buddy/text check-in if helpful. If urges hit, use the HALT/urge first-aid swaps in `solutions_hydration_substitutes.md`.
+- Eat/hydrate; decide your NA order; set your intention.
+- You aren't going to "not drink"—you're going to connect, laugh, and be vibrant. Leave if the event is boring, not because you fear the wine.
+- If urges hit, recognize they're pointing to something else ([HALT] framework in `solutions_hydration_substitutes.md`): hunger, fatigue, social discomfort, or stress. Meet that need directly.
 
 ## Decline/deflect scripts (mix and match)
 - “I’m good with this tonight—sleep is better when I skip alcohol.”
@@ -16,10 +19,10 @@
 - “Taking a break—curious how I feel without it.”
 
 ## During (host/guest tactics)
-- Bring NA options you like (NA beer, bitters/citrus spritz, teas).
-- Offer to mix NA drinks; normalize it (pitcher of sparkling + citrus/herbs).
-- If pushed: repeat your choice calmly; pivot topic (“Anyway, how was…?”).
-- Hold a glass (NA) to reduce offers; have a buddy check-in if pressure feels high.
+- Bring NA options you genuinely enjoy (NA beer, bitters/citrus spritz, teas)—for your pleasure, not camouflage.
+- Offer to mix NA drinks; normalize superior choices (pitcher of sparkling + citrus/herbs).
+- If pushed: repeat your choice calmly; pivot topic ("Anyway, how was…?").
+- Hold a glass (NA) if you enjoy the ritual; you're not hiding or blending in—you're choosing what serves you.
 
 ## Social plan templates
 - Coffee/walk, breakfast meetups, games/book club without alcohol.

@@ -3,11 +3,11 @@
 > Build a reliable wind-down; avoid nightcaps; support REM/SWS.
 
 ## Goals
-- Consistent schedule; easier sleep onset; deeper REM/SWS without alcohol.
+- Consistent schedule; easier sleep onset; deeper REM/SWS without alcohol ([Walker2017]: alcohol suppresses REM, fragments sleep architecture).
 
 ## Evening basics
-- Set a target bedtime/wake time; dim lights 60–90 min prior.
-- Cool, dark room; quiet or use white noise if needed.
+- Set a target bedtime/wake time; dim lights 60–90 min prior ([Walker2017] sleep hygiene fundamentals).
+- Cool, dark room (~65°F optimal); quiet or use white noise if needed.
 - Caffeine cutoff ~8 hours before bed; heavy meals 3+ hours before; lighter snacks if needed.
 
 ## Wind-down (20–40 minutes)
