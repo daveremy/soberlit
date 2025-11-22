@@ -11,7 +11,7 @@
 - Caffeine cutoff ~8 hours before bed; heavy meals 3+ hours before; lighter snacks if needed.
 
 ## Wind-down (20–40 minutes)
-- Pick 2–3: gentle stretch, breath pacing (4–6 breaths/min), light reading, journaling.
+- Pick 2–3: gentle stretch, breath pacing (4–6 breaths/min; [LehrerGevirtz2014] resonance frequency breathing maximizes HRV and baroreflex, aids parasympathetic activation), light reading, journaling.
 - Audio option: calming music or a short, non-stimulating podcast.
 - Screen rule: if screens are needed, use low brightness; avoid stimulating content.
 

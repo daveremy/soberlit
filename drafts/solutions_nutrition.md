@@ -3,12 +3,12 @@
 > Focus on basics; avoid medical claims. Remind to consult a clinician, especially with meds/conditions.
 
 ## Fundamentals
-- Eat protein at each meal (aim ~1.2–1.6 g/kg/day if tolerated; adjust per clinician), especially helpful for preserving muscle after 60.
+- Eat protein at each meal (aim ~1.2–1.6 g/kg/day if tolerated; adjust per clinician), especially helpful for preserving muscle after 60 ([ProtAge2013]: evidence-based recommendations for older adults to prevent sarcopenia; distribute 25–30g across meals for optimal muscle protein synthesis).
 - Emphasize whole foods: lean proteins, beans/lentils, vegetables, fruits, nuts, whole grains as tolerated.
 - Keep fiber and hydration up; regular meals help blunt cravings and stabilize energy.
 
 ## Supplements (talk to your clinician)
-- **Creatine (3–5 g/day):** supports muscle/strength; generally safe but check kidneys/meds.
+- **Creatine (3–5 g/day):** supports muscle/strength when combined with resistance training; emerging evidence for cognitive benefits in older adults ([CreatineMeta2023]: enhanced memory performance, especially ages 66–76; supports ATP regeneration in brain and muscle). Generally safe but check kidney function and medication interactions with clinician.
 - **Vitamin D:** supplement if deficient; check levels.
 - **Omega-3:** via fatty fish or supplement; watch interactions (bleed risk with anticoagulants).
 - **B1 (thiamine):** consider if long-term heavy alcohol use; consult.

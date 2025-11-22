@@ -14,7 +14,7 @@ Alcohol shortens sleep latency but suppresses REM/SWS in the first half of the n
 
 ## The Successful Aging Angle
 
-Neuroplasticity doesn't stop at 60. Your brain is ready to learn new languages, hobbies, and patterns *right now*—but it needs high-quality fuel. Alcohol is sugar in the gas tank. Every drink you skip is an investment in sharper memory, deeper sleep, and more presence with the people and activities you love. The best part? You'll feel the clarity gains within weeks, not years ([RoweKahn1997] successful aging: maintaining high cognitive function is a modifiable pillar, not inevitable decline).
+Neuroplasticity doesn't stop at 60. Your brain is ready to learn new languages, hobbies, and patterns *right now*—but it needs high-quality fuel ([Thuret2015]: adults can grow new neurons throughout life; alcohol suppresses neurogenesis, exercise and learning promote it). Alcohol is sugar in the gas tank. Every drink you skip is an investment in sharper memory, deeper sleep, and more presence with the people and activities you love. The best part? You'll feel the clarity gains within weeks, not years ([RoweKahn1997] successful aging: maintaining high cognitive function is a modifiable pillar, not inevitable decline).
 
 ## Key takeaways (scan)
 - "Moderate" intake (14–21 units/week) linked to hippocampal atrophy; heavier is worse.
