@@ -28,6 +28,10 @@ Atrial fibrillation improves when alcohol stops. An RCT in regular drinkers with
 - AF burden can drop quickly in those with existing AF when alcohol stops.
 - Stroke risk is tied to BP and AF, so upstream improvements matter.
 
+## The Successful Aging Angle
+
+Your heart at 60+ is remarkably responsive to what you put in your body. Cutting alcohol isn't about managing decline—it's about **reclaiming cardiovascular capacity** for the adventures, activities, and connections you want. Lower BP means more energy for morning walks, pickleball, or keeping up with grandkids. Steadier heart rhythm means confidence to travel, exercise, and say yes to spontaneous plans. Every alcohol-free day is a deposit in your cardiovascular reserve, buying you more vibrant years ([RoweKahn1997] successful aging: low disease risk is modifiable through lifestyle choices, not genetic fate).
+
 ## Key takeaways (scan)
 - Lowest-risk point sits near zero; harm rises above ~1 drink/day.
 - BP improves meaningfully when cutting down from higher intake.

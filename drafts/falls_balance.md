@@ -10,6 +10,10 @@ Acute alcohol impairs balance, slows reaction time, and adds sedation—at ages 
 - Fracture meta-analysis ([Ke2023]): highest vs lowest alcohol → hip fracture RR 1.20 (1.03–1.40); total fracture RR 1.26; +6% total fracture risk per +14 g/day.
 - Sedating meds + alcohol further slow reflexes and deepen postural sway.
 
+## The Successful Aging Angle
+
+Balance and mobility are your freedom passes after 60—they determine whether you can hike trails, dance at weddings, play with grandkids, or travel confidently. Alcohol steals that freedom by doubling fall risk even at "moderate" levels. Every alcohol-free day is a vote for **independence and confidence in your body**. Better balance means saying yes to adventures instead of calculating risk. It means staying in your own home, on your own terms, for as long as you choose ([RoweKahn1997] successful aging: maintaining high physical function enables engagement with life).
+
 ## Takeaways (scan)
 - Short-term drinking is tightly linked to fall injuries; dose matters.
 - Compounding factors in 60+: weaker balance, slower reflexes, osteopenia → more severe consequences.

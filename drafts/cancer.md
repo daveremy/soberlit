@@ -15,6 +15,10 @@ Per-10 g/day increases (≈1 small drink) already move risk: breast RR ~1.05; co
 ## Sidebar: “No Safe Floor”
 Even one small drink per day nudges cancer risk up; more adds more. There’s no evidence of a threshold where risk is zero. Use per +10 g/day RRs above and remind that a standard US drink ≈14 g, UK unit ≈8 g. Coach angle: “If I want to lower my cancer odds, less is better; none is safest.”
 
+## The Successful Aging Angle
+
+Cancer prevention is one of the highest-leverage health investments you can make after 60. You can't control all cancer risk, but you **can** control this one—and the payoff is enormous. Every alcohol-free year reduces cumulative exposure to a Group 1 carcinogen across multiple organ systems. This isn't about fear; it's about **buying more healthy years** to spend with people you love, doing things that matter. The choice is clear: alcohol offers zero benefit, and cutting it out stacks the deck in your favor ([RoweKahn1997] successful aging: low disease risk is modifiable, and prevention compounds over time).
+
 ## Key takeaways (scan)
 - Alcohol is a carcinogen; risk starts at the first drink.
 - Per-10 g/day risks show no safe floor; small daily amounts still add risk.

@@ -4,6 +4,8 @@
 
 Retirement can open space—more dinners out, book clubs, vacations, evenings at home. Alcohol often slides in as the default social glue, a relaxant, or a boredom fix. For many over 60, that means daily or near-daily drinking layered onto changing sleep, slower metabolism, and more medications.
 
+But here's the reality: alcohol isn't the crutch it pretends to be. It's **dead weight disguised as support**—a heavy vest you wear while trying to swim through the best years of your life. It drags down energy, balance, and cognition while pretending to buoy them. The "benefits" are illusions created by temporary relief from withdrawal or stress that alcohol itself amplified.
+
 ## What this chapter covers
 - **How alcohol shows up:** sunset drinks, standing “wine o’clock,” golf/clubhouse culture, cruises/travel, celebrations, solitary evening pours.
 - **Physiology shifts with age:** less body water, slower metabolism → higher BAC per drink; balance and reaction time slow; bone density declines; sleep fragments more easily.
