@@ -57,3 +57,13 @@ Four months in, I'm sharper than I was at 65. My brain is working *better* now t
 - Dementia risk climbs above low intake; sick-quitter bias explains abstainer signal.
 - Alcohol fragments sleep: less REM/deep sleep, more wakefulness later in the night.
 - Best for brain and sleep: keep alcohol near zero; build a non-alcohol wind-down.
+
+---
+
+## Transition: From Brain to Balance
+
+You've now seen what alcohol does to your brain and sleep—the atrophy, the dementia risk, the fragmented nights, the lost REM. For most people, this is enough. The idea of losing cognitive function, of not being sharp enough to learn new things or remember your grandkids' stories, is terrifying in a way that abstract heart risk isn't.
+
+But there's another piece of the puzzle that makes all of this worse: **physical fragility**. Because a foggy brain is one thing. A foggy brain that can't trust its balance? That's how seniors end up in the ER with a broken hip—and never fully recover.
+
+Let's talk about falls.

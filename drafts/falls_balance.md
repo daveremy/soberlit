@@ -49,4 +49,14 @@ Balance and mobility are your freedom passes after 60—they determine whether y
 ## Takeaways (scan)
 - Short-term drinking is tightly linked to fall injuries; dose matters.
 - Compounding factors in 60+: weaker balance, slower reflexes, osteopenia → more severe consequences.
-- Sedative meds + alcohol magnify fall risk. 
+- Sedative meds + alcohol magnify fall risk.
+
+---
+
+## Transition: From Falls to Medication Interactions
+
+Dorothy's story highlighted something critical: alcohol didn't just impair her balance—it **compounded** the effects of her sleeping pill, creating a sedation cascade that made the fall inevitable. That single detail—mixing wine with a benzodiazepine-like drug—turned a manageable risk into a hip fracture.
+
+This isn't unique to sleeping pills. If you're over 60, you're likely taking **multiple medications**: blood pressure pills, blood thinners, diabetes meds, pain relievers, antidepressants. And alcohol interacts dangerously with nearly all of them—raising bleeding risk, crashing blood pressure, triggering hypoglycemia, deepening sedation to the point of respiratory depression.
+
+Polypharmacy + alcohol isn't just risky. It's a hidden accelerator of ER visits, falls, and life-threatening complications. Let's look at the specific dangers. 

@@ -59,3 +59,15 @@ Cancer prevention is one of the highest-leverage health investments you can make
 - Per-10 g/day risks show no safe floor; small daily amounts still add risk.
 - Heavy intake multiplies risk across many cancer sites.
 - Best move: drink less; safest: none.
+
+---
+
+## Transition: From Cancer to Brain & Sleep
+
+Cancer risk is terrifying because it's invisible—you can't feel it accumulating, you can't track it with a blood test, and by the time you know, it's often too late. That's why the "no safe floor" message matters: every drink adds risk you can't see.
+
+But there's another kind of invisible harm that operates on a faster timeline, one you might actually **feel** within weeks or months: **cognitive decline and sleep disruption**. While cancer takes decades to manifest, alcohol's impact on your brain and sleep quality shows up much sooner—and for many people over 60, this is the most personally terrifying risk of all.
+
+Because losing your sharpness, forgetting names, losing the thread of conversations, waking up foggy and unrested every single day? That's not some abstract future threat. That's your quality of life, right now, slipping away one drink at a time.
+
+Let's talk about what alcohol does to your brain and sleep—and why even "moderate" drinking accelerates cognitive decline.

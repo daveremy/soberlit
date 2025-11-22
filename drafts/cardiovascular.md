@@ -68,7 +68,17 @@ Your heart at 60+ is remarkably responsive to what you put in your body. Cutting
 - Lowest-risk point sits near zero; harm rises above ~1 drink/day.
 - BP improves meaningfully when cutting down from higher intake.
 - AF risk and burden drop with abstinence in regular drinkers.
-- No protective “J-curve” after bias correction; safer levels are lower.
+- No protective "J-curve" after bias correction; safer levels are lower.
+
+---
+
+## Transition: From Heart to Cancer
+
+You've now seen what alcohol does to your heart—the climbing risk above ~1 drink/day, the blood pressure creep, the atrial fibrillation trigger, the false promise of the J-curve. For many people, this is enough. The idea of a stroke or heart failure is concrete, scary, immediate.
+
+But there's another risk that's even more insidious, because it operates silently over decades: **cancer**. While cardiovascular harm shows up in BP readings and EKGs you can track, cancer risk accumulates invisibly with every drink—and unlike heart risk, there's no "safe floor." Even light, "moderate" drinking raises your odds across multiple cancer types.
+
+Let's look at what the data actually says about alcohol as a carcinogen.
 
 ## How to present numbers (once verified)
 - Pair relative risk with absolute numbers for clarity (e.g., “From ~5 to ~6 strokes per 1,000 people over 10 years at X intake”).
