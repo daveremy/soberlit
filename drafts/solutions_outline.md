@@ -11,6 +11,7 @@
 
 ## Sections to include
 - **Mindset & identity:** reframing (sober lit), affirmations/mantras; how to use them (recordings, morning/evening practice).
+- **Vision & goals (successful aging):** define what “lit” looks like for the next decades (health, connection, contribution); keep goals after retirement; end-of-life clarity; see `drafts/solutions_vision_goals.md`.
 - **Social & scripts:** how to decline gracefully; host/guest strategies; building sober-friendly social plans; leveraging NA options; handling peer pressure.
 - **Movement & physicality (for non-athletes):** strength 2–3x/week, balance, walking volume; entry-level plans; joint-friendly options.
 - **Nutrition & supplements:** protein targets; creatine; omega-3; vitamin D; B1; caution on meds/conditions—“talk to your clinician.” See `drafts/solutions_nutrition.md`.
