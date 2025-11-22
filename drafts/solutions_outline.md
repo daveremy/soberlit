@@ -11,7 +11,7 @@
 - **Mindset & identity:** reframing (sober lit), affirmations/mantras; how to use them (recordings, morning/evening practice).
 - **Social & scripts:** how to decline gracefully; host/guest strategies; building sober-friendly social plans; leveraging NA options; handling peer pressure.
 - **Movement & physicality (for non-athletes):** strength 2–3x/week, balance, walking volume; entry-level plans; joint-friendly options.
-- **Nutrition & supplements:** protein targets; creatine; omega-3; vitamin D; B1; caution on meds/conditions—“talk to your clinician.”
+- **Nutrition & supplements:** protein targets; creatine; omega-3; vitamin D; B1; caution on meds/conditions—“talk to your clinician.” See `drafts/solutions_nutrition.md`.
 - **Hydration (as a pillar):** daily targets (e.g., 2–3 L/day adjusted for size/activity/heat), electrolytes when sweating or low-carb, front-load earlier in day to protect sleep; note that dehydration can masquerade as craving/low mood.
 - **Substitutes (situational replacements):** map triggers and pair a swap:
   - “Treat” trigger → food treat (fruit, ice cream, dark chocolate) or ritual drink (tea, NA spritz).
@@ -19,14 +19,14 @@
   - “Social” trigger → NA craft/bitters + citrus; scripts to hold a glass without alcohol.
   - “Boredom” trigger → quick hobby/game/read block; sensory swap (sparkling water with citrus).
   - See: `drafts/solutions_hydration_substitutes.md` for a full section.
-- **Sleep you can trust:** consistent schedule; light, temperature, wind-down; caffeine/alcohol-free evening ritual; nightcap swaps; hydration timing to avoid wake-ups.
+- **Sleep you can trust:** consistent schedule; light, temperature, wind-down; caffeine/alcohol-free evening ritual; nightcap swaps; hydration timing to avoid wake-ups. See `drafts/solutions_sleep_ritual.md`.
 - **Social scripts:** prepared declines, host/guest tactics, NA orders, anchor drinks; see `drafts/solutions_social_scripts.md`.
 - **Movement starter (non-athletes):** walking, strength 2–3x/week, balance daily; safety/cautions; see `drafts/solutions_movement.md`.
-- **Hobbies/games/learning:** structured boredom-killers—book clubs, games, courses, volunteering, making/learning streaks.
-- **Spirituality/mindfulness:** practices that fit (prayer, meditation, nature, gratitude).
-- **Relationships:** showing up sober; repairing strain; grandparenting presence; communication without alcohol.
+- **Hobbies/games/learning:** structured boredom-killers—book clubs, games, courses, volunteering, making/learning streaks. See `drafts/solutions_hobbies.md`.
+- **Spirituality/mindfulness:** practices that fit (prayer, meditation, nature, gratitude). See `drafts/solutions_spirituality.md`.
+- **Relationships:** showing up sober; repairing strain; grandparenting presence; communication without alcohol. See `drafts/solutions_relationships.md`.
 - **Digital/trackers:** optional tools for sleep, steps, mood; journaling templates.
-- **30/60/90-day plan:** phased build: remove alcohol, add replacements, stack movement/social, review metrics. Include relapse plan.
+- **30/60/90-day plan:** phased build: remove alcohol, add replacements, stack movement/social, review metrics. Include relapse plan. See `drafts/solutions_30_60_90.md`.
 - **Maintenance:** monthly reflections; updating affirmations; community; handling slips.
 
 ## Mindset/trigger strategy
