@@ -16,7 +16,7 @@
 
 ## Grandparenting angle & legacy
 - **Safety and energy matter:** alcohol-free increases reliability, reaction time, and memory with kids.
-- **The legacy angle:** The "unfuckwithable" elder is a matriarch or patriarch figure who **models emotional regulation** for the next generation. When grandkids see you handle stress, social pressure, or boredom without needing alcohol, you're teaching them resilience and self-sufficiency. Your sobriety is a gift that ripples forward ([Lakhiani], [Manfredi2020]).
+- **The legacy angle:** The "unfuckwithable" elder is a matriarch or patriarch figure who **models emotional regulation** for the next generation. When grandkids see you handle stress, social pressure, or boredom without needing alcohol, you're teaching them resilience and self-sufficiency. Your alcohol-free choice is a gift that ripples forward ([Lakhiani], [Manfredi2020]).
 
 ## Community
 - Seek or start alcohol-free meetups/book clubs/game nights; volunteer as a sober way to connect.

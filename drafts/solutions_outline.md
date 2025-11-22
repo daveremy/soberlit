@@ -29,7 +29,7 @@
 - **Spirituality/mindfulness:** practices that fit (prayer, meditation, nature, gratitude). See `drafts/solutions_spirituality.md`.
 - **Relationships:** showing up sober; repairing strain; grandparenting presence; communication without alcohol. See `drafts/solutions_relationships.md`.
 - **Digital/trackers:** optional tools for sleep, steps, mood; journaling templates.
-- **30/60/90-day plan:** phased build: remove alcohol, add replacements, stack movement/social, review metrics. Include relapse plan. See `drafts/solutions_30_60_90.md`.
+- **30/60/90-day plan:** phased build: remove alcohol, add replacements, stack movement/social, review metrics. Include after-action review process for choice analysis. See `drafts/solutions_30_60_90.md`.
 - **Maintenance:** monthly reflections; updating affirmations; community; handling slips.
 
 ## Mindset/trigger strategy

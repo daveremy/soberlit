@@ -32,4 +32,4 @@
 ## Maintenance (post-90)
 - Monthly reflection: sleep, mood, energy, social, movement; adjust goals ([BaltesSoc1990] ongoing optimization).
 - Stock superior options (NA, hydration) you genuinely enjoy; keep scripts authentic.
-- Relapse plan: if a slip happens, pause; hydrate; eat; sleep; move lightly; revisit triggers and swap plan; recommit next day. No guilt spirals—treat it as data and resume ([Lally2009]: habit formation is resilient to occasional misses).
+- After-action review: if you choose to drink, pause afterward; hydrate; eat; sleep; move lightly. Review the choice: what triggered it (HALT/stress/social)? What need was actually present? What worked, what didn't? Adjust your swap plan and recommit. No guilt spirals—treat it as data and learning ([Lally2009]: habit formation is resilient to occasional misses). You made a choice; now make the next one.
