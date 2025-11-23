@@ -42,9 +42,9 @@ Your heart at 60+ is remarkably responsive to what you put in your body. Cutting
 
 ## Transition: From Heart to Cancer
 
-You've now seen what alcohol does to your heart—the climbing risk above ~1 drink/day, the blood pressure creep, the atrial fibrillation trigger, the false promise of the J-curve. For many people, this is enough. The idea of a stroke or heart failure is concrete, scary, immediate.
+You've now seen what alcohol does to your heart. The inflammation we discussed in Chapter 1 attacks your cardiovascular system directly: plaques in arteries, weakened heart muscle, electrical disruption. The dose-response is clear. Blood pressure rises. Atrial fibrillation risk climbs. Life expectancy shortens.
 
-But there's another risk that's even more insidious, because it operates silently over decades: **cancer**. While cardiovascular harm shows up in BP readings and EKGs you can track, cancer risk accumulates invisibly with every drink—and unlike heart risk, there's no "safe floor." Even light, "moderate" drinking raises your odds across multiple cancer types.
+But there's another risk that's even more insidious, because it operates silently over decades: **cancer**. While cardiovascular harm shows up in BP readings and EKGs you can track, cancer risk accumulates invisibly with every drink. And unlike heart risk, there's no "safe floor." Even light, "moderate" drinking raises your odds across multiple cancer types.
 
 Let's look at what the data actually says about alcohol as a carcinogen.
 

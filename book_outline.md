@@ -10,24 +10,45 @@
   - Heart/J-curve, sleep, “just one glass,” relaxation, social, brain safety, meds, nightcap/injury.
 
 ## Part II — The Harms (Evidence Chapters)
-- **Cardiovascular Health & BP** (`drafts/cardiovascular.md`)
-  - Wood et al. HRs, BP reductions, AF RCT; myth box J-curve.
-- **Cancer Risk** (`drafts/cancer.md`)
-  - Group 1 carcinogen, per-10 g/day RRs, heavy-use RRs, no safe floor.
-- **Brain, Dementia, Sleep** (`drafts/brain_sleep.md`)
-  - Hippocampal atrophy, dementia risk, REM/SWS fragmentation.
-- **Falls & Balance** (`drafts/falls_balance.md`)
-  - Acute dose-response ORs for injury; higher consequences in 60+.
-- **Medication Interactions** (`drafts/med_interactions.md`)
-  - Bleed/hypotension/hypoglycemia/sedation risks; guideline quotes.
-- **Mental Health** (`drafts/mental_health.md`)
-  - AUD → depression ~2×; rebound anxiety; sleep disruption.
-- **Metabolism, Weight, and Inflammation** (`drafts/metabolism_weight_inflammation.md`)
-  - Weight gain mechanisms (7 cal/g, blocks fat oxidation, appetite dysregulation, sleep→cortisol→insulin resistance).
-  - Inflammation: gut permeability, endotoxin translocation, elevated IL-6/TNF-α/CRP.
+- **1. Chronic Inflammation: The Hidden Fire** (`drafts/inflammation.md`)
+  - Foundational mechanism driving all harms.
+  - Inflammaging after 60 (baseline inflammation elevated).
+  - Gut permeability, endotoxin translocation, elevated IL-6/TNF-α/CRP.
   - Gut microbiome dysbiosis, reduced anti-inflammatory SCFAs.
-  - "Inflammaging" after 60; weight + inflammation reinforce each other.
-  - Systemic damage underlying all other harms.
+  - Gut-liver-brain axis, neuroinflammation.
+  - Sets up all subsequent chapters.
+- **2. Heart Health & Blood Pressure** (`drafts/cardiovascular.md`)
+  - Wood et al. HRs, BP reductions, AF RCT; myth box J-curve.
+  - Inflammation (Chapter 1) as underlying driver.
+- **3. Cancer Risk: The No-Safe-Floor Truth** (`drafts/cancer.md`)
+  - Group 1 carcinogen, per-10 g/day RRs, heavy-use RRs, no safe floor.
+  - Inflammation as part of carcinogenic pathway.
+- **4. Dementia & Memory Loss** (`drafts/dementia.md`)
+  - Hippocampal atrophy (Topiwala OR 3.4 at 14-21 units/week).
+  - Dementia risk climbs with intake (Sabia 17% higher at >14 units/week).
+  - Neuroinflammation, neurogenesis suppression.
+  - Sick-quitter bias explained.
+  - THE most terrifying outcome for 60+ audience.
+- **5. Sleep: Why You Wake Up Exhausted** (`drafts/sleep.md`)
+  - REM/SWS suppression, rebound wakefulness at 2-4 AM.
+  - HRV reduction, cortisol surge.
+  - Sleep myth box: "Alcohol helps me sleep."
+  - Links to dementia (amyloid-beta clearance), inflammation, mental health, weight.
+- **6. Falls, Balance & Fracture Risk** (`drafts/falls_balance.md`)
+  - Acute dose-response ORs for injury; higher consequences in 60+.
+  - Sleep deprivation + alcohol = compounded fall risk.
+- **7. Dangerous Drug Interactions** (`drafts/med_interactions.md`)
+  - Bleed/hypotension/hypoglycemia/sedation risks; guideline quotes.
+- **8. Anxiety, Depression & The Rebound Trap** (`drafts/mental_health.md`)
+  - AUD → depression ~2×; rebound anxiety; sleep disruption.
+  - Connections to inflammation (Chapter 1), sleep (Chapter 5).
+- **9. Liver, Gut & Weight Gain** (`drafts/liver_gut_weight.md`)
+  - Fatty liver, alcoholic hepatitis, cirrhosis risk.
+  - GERD, gastritis, malabsorption.
+  - Weight gain mechanisms (7 cal/g, blocks fat oxidation, appetite dysregulation).
+  - Sleep→cortisol→insulin resistance→visceral fat.
+  - Compounding effect after 60.
+  - Final evidence chapter before transition to solutions.
 
 ## Part III — (Later) The Sober Lit Life (Solutions/Program)
 - To be drafted after evidence: movement, social scripts, nutrition/supplements, sleep hygiene, hobbies, spirituality, games, affirmations, 30/60/90 plan.
@@ -39,13 +60,18 @@
 - Sleep: add one lab number on REM/SWS % reduction by dose if more precision needed.
 
 ## Files mapped
+- Introduction: `drafts/introduction_final.md`
 - Situation: `drafts/situation.md`
 - Myths: `drafts/myths_vs_reality.md`
-- Cardio: `drafts/cardiovascular.md`
-- Cancer: `drafts/cancer.md`
-- Brain/Sleep: `drafts/brain_sleep.md`
-- Falls: `drafts/falls_balance.md`
-- Meds: `drafts/med_interactions.md`
-- Mental health: `drafts/mental_health.md`
-- Metabolism/Weight/Inflammation: `drafts/metabolism_weight_inflammation.md`
+- **Evidence Chapters (Part II):**
+  1. Inflammation: `drafts/inflammation.md`
+  2. Cardiovascular: `drafts/cardiovascular.md`
+  3. Cancer: `drafts/cancer.md`
+  4. Dementia: `drafts/dementia.md`
+  5. Sleep: `drafts/sleep.md`
+  6. Falls: `drafts/falls_balance.md`
+  7. Medications: `drafts/med_interactions.md`
+  8. Mental Health: `drafts/mental_health.md`
+  9. Liver/Gut/Weight: `drafts/liver_gut_weight.md`
 - Research log: `research_log.md`
+- References: `appendix_references.md`
