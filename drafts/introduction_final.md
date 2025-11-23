@@ -8,23 +8,37 @@ After 60, this isn't academic. The same drink hits harder because you have less 
 
 I'm writing this book for me. I'm in my 60s, retired from tech, and I've been a regular drinker my entire adult life. Not an alcoholic. Not rock bottom. Just regular drinking, most nights, sometimes more during stressful periods or celebrations.
 
-I'd heard vague warnings about alcohol before, but Andrew Huberman's podcast on alcohol was the eye-opener. That led me to other researchers, podcasters, and eventually the studies themselves. And once I saw the data, not the headlines, not the myths, but the actual research, I couldn't unsee it.
+I'd heard vague warnings about alcohol before, but I dismissed them. "Moderate drinking is fine." "The French drink wine with every meal and they're healthier." "I've been doing this for decades, if it was that bad, I'd know by now."
+
+Then I watched Andrew Huberman's podcast on alcohol. That led me to other researchers, podcasters, and eventually the studies themselves.
+
+I didn't want to believe it. I really didn't. I wanted to find the studies that said moderate drinking was protective, that my evening wine was helping my heart, that it was all overblown.
+
+But the more I read, the clearer it became: I was wrong. The evidence isn't ambiguous. It's not close. It's overwhelming.
+
+And once I saw the data, not the headlines, not the myths, but the actual research, I couldn't unsee it.
 
 ---
 
 ## What the Research Actually Says
 
+**Alcohol triggers chronic inflammation.** It increases gut permeability ("leaky gut"), allowing bacterial endotoxins into your bloodstream. Your immune system responds with systemic inflammation: elevated IL-6, TNF-α, and C-reactive protein. After 60, baseline inflammation is already elevated ("inflammaging"). Alcohol pours fuel on that fire. Chronic inflammation drives every age-related disease: heart disease, cancer, dementia, arthritis, metabolic dysfunction.
+
 **Alcohol damages your heart.** The "J-curve" disappears when you control for bias. Wood et al. (2018) tracked 599,912 drinkers: stroke, heart failure, and fatal hypertensive disease all climb above 7 drinks per week. Every additional 7 drinks shortens your life by 6 months to 5 years. There is no protective effect. Your heart pays the price.
 
 **Alcohol is a Group 1 carcinogen.** Same category as tobacco, asbestos, and plutonium. No safe threshold. One drink per day raises your risk of breast, colorectal, esophageal, oral, and liver cancer. The dose-response is linear: more drinks = more cancer risk. Every drink is cumulative exposure to a known carcinogen.
 
-**Alcohol shrinks your brain.** Two glasses of wine most nights (14-21 units/week) causes hippocampal atrophy, your memory center physically shrinks (Topiwala 2017, OR 3.4). You lose names, lose your train of thought, assume it's aging. It's not. It's brain damage. Dementia risk climbs with intake.
+**Alcohol shrinks your brain and accelerates dementia.** Two glasses of wine most nights (14-21 units/week) causes hippocampal atrophy, your memory center physically shrinks (Topiwala 2017, OR 3.4). You forget names, lose your train of thought, walk into rooms and forget why. You assume it's aging. It's not. It's brain damage. Dementia risk climbs 17% at intake above 14 units/week. Your brain is atrophying, and alcohol is the cause.
 
-**Alcohol destroys your sleep.** You pass out faster but lose REM and deep sleep, the only sleep that restores you. You wake at 2 AM and 4 AM with racing heart and rebound cortisol. Seven hours in bed feels like four. This happens every single night you drink.
+**Alcohol destroys your sleep.** You pass out faster but lose REM and deep sleep, the only sleep that restores you. You wake at 2 AM and 4 AM with racing heart and rebound cortisol. Seven hours in bed feels like four. This happens every single night you drink. Poor sleep accelerates dementia (amyloid-beta accumulates), inflammation, weight gain, and mental health decline.
 
-**Alcohol doubles your fall risk, and falls kill.** Even moderate intoxication doubles injury odds. After 60, weaker bones turn falls into fractures. Hip fractures kill 20-30% of seniors within a year through immobility, pneumonia, and blood clots.
+**Alcohol doubles your fall risk, and falls kill.** Even moderate intoxication doubles injury odds. After 60, weaker bones turn falls into fractures. Hip fractures kill 20-30% of seniors within a year through immobility, pneumonia, and blood clots. Add alcohol to sleep deprivation, and your balance is catastrophically compromised.
 
-**Alcohol creates the anxiety it pretends to solve.** You drink to relax. As it clears your system, cortisol and stress hormones surge. The morning anxiety, the irritability, the dread, that's withdrawal. You're drinking to escape the rebound from yesterday's drink.
+**Alcohol interacts dangerously with medications.** Blood thinners + alcohol = bleeding risk. Blood pressure meds + alcohol = dangerous hypotension. Diabetes meds + alcohol = hypoglycemia. Sleeping pills + alcohol = profound sedation, respiratory depression, coma, death. After 60, we're on multiple medications. Alcohol makes all of them more dangerous.
+
+**Alcohol creates the anxiety it pretends to solve.** You drink to relax. As it clears your system, cortisol and stress hormones surge. The morning anxiety, the irritability, the dread, that's withdrawal. You're drinking to escape the rebound from yesterday's drink. Alcohol use disorder doubles the odds of major depression. The drinking is causing the anxiety, not treating it.
+
+**Alcohol damages your liver, gut, and drives weight gain.** Regular drinking causes fatty liver, which progresses to alcoholic hepatitis and cirrhosis. It causes GERD, gastritis, and malabsorption (you can't absorb nutrients even if you eat well). Alcohol blocks fat burning, adds 7 calories per gram (nearly as dense as fat), dysregulates appetite, and drives visceral fat accumulation through sleep disruption and insulin resistance. The belly fat you can't lose? That's alcohol.
 
 ---
 
