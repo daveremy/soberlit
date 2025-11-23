@@ -22,23 +22,23 @@ And once I saw the data, not the headlines, not the myths, but the actual resear
 
 ## What the Research Actually Says
 
-**Alcohol triggers chronic inflammation.** It increases gut permeability ("leaky gut"), allowing bacterial endotoxins into your bloodstream. Your immune system responds with systemic inflammation: elevated IL-6, TNF-α, and C-reactive protein. After 60, baseline inflammation is already elevated ("inflammaging"). Alcohol pours fuel on that fire. Chronic inflammation drives every age-related disease: heart disease, cancer, dementia, arthritis, metabolic dysfunction.
+**Alcohol triggers chronic inflammation.** It increases gut permeability ("leaky gut"), allowing bacterial endotoxins into your bloodstream. Your immune system responds with systemic inflammation: elevated IL-6, TNF-α, and C-reactive protein. After 60, baseline inflammation is already elevated ("inflammaging"). Alcohol pours fuel on that fire. Chronic inflammation may drive many major age-related diseases: heart disease, cancer, dementia, arthritis, metabolic dysfunction.
 
-**Alcohol damages your heart.** The "J-curve" disappears when you control for bias. Wood et al. (2018) tracked 599,912 drinkers: stroke, heart failure, and fatal hypertensive disease all climb above 7 drinks per week. Every additional 7 drinks shortens your life by 6 months to 5 years. There is no protective effect. Your heart pays the price.
+**Alcohol damages your heart.** Recent major studies suggest the "J-curve" disappears when you control for bias. Wood et al. (2018) tracked 599,912 drinkers: stroke, heart failure, and fatal hypertensive disease all climb above 7 drinks per week. Every additional 7 drinks may shorten your life by 6 months to 5 years. The protective effect, if it exists, is likely minimal or non-existent.
 
 **Alcohol is a Group 1 carcinogen.** Same category as tobacco, asbestos, and plutonium. No safe threshold. One drink per day raises your risk of breast, colorectal, esophageal, oral, and liver cancer. The dose-response is linear: more drinks = more cancer risk. Every drink is cumulative exposure to a known carcinogen.
 
-**Alcohol shrinks your brain and accelerates dementia.** Two glasses of wine most nights (14-21 units/week) causes hippocampal atrophy, your memory center physically shrinks (Topiwala 2017, OR 3.4). You forget names, lose your train of thought, walk into rooms and forget why. You assume it's aging. It's not. It's brain damage. Dementia risk climbs 17% at intake above 14 units/week. Your brain is atrophying, and alcohol is the cause.
+**Alcohol may shrink your brain and accelerate dementia.** Two glasses of wine most nights (14-21 units/week) is linked to hippocampal atrophy, your memory center may physically shrink (Topiwala 2017, OR 3.4). You forget names, lose your train of thought, walk into rooms and forget why. You might assume it's just aging. But it may be accelerated by alcohol-induced damage. Dementia risk climbs 17% at intake above 14 units/week. Alcohol may be a significant contributor to brain atrophy.
 
-**Alcohol destroys your sleep.** You pass out faster but lose REM and deep sleep, the only sleep that restores you. You wake at 2 AM and 4 AM with racing heart and rebound cortisol. Seven hours in bed feels like four. This happens every single night you drink. Poor sleep accelerates dementia (amyloid-beta accumulates), inflammation, weight gain, and mental health decline.
+**Alcohol disrupts your sleep.** You may pass out faster but lose REM and deep sleep, the most restorative sleep stages. You wake at 2 AM and 4 AM with racing heart and rebound cortisol. Seven hours in bed may feel like four. This can happen every night you drink. Poor sleep may accelerate dementia (amyloid-beta accumulates), inflammation, weight gain, and mental health decline.
 
 **Alcohol doubles your fall risk, and falls kill.** Even moderate intoxication doubles injury odds. After 60, weaker bones turn falls into fractures. Hip fractures kill 20-30% of seniors within a year through immobility, pneumonia, and blood clots. Add alcohol to sleep deprivation, and your balance is catastrophically compromised.
 
 **Alcohol interacts dangerously with medications.** Blood thinners + alcohol = bleeding risk. Blood pressure meds + alcohol = dangerous hypotension. Diabetes meds + alcohol = hypoglycemia. Sleeping pills + alcohol = profound sedation, respiratory depression, coma, death. After 60, we're on multiple medications. Alcohol makes all of them more dangerous.
 
-**Alcohol creates the anxiety it pretends to solve.** You drink to relax. As it clears your system, cortisol and stress hormones surge. The morning anxiety, the irritability, the dread, that's withdrawal. You're drinking to escape the rebound from yesterday's drink. Alcohol use disorder doubles the odds of major depression. The drinking is causing the anxiety, not treating it.
+**Alcohol may create the anxiety it pretends to solve.** You drink to relax. As it clears your system, cortisol and stress hormones surge. The morning anxiety, the irritability, the dread, that may be withdrawal. You may be drinking to escape the rebound from yesterday's drink. Alcohol use disorder doubles the odds of major depression. The drinking may be causing the anxiety, not treating it.
 
-**Alcohol damages your liver, gut, and drives weight gain.** Regular drinking causes fatty liver, which progresses to alcoholic hepatitis and cirrhosis. It causes GERD, gastritis, and malabsorption (you can't absorb nutrients even if you eat well). Alcohol blocks fat burning, adds 7 calories per gram (nearly as dense as fat), dysregulates appetite, and drives visceral fat accumulation through sleep disruption and insulin resistance. The belly fat you can't lose? That's alcohol.
+**Alcohol damages your liver, gut, and may drive weight gain.** Regular drinking can cause fatty liver, which may progress to alcoholic hepatitis and cirrhosis. It can cause GERD, gastritis, and malabsorption (you may not absorb nutrients even if you eat well). Alcohol blocks fat burning, adds 7 calories per gram (nearly as dense as fat), may dysregulate appetite, and may drive visceral fat accumulation through sleep disruption and insulin resistance. The belly fat you can't lose? Alcohol is likely a primary driver.
 
 ---
 
@@ -74,7 +74,7 @@ The title of this book carries a double meaning.
 
 **First:** Sober Literature. This is evidence-based information about alcohol and aging. Rigorous research, not scare tactics. Data you can verify.
 
-**Second:** Sober = Lit. This is the aspirational state. **Lit** means operating at a higher frequency, more energy, more joy, more presence, more *aliveness*. It's what happens when you remove the dead weight.
+**Second:** Sober = Lit. This is the aspirational state. **Lit** means more energy, more joy, more presence, more *aliveness*. It's what happens when you remove the dead weight.
 
 Think of it like a dimmer switch. Alcohol doesn't just turn down your cognition or energy, it dims **everything**. Your presence with your grandkids. Your ability to feel genuine joy. Your capacity for deep sleep. Your resilience under stress. Your clarity about what matters.
 
@@ -108,9 +108,11 @@ Most books about alcohol aren't written for us. They're written for people in cr
 
 The evidence chapters will show you what alcohol does to your body and brain at our age. The solutions chapters will give you frameworks and strategies to make the choice stick.
 
-The goal is to become **unfuckwithable** about this choice. It's a term from Vishen Lakhiani and Lindsay Manfredi, and it means having an unassailable relationship with alcohol where external pressure, availability, or social norms have zero power over you.
+The goal is to become **unfuckwithable** about this choice. It's a term from Vishen Lakhiani and Lindsay Manfredi, and it means having a completely unshakeable relationship with alcohol where external pressure, availability, or social norms have zero power over you. It encompasses not just intellectual conviction, but deep self-assurance, sovereignty, and presence.
 
-This isn't just conviction. It's conviction plus framework plus strategy. You understand why alcohol doesn't serve you (the evidence). You have tools to handle urges when they hit (HALT, trigger swaps). You have scripts for social situations. You have rituals that replace the evening pour. You're not relying on willpower, you're operating from a position of clarity and preparation.
+For the sake of propriety, we'll use the term **"unassailable conviction"** throughout the rest of this book, though this doesn't fully capture the wider, deeper self-confidence that unfuckwithable implies.
+
+This isn't just conviction. It's conviction plus framework plus strategy plus self-assurance. You understand why alcohol doesn't serve you (the evidence). You have tools to handle urges when they hit (HALT, trigger swaps). You have scripts for social situations. You have rituals that replace the evening pour. You're not relying on willpower, you're operating from a position of clarity, preparation, and complete self-possession.
 
 Even if alcohol is sitting in your fridge and no one is watching, you wouldn't drink it, not because you're "being good," but because you genuinely don't want it. You've seen what it does. You have better ways to meet your needs. You can't unsee it.
 

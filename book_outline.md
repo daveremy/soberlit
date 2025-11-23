@@ -2,12 +2,15 @@
 
 > Problem/evidence-first structure; solutions later.
 
-## Part I — The Situation & Myths
-- **Chapter: The Situation** (`drafts/situation.md`)  
-  - Retired-life patterns, physiology shifts, polypharmacy, normalization.  
+## Part I — The Situation & Misconceptions
+- **Chapter: The Situation** (`drafts/situation.md`)
+  - Retired-life patterns, physiology shifts, polypharmacy, normalization.
   - Crosswalk to harm areas.
-- **Chapter: Myths vs Reality** (`drafts/myths_vs_reality.md`)  
-  - Heart/J-curve, sleep, “just one glass,” relaxation, social, brain safety, meds, nightcap/injury.
+- **Chapter: Misconceptions** (`drafts/myths_vs_reality.md`)
+  - Cultural/psychological misconceptions NOT covered in evidence chapters
+  - French Paradox, Social Lubricant, "I Deserve It" reward myth, "It's Too Late" at 60
+  - "Boring Sobriety," "I'm not an alcoholic so I don't have a problem"
+  - Narrative prose, not bullet points; mini-essays with fresh perspectives
 
 ## Part II — The Harms (Evidence Chapters)
 - **1. Chronic Inflammation: The Hidden Fire** (`drafts/inflammation.md`)
@@ -42,11 +45,15 @@
 - **8. Anxiety, Depression & The Rebound Trap** (`drafts/mental_health.md`)
   - AUD → depression ~2×; rebound anxiety; sleep disruption.
   - Connections to inflammation (Chapter 1), sleep (Chapter 5).
-- **9. Liver, Gut & Weight Gain** (`drafts/liver_gut_weight.md`)
+- **9. Liver & Digestive Health** (`drafts/liver_digestive.md`)
   - Fatty liver, alcoholic hepatitis, cirrhosis risk.
   - GERD, gastritis, malabsorption.
+  - Gut-liver connection, nutrient deficiencies.
+  - Compounding effect after 60.
+- **10. Metabolism & Weight Gain** (`drafts/metabolism_weight.md`)
   - Weight gain mechanisms (7 cal/g, blocks fat oxidation, appetite dysregulation).
   - Sleep→cortisol→insulin resistance→visceral fat.
+  - Visceral fat secreting inflammatory cytokines (ties to Chapter 1).
   - Compounding effect after 60.
   - Final evidence chapter before transition to solutions.
 
@@ -72,6 +79,7 @@
   6. Falls: `drafts/falls_balance.md`
   7. Medications: `drafts/med_interactions.md`
   8. Mental Health: `drafts/mental_health.md`
-  9. Liver/Gut/Weight: `drafts/liver_gut_weight.md`
+  9. Liver & Digestive: `drafts/liver_digestive.md`
+  10. Metabolism & Weight: `drafts/metabolism_weight.md`
 - Research log: `research_log.md`
 - References: `appendix_references.md`
