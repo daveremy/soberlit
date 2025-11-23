@@ -68,49 +68,79 @@
 
 ## Part III — The Architecture of Thriving (Philosophy & Identity)
 
-> **Purpose:** Transform reader identity from "retired drinker trying to quit" to "optimized elder/athlete choosing to thrive."
+> **Purpose:** Transform reader identity from "retired drinker trying to quit" to "sovereign modern elder-athlete choosing to thrive."
+> **Core themes:** Agency (owning your choices, refusing passive aging) and Curiosity (staying intellectually alive, constantly learning)
 > **Reader state entering:** "I'm convinced alcohol is harmful, but nervous. Who will I be without it?"
-> **Reader state exiting:** "I'm not 'quitting.' I'm becoming an athlete/philosopher/modern elder. I'm excited."
+> **Reader state exiting:** "I'm not 'quitting.' I'm becoming a sovereign modern elder-athlete—someone who owns their choices, stays curious and engaged, and maintains physical capacity to live fully."
 
 **Detailed outline:** `drafts/part3_architecture_outline.md`
+
+**Opening: Integration from Part II — Reclaiming Agency and Curiosity**
+- Every harm in Part II is a theft of agency and curiosity
+- Defines agency (active control of your life) and curiosity (staying intellectually alive)
+- These two qualities define successful aging in modern times
+- Alcohol numbs both; removing it reclaims both
 
 - **Chapter 1: The Mortality Paradox — Living Well Closer to Death**
   - Successful aging = successful living with mortality awareness
   - Memento mori, stoic principles (amor fati, focus on what you control)
   - Time as most precious resource after 60
+  - **Agency connection:** Taking control of how you spend finite time
   - Alcohol numbs urgency and steals time
 
-- **Chapter 2: We Are All Athletes — The Case for Motion**
-  - "We are all athletes" philosophy—movement is fundamental
-  - "Motion is lotion" for joints, brain, mood, longevity
-  - Fitness completely available to seniors with time
-  - Alcohol undermines athletic capacity (balance, coordination, recovery)
-
-- **Chapter 3: Chosen Adversity — Why We Need Challenge**
-  - Introduce adversity on own terms (hiking, rucking, cold exposure)
-  - Endurance crew example: glass of water became luxury
-  - Antifragility: systems that gain from stressors
-  - Alcohol reduces stress resilience, makes you fragile
-
-- **Chapter 4: The Emotional Operating System — Managing the Mind**
+- **Chapter 2: The Emotional Operating System — Managing the Mind** *(MOVED TO POSITION 2)*
   - HALT framework (Hungry, Angry, Lonely, Tired + Thirst, Stress)
-  - Managing expectations (recovery isn't linear)
+  - Managing expectations (recovery isn't linear, financial stress on fixed income)
   - Managing comparison ("compare and despair")
   - Managing judgment (self, others)
   - Other frameworks: 10-minute rule, play the tape forward, identity-based decisions
+  - **Agency connection:** Taking control of emotional responses and mental frameworks
+  - *Mental tools before physical identity chapters*
+
+- **Chapter 3: We Are All Athletes — The Case for Motion**
+  - "We are all athletes" philosophy—movement is fundamental
+  - "Motion is lotion" for joints, brain, mood, longevity
+  - Fitness completely available to seniors with time
+  - Pain/arthritis note: movement is medicine, not cause
+  - **Agency connection:** Taking control of physical capacity and health
+  - Alcohol undermines athletic capacity (balance, coordination, recovery)
+
+- **Chapter 4: Chosen Adversity — Why We Need Challenge**
+  - Introduce adversity on own terms (hiking, rucking, cold exposure, fasting)
+  - Endurance crew example: glass of water became luxury after hardship
+  - Antifragility: systems that gain from stressors (biology, not philosophy)
+  - **Agency connection:** Choosing challenges that build resilience
+  - Alcohol reduces stress resilience, makes you fragile
 
 - **Chapter 5: Connection, Community & Building Your Network**
   - Build support networks before you need them
   - Types of connection: intimate, close friends, community, weak ties
+  - THE MALE FRIENDSHIP DEFICIT (crisis-level urgency for retired men)
+  - Partner still drinks dynamics (your choice, not theirs)
+  - Grief, loss, spousal decline (presence required)
+  - Purpose and meaning (ikigai, eudaimonia, self-determination theory)
+  - **Agency and Curiosity connection:** Building relationships requires both
   - Sober connection is real connection (fully present, fully remembered)
-  - Grandparenting presence, repairing relationships
 
-- **Chapter 6: The Modern Elder — Technology, AI & Continuous Learning**
-  - Reading extensively (Audible, physical books—50-100 books/year)
-  - Leveraging AI (research assistant, learning partner, conversation partner)
-  - Bio trackers & health tech (sleep, fitness, glucose, blood pressure)
-  - Staying engaged (volunteering, part-time work, creative pursuits, travel)
-  - Art of spending money (Morgan Housel principles)
+- **Chapter 6: The Modern Elder — Curiosity & Agency**
+  - **REVISED:** Tighter focus on curiosity and agency as themes
+  - Reading extensively (cognitive reserve, dementia protection)
+  - Leveraging AI & technology (staying relevant, not dependent)
+  - Staying engaged (volunteering, creative pursuits, travel)
+  - Spending on health and time (agency over resources for capacity-building)
+  - Bio-trackers (self-knowledge, mindset covered here; tactics in Part IV)
+  - **Dementia protection** as unifying frame throughout
+  - Alcohol impairs focus, retention, motivation to learn
+
+- **Chapter 7: Behavior Architecture — Translating Identity into Action** *(NEW)*
+  - Implementation intentions (if-then planning)
+  - Environment design (make alcohol-free choices path of least resistance)
+  - Habit stacking (attach new behaviors to existing habits)
+  - Trigger-swap mechanics (HALT + predetermined swaps)
+  - Friction engineering (add friction to old behaviors, remove from new)
+  - Identity reinforcement (daily reminders, celebrate choices)
+  - **Activation checklist:** Bridge to Part IV tactics
+  - **Agency connection:** Taking control of behavior-change process
 
 ---
 

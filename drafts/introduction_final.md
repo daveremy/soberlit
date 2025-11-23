@@ -88,6 +88,28 @@ Going alcohol-free isn't about deprivation. It's about **improving the quality a
 
 ---
 
+## The Core: Agency and Curiosity
+
+At the heart of this book are two concepts that define successful aging in modern times: **agency** and **curiosity**.
+
+**Agency** is taking active control of your life—owning your choices, shaping your trajectory, refusing to be a passive recipient of aging. Agency means recognizing you have power over your health, your daily habits, your learning, and how you spend your remaining years. You're not waiting for things to happen to you. You're making them happen.
+
+**Curiosity** is staying intellectually alive—asking questions, learning constantly, staying engaged with the world and with new ideas. Curiosity means treating life as endlessly interesting, never settling into the passive consumption of television and routine. You're still growing, still exploring, still becoming.
+
+These two qualities—agency and curiosity—are the foundations of thriving after 60. They're what distinguish those who age well from those who simply age.
+
+And here's the critical insight: **Alcohol numbs both.**
+
+Alcohol reduces your sense of control over your life. It creates the illusion of relaxation while actually removing your capacity to make clear choices. It makes you a passenger in your own life.
+
+Alcohol also kills curiosity. It makes you content with passivity, with routine, with the path of least resistance. It replaces engagement with sedation.
+
+When you remove alcohol, you reclaim both. You become the **sovereign modern elder-athlete**—someone who owns their choices, stays curious and engaged, and maintains the physical capacity to live fully.
+
+This book is about building agency and curiosity in every domain: your body (movement), your mind (learning), your relationships (connection), your daily choices (behavior), and your future (planning). Alcohol is incompatible with all of it.
+
+---
+
 ## Who This Is For
 
 I'm writing this book for me. But if you're reading this, you're probably in a similar place:
