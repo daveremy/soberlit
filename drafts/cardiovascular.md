@@ -2,7 +2,7 @@
 
 > Tone: supportive, coach-like. Cite exact numbers after you verify against the sources listed in `research_log.md`.
 
-Staying alcohol-light or alcohol-free is one of the fastest ways to help your heart after 60. Blood pressure, heart rhythm, and vessel health all respond within weeks when alcohol comes down. The data below give you confidence—and a clear “why”—for making that change.
+Staying alcohol-light or alcohol-free may be one of the fastest ways to help your heart after 60. Blood pressure, heart rhythm, and vessel health may all respond within weeks when alcohol intake comes down. The data below give you confidence—and a clear "why"—for making that change.
 
 Use this section to reassure readers: you don’t need alcohol for heart protection. The upside of cutting back shows up quickly in BP and rhythm, and the long-term risk curves favor drinking less.
 
@@ -42,7 +42,7 @@ Your heart at 60+ is remarkably responsive to what you put in your body. Cutting
 
 ## Transition: From Heart to Cancer
 
-You've now seen what alcohol does to your heart. The inflammation we discussed in Chapter 1 attacks your cardiovascular system directly: plaques in arteries, weakened heart muscle, electrical disruption. The dose-response is clear. Blood pressure rises. Atrial fibrillation risk climbs. Life expectancy shortens.
+You've now seen what alcohol may do to your heart. The inflammation we discussed in Chapter 1 may affect your cardiovascular system directly: plaques in arteries, weakened heart muscle, electrical disruption. The dose-response appears clear in research. Blood pressure may rise. Atrial fibrillation risk may climb. Life expectancy may shorten.
 
 But there's another risk that's even more insidious, because it operates silently over decades: **cancer**. While cardiovascular harm shows up in BP readings and EKGs you can track, cancer risk accumulates invisibly with every drink. And unlike heart risk, there's no "safe floor." Even light, "moderate" drinking raises your odds across multiple cancer types.
 
