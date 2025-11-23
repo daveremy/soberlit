@@ -1,6 +1,5 @@
 # Liver, Gut & Weight Gain
 
-> Problem framing; keep solutions for later chapters.
 
 We've covered inflammation, heart damage, cancer risk, brain atrophy, sleep destruction, falls, dangerous drug interactions, and mental health erosion. These are the harms people know about, the ones that make headlines.
 

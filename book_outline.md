@@ -1,6 +1,8 @@
 # Sober Lit: Thriving After 60 Without Alcohol — Working Outline
 
-> Problem/evidence-first structure; solutions later.
+> **5-Part Structure:** Situation → Evidence (the "push") → Philosophy/Identity (the "pull") → Tactics (the "how") → Execution (the "when")
+
+> **Core premise:** This book is as much or more about successful aging as it is about alcohol cessation. Alcohol is simply incompatible with thriving after 60.
 
 ## Part I — The Situation & Misconceptions
 - **Chapter: The Situation** (`drafts/situation.md`)
@@ -55,10 +57,141 @@
   - Sleep→cortisol→insulin resistance→visceral fat.
   - Visceral fat secreting inflammatory cytokines (ties to Chapter 1).
   - Compounding effect after 60.
+- **11. Sexual Function: The Performance Paradox** (`drafts/sexual_function.md`)
+  - ED prevalence increases with alcohol (meta-analysis: OR 0.89, 40-95% in dependent users).
+  - Testosterone suppression 6.8-50% depending on use level; affects libido both sexes.
+  - Women: 74% increased sexual dysfunction risk, delayed orgasm, reduced arousal.
+  - Subjective arousal increases while physiological response decreases (the trap).
+  - After 60: compounds vascular changes, hormonal shifts, medication effects.
+  - Recovery within 1-3 months typical (testosterone, vascular function, nerve sensation).
   - Final evidence chapter before transition to solutions.
 
-## Part III — (Later) The Sober Lit Life (Solutions/Program)
-- To be drafted after evidence: movement, social scripts, nutrition/supplements, sleep hygiene, hobbies, spirituality, games, affirmations, 30/60/90 plan.
+## Part III — The Architecture of Thriving (Philosophy & Identity)
+
+> **Purpose:** Transform reader identity from "retired drinker trying to quit" to "optimized elder/athlete choosing to thrive."
+> **Reader state entering:** "I'm convinced alcohol is harmful, but nervous. Who will I be without it?"
+> **Reader state exiting:** "I'm not 'quitting.' I'm becoming an athlete/philosopher/modern elder. I'm excited."
+
+**Detailed outline:** `drafts/part3_architecture_outline.md`
+
+- **Chapter 1: The Mortality Paradox — Living Well Closer to Death**
+  - Successful aging = successful living with mortality awareness
+  - Memento mori, stoic principles (amor fati, focus on what you control)
+  - Time as most precious resource after 60
+  - Alcohol numbs urgency and steals time
+
+- **Chapter 2: We Are All Athletes — The Case for Motion**
+  - "We are all athletes" philosophy—movement is fundamental
+  - "Motion is lotion" for joints, brain, mood, longevity
+  - Fitness completely available to seniors with time
+  - Alcohol undermines athletic capacity (balance, coordination, recovery)
+
+- **Chapter 3: Chosen Adversity — Why We Need Challenge**
+  - Introduce adversity on own terms (hiking, rucking, cold exposure)
+  - Endurance crew example: glass of water became luxury
+  - Antifragility: systems that gain from stressors
+  - Alcohol reduces stress resilience, makes you fragile
+
+- **Chapter 4: The Emotional Operating System — Managing the Mind**
+  - HALT framework (Hungry, Angry, Lonely, Tired + Thirst, Stress)
+  - Managing expectations (recovery isn't linear)
+  - Managing comparison ("compare and despair")
+  - Managing judgment (self, others)
+  - Other frameworks: 10-minute rule, play the tape forward, identity-based decisions
+
+- **Chapter 5: Connection, Community & Building Your Network**
+  - Build support networks before you need them
+  - Types of connection: intimate, close friends, community, weak ties
+  - Sober connection is real connection (fully present, fully remembered)
+  - Grandparenting presence, repairing relationships
+
+- **Chapter 6: The Modern Elder — Technology, AI & Continuous Learning**
+  - Reading extensively (Audible, physical books—50-100 books/year)
+  - Leveraging AI (research assistant, learning partner, conversation partner)
+  - Bio trackers & health tech (sleep, fitness, glucose, blood pressure)
+  - Staying engaged (volunteering, part-time work, creative pursuits, travel)
+  - Art of spending money (Morgan Housel principles)
+
+---
+
+## Part IV — The Toolkit (Tactical Implementation)
+
+> **Purpose:** The specific tools to execute the vision from Part III.
+> **Tone:** Prescriptive, reference-able, actionable. "Lean forward" reading.
+
+- **Social Scripts & Strategies** (`drafts/solutions_social_scripts.md`)
+  - How to decline gracefully
+  - Host/guest strategies
+  - NA options, anchor drinks
+  - Handling peer pressure
+
+- **Movement Protocols** (`drafts/solutions_movement.md`)
+  - Strength training 2-3x/week (entry-level, joint-friendly)
+  - Balance work daily
+  - Walking volume
+  - Rucking, hiking (chosen adversity)
+
+- **Nutrition & Supplements** (`drafts/solutions_nutrition.md`)
+  - Protein targets
+  - Creatine, omega-3, vitamin D, B1
+  - Caution on meds/conditions
+
+- **Hydration & Substitutes** (`drafts/solutions_hydration_substitutes.md`)
+  - Daily hydration targets (2-3L adjusted for size/activity)
+  - Electrolytes when needed
+  - Situational replacements (triggers → swaps)
+  - NA craft drinks, bitters, citrus
+
+- **Sleep Rituals** (`drafts/solutions_sleep_ritual.md`)
+  - Consistent schedule
+  - Light, temperature, wind-down
+  - Caffeine/alcohol-free evening ritual
+  - Nightcap swaps
+
+- **Hobbies & Learning** (`drafts/solutions_hobbies.md`)
+  - Structured boredom-killers
+  - Book clubs, games, courses, volunteering
+  - Making/learning streaks
+
+- **Spirituality & Mindfulness** (`drafts/solutions_spirituality.md`)
+  - Practices that fit (prayer, meditation, nature, gratitude)
+  - Not prescriptive—find what works
+
+- **Relationships & Connection** (`drafts/solutions_relationships.md`)
+  - Showing up sober
+  - Repairing strain
+  - Grandparenting presence
+  - Communication without alcohol
+
+---
+
+## Part V — The Launch (Execution)
+
+> **Purpose:** The step-by-step roadmap to integration. Philosophy (Part III) meets Tactics (Part IV).
+> **This is the climax of the book—the call to action.**
+
+- **Chapter: The First Two Weeks — The Bridge** (`drafts/solutions_first_two_weeks.md`)
+  - Safety assessment (when medical supervision is needed)
+  - Timeline: Days 1-3 (acute response), Days 4-7 (adjustment), Week 2 (stabilization)
+  - Sleep challenges: increased latency, REM rebound, OTC aids (melatonin, magnesium)
+  - Mood/anxiety rebound: irritability, restlessness, emotional volatility
+  - Cravings: triggers, HALT check, 10-minute rule, substitutes
+  - Recovery timeline: what gets better when (week 2 vs. month 2-3)
+  - **Tone:** "This is hard but finite." Survival mode.
+
+- **Chapter: The 30/60/90 Day Plan — The Build** (`drafts/solutions_30_60_90.md`)
+  - **Days 1-30:** Remove alcohol, establish core replacements (sleep ritual, hydration, HALT practice)
+  - **Days 31-60:** Stack movement and social strategies, build consistency
+  - **Days 61-90:** Add hobbies, learning, optimize nutrition/supplements
+  - Review metrics and after-action analysis
+  - **Author's personal journey** woven in (real-time experience)
+
+- **Chapter: The Long Game — Maintenance**
+  - Monthly reflections
+  - Updating affirmations/frameworks
+  - Community and accountability
+  - Handling slips (compassion, analysis, restart)
+  - Vision for years ahead
 
 ## Data gaps / nice-to-have tightenings
 - Falls: hip-fracture-specific stat (optional) if desired.  
@@ -81,5 +214,6 @@
   8. Mental Health: `drafts/mental_health.md`
   9. Liver & Digestive: `drafts/liver_digestive.md`
   10. Metabolism & Weight: `drafts/metabolism_weight.md`
+  11. Sexual Function: `drafts/sexual_function.md`
 - Research log: `research_log.md`
 - References: `appendix_references.md`

@@ -24,7 +24,7 @@ Second, the apparent heart benefit vanished when researchers controlled for othe
 
 Third, survivorship bias plays a role. The people you see drinking wine at 90 in Italy are the ones who tolerated alcohol well enough to reach 90. You don't see the people who died of liver disease, stroke, or alcohol-related accidents at 60 or 70. They're not in the piazza drinking Chianti.
 
-The French Paradox is seductive because it gives us permission. It wraps drinking in the cloak of health, sophistication, and longevity. But when you look at the actual data, what you find is that alcohol carries similar risks everywhere. The dose-response is consistent across cultures: more alcohol, more harm.
+The French Paradox is seductive because it gives us permission. It presents drinking as a healthy habit, associated with sophistication and longevity. But when you look at the actual data, what you find is that alcohol carries similar risks everywhere. The dose-response is consistent across cultures: more alcohol, more harm.
 
 If you want the benefits of the Mediterranean lifestyle, eat the food, walk more, spend time with friends. Leave the wine behind.
 
@@ -46,7 +46,7 @@ But ask yourself: are those conversations actually better, or do they just feel 
 
 Research on alcohol and social interaction shows something counterintuitive: while alcohol increases talkativeness, it decreases listening quality. You're more likely to interrupt, less likely to remember what was said, less able to read social cues. The "social lubricant" effect is real, but it's a trade. You gain ease at the cost of presence.
 
-And here's the deeper issue: if you rely on alcohol to feel comfortable in social situations, you're outsourcing your confidence. You never develop the skill of being present, listening actively, and connecting genuinely without the chemical assist.
+And here's the deeper issue: if you rely on alcohol to feel comfortable in social situations, you're relying on alcohol for social ease. You never develop the skill of being present, listening actively, and connecting genuinely without the chemical assist.
 
 The first few social events sober may feel awkward. But awkwardness is where growth happens. You learn to ask better questions. You get more comfortable with silence. You develop genuine social confidence rather than chemical confidence.
 
@@ -62,7 +62,7 @@ This one hits close to home for many of us. We worked our entire lives. We raise
 
 The "I deserve it" narrative is powerful because it's wrapped in fairness and self-compassion. You're not drinking because you have a problem. You're drinking because you've worked hard and you're taking care of yourself.
 
-But here's the trap: alcohol isn't a reward. It's a loan shark.
+But here's the issue: alcohol isn't a reward. It creates a physiological debt.
 
 You borrow relaxation tonight. You pay it back with interest tomorrow: rebound anxiety, disrupted sleep, elevated cortisol, mental fog. The "treat" costs you the next morning's clarity, energy, and mood.
 
@@ -70,7 +70,7 @@ And if you're drinking every night, you're never paying off the loan. You're in 
 
 Here's a better frame: you deserve to feel good tomorrow morning. You deserve deep, restorative sleep. You deserve to wake up clear-headed, energized, and present. You deserve to not be dependent on a substance to relax.
 
-Real rest comes from sleep, movement, time in nature, connection, and presence. These things restore you without debt. Alcohol masquerades as rest, but it's actually a form of stress.
+Real rest comes from sleep, movement, time in nature, connection, and presence. These things restore you without debt. Alcohol mimics relaxation, but it's actually a form of stress.
 
 The "I deserve it" story isn't wrong about the underlying need. You do deserve to feel good. You do deserve rest. You've worked hard.
 
@@ -108,7 +108,7 @@ It's not too late. It's exactly the right time.
 
 ## The Boring Sobriety: Life Without Drink Is a Flat Line
 
-This might be the most insidious misconception of all: the belief that life without alcohol is gray, flat, and joyless.
+This might be the most persistent misconception of all: the belief that life without alcohol is gray, flat, and joyless.
 
 Drinking is associated with celebration, relaxation, reward, connection, sophistication. Strip that away, and what's left? Sitting at home drinking herbal tea, watching life pass by.
 
@@ -142,7 +142,7 @@ This is the last line of defense for many people, and it's rooted in identity ra
 
 The logic goes like this: alcoholics are people who have hit rock bottom, lost jobs, broken families, or can't control their drinking. I'm not that. I'm a successful, functional person who happens to drink regularly. Therefore, I don't have a problem.
 
-This binary thinking (alcoholic vs. not alcoholic) creates a massive blind spot. It allows us to ignore clear evidence of harm as long as we haven't crossed some imagined threshold of "problem drinking."
+This binary thinking (alcoholic vs. not alcoholic) creates a significant oversight. It allows us to ignore clear evidence of harm as long as we haven't crossed some imagined threshold of "problem drinking."
 
 But here's the reality: the harm isn't binary. It's a spectrum.
 

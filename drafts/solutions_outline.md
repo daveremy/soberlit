@@ -10,8 +10,20 @@
 - Trackable and modular: start where you are; stack wins.
 
 ## Sections to include
+
+### **PART III STARTS HERE**
+
+- **The First Two Weeks: What to Expect** (`solutions_first_two_weeks.md`): The bridge from conviction to action. Covers:
+  - Safety assessment (when to see a doctor)
+  - Timeline: days 1-3, days 4-7, week 2
+  - Sleep challenges (increased latency, REM rebound) and OTC sleep aids (melatonin, magnesium)
+  - Mood/anxiety rebound (irritability, restlessness, emotional volatility)
+  - Cravings (peak and fade, 10-minute rule, HALT check)
+  - What gets better and when (week 2: stabilization, month 2-3: real benefits)
+  - **Tone:** Direct, practical, not trivializing but not catastrophizing. "This is hard but finite."
+
 - **Mindset & identity:** reframing (sober lit), affirmations/mantras; how to use them (recordings, morning/evening practice).
-- **Vision & goals (successful aging):** define what “lit” looks like for the next decades (health, connection, contribution); keep goals after retirement; end-of-life clarity; see `drafts/solutions_vision_goals.md`.
+- **Vision & goals (successful aging):** define what the next decades look like (health, connection, contribution); keep goals after retirement; end-of-life clarity; see `drafts/solutions_vision_goals.md`.
 - **Social & scripts:** how to decline gracefully; host/guest strategies; building sober-friendly social plans; leveraging NA options; handling peer pressure.
 - **Movement & physicality (for non-athletes):** strength 2–3x/week, balance, walking volume; entry-level plans; joint-friendly options.
 - **Nutrition & supplements:** protein targets; creatine; omega-3; vitamin D; B1; caution on meds/conditions—“talk to your clinician.” See `drafts/solutions_nutrition.md`.

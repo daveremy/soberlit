@@ -1,6 +1,5 @@
 # Mental Health: Anxiety, Mood, and the Rebound Trap
 
-> Problem framing; keep solutions for later.
 
 Alcohol feels like a quick relaxant, but the rebound is wired in: as blood alcohol falls, cortisol and excitatory systems rise, feeding next-day anxiety and low mood. Over time, higher alcohol use predicts more depression and anxiety—not less.
 
@@ -13,7 +12,7 @@ Alcohol feels like a quick relaxant, but the rebound is wired in: as blood alcoh
 
 ## The Successful Aging Angle
 
-Mental well-being—joy, calm, presence—is the whole point of successful aging. Alcohol masquerades as an ally here but actively sabotages your baseline mood and resilience. Cutting alcohol doesn't just reduce harm; it **unlocks a higher frequency of happiness** by breaking the rebound cycle. Within weeks, you'll notice steadier mood, less next-day anxiety, and more emotional bandwidth for connection and purpose. This is about living with lightness and clarity, not just surviving ([RoweKahn1997] successful aging: engagement with life requires emotional energy that alcohol quietly drains).
+Mental well-being—joy, calm, presence—is the whole point of successful aging. Alcohol appears helpful for mood but negatively impacts our baseline mood and resilience. Cutting alcohol doesn't just reduce harm; it breaks the rebound cycle that creates chronic anxiety and low mood. Within weeks, we typically notice steadier mood, less next-day anxiety, and more emotional bandwidth for connection and purpose. This is about living with lightness and clarity, not just surviving ([RoweKahn1997] successful aging: engagement with life requires emotional energy that alcohol diminishes).
 
 ## Takeaways (scan)
 - Alcohol is a short sedative with a longer anxiety/mood cost.

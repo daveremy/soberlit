@@ -4,7 +4,7 @@
 
 ## Phase 0 (Days 0–7): Audit & Define Territory
 - Log when/why you drink; note triggers ([HALT]+Thirst/Stress).
-- Define your territory: You're choosing conviction, not avoidance. The bottle in the fridge is as irrelevant as bleach—you know it's toxic, so you have no desire for it. Stock superior options (NA, hydration) because they taste better and serve your goals, not to hide from booze.
+- Define your territory: You're choosing conviction, not avoidance. The bottle in the fridge is as irrelevant as bleach—you know it's toxic, so you have no desire for it. Stock alcohol-free options (NA, hydration) because they taste better and serve your goals, not to hide from booze.
 - Add evening wind-down (no alcohol): see `solutions_sleep_ritual.md`.
 - Start daily hydration targets; anchor morning/midday glasses ([Fogg2020] habit anchoring).
 - Move daily (walk + 3–5 min balance); 1–2 strength sessions.
@@ -31,5 +31,5 @@
 
 ## Maintenance (post-90)
 - Monthly reflection: sleep, mood, energy, social, movement; adjust goals ([BaltesSoc1990] ongoing optimization).
-- Stock superior options (NA, hydration) you genuinely enjoy; keep scripts authentic.
+- Stock alcohol-free options (NA, hydration) you genuinely enjoy; keep scripts authentic.
 - After-action review: if you choose to drink, pause afterward; hydrate; eat; sleep; move lightly. Review the choice: what triggered it (HALT/stress/social)? What need was actually present? What worked, what didn't? Adjust your swap plan and recommit. No guilt spirals—treat it as data and learning ([Lally2009]: habit formation is resilient to occasional misses). You made a choice; now make the next one.

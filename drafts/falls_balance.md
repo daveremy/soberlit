@@ -1,6 +1,5 @@
 # Falls, Balance, and Injury Risk (60+ focus)
 
-> Problem framing only; keep solutions for later chapters.
 
 Acute alcohol impairs balance, slows reaction time, and adds sedation—at ages when baseline fall risk is already elevated by osteopenia, weaker proprioception, and meds. Meta data show a steep dose-response: non-motor vehicle injury OR increases ~1.30 (95% CI 1.26–1.34) per +10 g alcohol on an occasion, reaching ~24 at 140 g; motor vehicle OR ~1.24 (1.18–1.31) per +10 g ([Taylor2010]). Even “moderate” intoxication roughly doubles fall/injury odds; higher doses push risk further.
 
@@ -12,7 +11,7 @@ Acute alcohol impairs balance, slows reaction time, and adds sedation—at ages 
 
 ## The Successful Aging Angle
 
-Balance and mobility are your freedom passes after 60—they determine whether you can hike trails, dance at weddings, play with grandkids, or travel confidently. Alcohol steals that freedom by doubling fall risk even at "moderate" levels. Every alcohol-free day is a vote for **independence and confidence in your body**. Better balance means saying yes to adventures instead of calculating risk. It means staying in your own home, on your own terms, for as long as you choose ([RoweKahn1997] successful aging: maintaining high physical function enables engagement with life).
+Balance and mobility determine quality of life after 60—whether we can hike trails, dance at weddings, play with grandkids, or travel confidently. Alcohol compromises this independence by doubling fall risk even at "moderate" levels. Every alcohol-free day is an investment in **independence and confidence in our bodies**. Better balance means saying yes to adventures instead of calculating risk. It means staying in our own homes, on our own terms, for as long as we choose ([RoweKahn1997] successful aging: maintaining high physical function enables engagement with life).
 
 ## Takeaways (scan)
 - Short-term drinking is tightly linked to fall injuries; dose matters.
@@ -23,8 +22,8 @@ Balance and mobility are your freedom passes after 60—they determine whether y
 
 ## Transition: From Falls to Medication Interactions
 
-Dorothy's story highlighted something critical: alcohol didn't just impair her balance—it **compounded** the effects of her sleeping pill, creating a sedation cascade that made the fall inevitable. That single detail—mixing wine with a benzodiazepine-like drug—turned a manageable risk into a hip fracture.
+Falls don't happen in isolation. Alcohol impairs balance directly, but it also **compounds** the effects of medications many of us are taking—sleeping pills, blood pressure medications, pain relievers. That combination creates a sedation cascade that turns manageable risk into hip fracture.
 
-This isn't unique to sleeping pills. If you're over 60, you're likely taking **multiple medications**: blood pressure pills, blood thinners, diabetes meds, pain relievers, antidepressants. And alcohol interacts dangerously with nearly all of them—raising bleeding risk, crashing blood pressure, triggering hypoglycemia, deepening sedation to the point of respiratory depression.
+This isn't unique to sleeping pills. If we're over 60, we're likely taking **multiple medications**: blood pressure pills, blood thinners, diabetes meds, pain relievers, antidepressants. And alcohol interacts dangerously with nearly all of them—raising bleeding risk, crashing blood pressure, triggering hypoglycemia, deepening sedation to the point of respiratory depression.
 
-Polypharmacy + alcohol isn't just risky. It's a hidden accelerator of ER visits, falls, and life-threatening complications. Let's look at the specific dangers. 
+Polypharmacy + alcohol isn't just risky. It's a contributing factor to ER visits, falls, and life-threatening complications. Let's look at the specific dangers. 

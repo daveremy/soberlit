@@ -1,8 +1,7 @@
 # Cardiovascular Health & Blood Pressure (60+ focus)
 
-> Tone: supportive, coach-like. Cite exact numbers after you verify against the sources listed in `research_log.md`.
 
-Staying alcohol-light or alcohol-free may be one of the fastest ways to help your heart after 60. Blood pressure, heart rhythm, and vessel health may all respond within weeks when alcohol intake comes down. The data below give you confidence—and a clear "why"—for making that change.
+Staying alcohol-light or alcohol-free is an effective way to improve cardiovascular health after 60. Blood pressure, heart rhythm, and vessel health may all respond within weeks when alcohol intake comes down. The data below provide a clear rationale for making that change.
 
 Use this section to reassure readers: you don’t need alcohol for heart protection. The upside of cutting back shows up quickly in BP and rhythm, and the long-term risk curves favor drinking less.
 
@@ -30,7 +29,7 @@ Atrial fibrillation improves when alcohol stops. An RCT in regular drinkers with
 
 ## The Successful Aging Angle
 
-Your heart at 60+ is remarkably responsive to what you put in your body. Cutting alcohol isn't about managing decline—it's about **reclaiming cardiovascular capacity** for the adventures, activities, and connections you want. Lower BP means more energy for morning walks, pickleball, or keeping up with grandkids. Steadier heart rhythm means confidence to travel, exercise, and say yes to spontaneous plans. Every alcohol-free day is a deposit in your cardiovascular reserve, buying you more vibrant years ([RoweKahn1997] successful aging: low disease risk is modifiable through lifestyle choices, not genetic fate).
+Hearts at 60+ remain remarkably responsive to behavioral changes. Cutting alcohol isn't about managing decline—it's about **restoring cardiovascular capacity** for the activities and connections we want. Lower BP means more energy for morning walks, pickleball, or keeping up with grandkids. Steadier heart rhythm means confidence to travel, exercise, and say yes to spontaneous plans. Every alcohol-free day contributes to cardiovascular reserve, contributing to extended healthspan ([RoweKahn1997] successful aging: low disease risk is modifiable through lifestyle choices, not genetic fate).
 
 ## Key takeaways (scan)
 - Lowest-risk point sits near zero; harm rises above ~1 drink/day.
@@ -44,7 +43,7 @@ Your heart at 60+ is remarkably responsive to what you put in your body. Cutting
 
 You've now seen what alcohol may do to your heart. The inflammation we discussed in Chapter 1 may affect your cardiovascular system directly: plaques in arteries, weakened heart muscle, electrical disruption. The dose-response appears clear in research. Blood pressure may rise. Atrial fibrillation risk may climb. Life expectancy may shorten.
 
-But there's another risk that's even more insidious, because it operates silently over decades: **cancer**. While cardiovascular harm shows up in BP readings and EKGs you can track, cancer risk accumulates invisibly with every drink. And unlike heart risk, there's no "safe floor." Even light, "moderate" drinking raises your odds across multiple cancer types.
+But there's another risk that's less visible, because it operates silently over decades: **cancer**. While cardiovascular harm shows up in BP readings and EKGs we can track, cancer risk accumulates asymptomatically with every drink. And unlike heart risk, there's no "safe floor." Even light, "moderate" drinking raises our odds across multiple cancer types.
 
 Let's look at what the data actually says about alcohol as a carcinogen.
 
