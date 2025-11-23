@@ -16,7 +16,7 @@ This isn't about heavy drinkers or alcoholics. This is about two glasses of wine
 
 The hippocampus is your brain's memory center. It converts short-term memories into long-term ones, helps you navigate space, and lets you learn new information. Without a functioning hippocampus, you can't form new memories. You're trapped in an eternal present, forgetting conversations moments after they happen.
 
-Alcohol shrinks the hippocampus. Physically. Measurably.
+Alcohol is associated with reduced hippocampal volume.
 
 Topiwala et al. (2017) used brain imaging on adults with a mean age in the mid-60s, the same demographic reading this book. They measured hippocampal volume and correlated it with alcohol intake over decades.
 
@@ -25,7 +25,7 @@ The findings:
 - **Over 30 units per week** (about 3+ drinks per night): **OR 5.8** (95% CI 1.8-18.6) for atrophy
 - **Light drinking** (1-7 units/week, under 1 drink per day): **No protective effect** compared to abstinence
 
-Read that again. "Moderate" drinking, the level doctors don't worry about, the level culture celebrates, shrinks your hippocampus by a factor of 3.4. Heavier drinking makes it worse.
+Read that again. "Moderate" drinking, the level doctors don't worry about, the level culture celebrates, is linked to a higher likelihood of hippocampal atrophy (OR 3.4). Heavier drinking makes it worse.
 
 And light drinking? It doesn't protect you. It just doesn't help.
 
@@ -46,7 +46,7 @@ But here's what it actually looks like:
 
 You tell yourself it's normal. "I'm getting older." Everyone around you nods. "Yeah, senior moments. Happens to all of us."
 
-But it's not inevitable. It's brain damage. And alcohol is causing it.
+But it may not be inevitable. It may be accelerated brain aging. And alcohol may be a contributing factor.
 
 ---
 
@@ -73,7 +73,7 @@ Remember the inflammation chapter? Alcohol-induced gut permeability, endotoxin t
 
 Inflammatory cytokines cross the blood-brain barrier. Once in the brain, they activate microglia (the brain's immune cells), which release more inflammatory molecules. This neuroinflammation damages neurons, disrupts synaptic function, and accelerates cognitive decline.
 
-Chronic neuroinflammation is a hallmark of Alzheimer's disease. Alcohol is a direct cause of neuroinflammation. You're giving yourself one of the key drivers of dementia every time you drink.
+Chronic neuroinflammation is a hallmark of Alzheimer's disease. Alcohol can drive neuroinflammation. You may be exposing yourself to a potential driver of dementia when you drink.
 
 And after 60, when baseline neuroinflammation is already elevated (part of "inflammaging"), alcohol compounds the problem exponentially.
 
@@ -89,7 +89,7 @@ But neurogenesis requires the right environment. Exercise promotes it. Learning 
 
 Alcohol suppresses it.
 
-Every drink is a signal to your brain: stop growing, stop adapting, stop repairing. Alcohol is the opposite of brain fuel. It's sugar in the gas tank.
+Alcohol consumption may signal your brain to reduce growth, adaptation, and repair. Alcohol is the opposite of brain fuel. It's like sugar in the gas tank.
 
 The hippocampus, the same structure that's shrinking from alcohol, is one of the few brain regions where neurogenesis happens in adults. Alcohol is attacking the exact place your brain is trying to repair itself.
 
@@ -97,11 +97,11 @@ The hippocampus, the same structure that's shrinking from alcohol, is one of the
 
 ## The "Moderate" Drinking Myth
 
-There's a pervasive myth that moderate drinking is "good for the brain" or at least neutral. The research decisively refutes this.
+There's a pervasive myth that moderate drinking is "good for the brain" or at least neutral. Recent research increasingly challenges this.
 
 Topiwala's imaging study found **no protective effect** of light drinking. Sabia's cohort found dementia risk **climbs** above low intake. Meta-analyses show the J-curve (the idea that moderate drinking is better than abstinence) disappears when you control for confounding factors.
 
-The truth is simpler and harsher: **any regular alcohol intake is bad for your brain.** Less is better. None is safest.
+The truth is simpler and harsher: **regular alcohol intake appears detrimental to brain health.** Less is better. None is safest.
 
 If you're drinking 1-2 glasses of wine most nights and telling yourself it's fine because it's "moderate," the imaging studies say your hippocampus is shrinking, your dementia risk is climbing, and your brain's ability to grow new neurons is suppressed.
 
@@ -131,15 +131,15 @@ Your ability to learn, remember, reason, plan, and recognize your loved ones is 
 
 Successful aging means maintaining high cognitive function, not accepting inevitable decline. Rowe & Kahn (1997) identified this as one of the three pillars of successful aging, and they emphasized it's modifiable through lifestyle choices.
 
-Alcohol is incompatible with cognitive preservation. It shrinks your hippocampus, elevates dementia risk, triggers neuroinflammation, and suppresses neurogenesis. These are not opinions. These are brain imaging findings and longitudinal cohort studies.
+Alcohol may hinder cognitive preservation. It's linked to hippocampal atrophy, elevated dementia risk, neuroinflammation, and suppressed neurogenesis. These are not opinions. These are brain imaging findings and longitudinal cohort studies.
 
 Every drink is a choice: accept accelerated cognitive decline, or protect the brain you need to thrive for the next 20-30 years.
 
-Neuroplasticity is real. Your brain can still learn, grow, and adapt at 60, 70, 80. But it needs the right fuel. Alcohol is poison, not fuel.
+Neuroplasticity is real. Your brain can still learn, grow, and adapt at 60, 70, 80. But it needs the right fuel. Alcohol acts as a toxin, not fuel.
 
-Remove the poison, and your brain starts healing. Neuroinflammation drops. Neurogenesis resumes. Cognitive function stabilizes or improves.
+Abstinence often allows the brain to recover. Neuroinflammation may drop. Neurogenesis may resume. Cognitive function may stabilize or improve.
 
-The clarity gains happen within weeks, not years. People report sharper thinking, better memory, faster recall within the first month of stopping. This isn't placebo. It's your brain finally getting what it needs.
+Clarity gains often appear within weeks, not years. People report sharper thinking, better memory, faster recall within the first month of stopping. This isn't placebo. It's your brain finally getting what it needs.
 
 ---
 
@@ -154,7 +154,7 @@ The clarity gains happen within weeks, not years. People report sharper thinking
 - Alcohol suppresses neurogenesis (your brain stops growing new neurons)
 - Neuroplasticity doesn't stop at 60, exercise and learning promote brain growth, alcohol blocks it
 - Cognitive decline is not inevitable, it's modifiable, alcohol accelerates it
-- Clarity gains happen within weeks of stopping
+- Clarity gains often appear within weeks of stopping
 
 ---
 
