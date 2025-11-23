@@ -6,7 +6,7 @@
 - **Chapter: The Situation** (`drafts/situation.md`)
   - Retired-life patterns, physiology shifts, polypharmacy, normalization.
   - Crosswalk to harm areas.
-- **Chapter: Misconceptions** (`drafts/myths_vs_reality.md`)
+- **Chapter: Misconceptions** (`drafts/misconceptions.md`)
   - Cultural/psychological misconceptions NOT covered in evidence chapters
   - French Paradox, Social Lubricant, "I Deserve It" reward myth, "It's Too Late" at 60
   - "Boring Sobriety," "I'm not an alcoholic so I don't have a problem"
@@ -69,7 +69,7 @@
 ## Files mapped
 - Introduction: `drafts/introduction_final.md`
 - Situation: `drafts/situation.md`
-- Myths: `drafts/myths_vs_reality.md`
+- Misconceptions: `drafts/misconceptions.md`
 - **Evidence Chapters (Part II):**
   1. Inflammation: `drafts/inflammation.md`
   2. Cardiovascular: `drafts/cardiovascular.md`
