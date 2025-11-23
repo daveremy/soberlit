@@ -10,18 +10,24 @@
   - Heart/J-curve, sleep, “just one glass,” relaxation, social, brain safety, meds, nightcap/injury.
 
 ## Part II — The Harms (Evidence Chapters)
-- **Cardiovascular Health & BP** (`drafts/cardiovascular.md`)  
+- **Cardiovascular Health & BP** (`drafts/cardiovascular.md`)
   - Wood et al. HRs, BP reductions, AF RCT; myth box J-curve.
-- **Cancer Risk** (`drafts/cancer.md`)  
+- **Cancer Risk** (`drafts/cancer.md`)
   - Group 1 carcinogen, per-10 g/day RRs, heavy-use RRs, no safe floor.
-- **Brain, Dementia, Sleep** (`drafts/brain_sleep.md`)  
+- **Brain, Dementia, Sleep** (`drafts/brain_sleep.md`)
   - Hippocampal atrophy, dementia risk, REM/SWS fragmentation.
-- **Falls & Balance** (`drafts/falls_balance.md`)  
+- **Falls & Balance** (`drafts/falls_balance.md`)
   - Acute dose-response ORs for injury; higher consequences in 60+.
-- **Medication Interactions** (`drafts/med_interactions.md`)  
+- **Medication Interactions** (`drafts/med_interactions.md`)
   - Bleed/hypotension/hypoglycemia/sedation risks; guideline quotes.
-- **Mental Health** (`drafts/mental_health.md`)  
+- **Mental Health** (`drafts/mental_health.md`)
   - AUD → depression ~2×; rebound anxiety; sleep disruption.
+- **Metabolism, Weight, and Inflammation** (`drafts/metabolism_weight_inflammation.md`)
+  - Weight gain mechanisms (7 cal/g, blocks fat oxidation, appetite dysregulation, sleep→cortisol→insulin resistance).
+  - Inflammation: gut permeability, endotoxin translocation, elevated IL-6/TNF-α/CRP.
+  - Gut microbiome dysbiosis, reduced anti-inflammatory SCFAs.
+  - "Inflammaging" after 60; weight + inflammation reinforce each other.
+  - Systemic damage underlying all other harms.
 
 ## Part III — (Later) The Sober Lit Life (Solutions/Program)
 - To be drafted after evidence: movement, social scripts, nutrition/supplements, sleep hygiene, hobbies, spirituality, games, affirmations, 30/60/90 plan.
@@ -41,4 +47,5 @@
 - Falls: `drafts/falls_balance.md`
 - Meds: `drafts/med_interactions.md`
 - Mental health: `drafts/mental_health.md`
+- Metabolism/Weight/Inflammation: `drafts/metabolism_weight_inflammation.md`
 - Research log: `research_log.md`
