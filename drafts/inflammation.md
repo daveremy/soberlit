@@ -2,11 +2,11 @@
 
 > Problem framing; keep solutions for later chapters.
 
-Before we dive into specific organ damage, heart attacks, cancer, dementia, we need to understand the foundational mechanism driving all of it: **chronic inflammation**.
+Before we dive into specific organ damage, heart attacks, cancer, dementia, we need to understand the foundational mechanism driving much of it: **chronic inflammation**.
 
-After 60, our bodies already operate with elevated baseline inflammation, a phenomenon scientists call "inflammaging." It's a low-grade, persistent fire that accelerates every age-related disease. Alcohol pours fuel on that fire.
+After 60, our bodies already operate with elevated baseline inflammation, a phenomenon scientists call "inflammaging." It's a low-grade, persistent fire that may accelerate many age-related diseases. Alcohol pours fuel on that fire.
 
-Understanding this mechanism first makes everything that follows more comprehensible. Alcohol doesn't just damage your heart OR your brain OR your liver, it creates systemic inflammation that damages everything simultaneously.
+Understanding this mechanism first makes everything that follows more comprehensible. Alcohol doesn't just damage your heart OR your brain OR your liver, it may create systemic inflammation that affects multiple organ systems simultaneously.
 
 ---
 
@@ -14,11 +14,11 @@ Understanding this mechanism first makes everything that follows more comprehens
 
 Acute inflammation is protective. Cut your finger, your immune system responds, you heal. This is healthy.
 
-Chronic inflammation is destructive. It's a constant, low-level immune activation that never turns off. Your body attacks itself, slowly. This inflammation drives cardiovascular disease, cancer, dementia, arthritis, metabolic dysfunction, and accelerated aging.
+Chronic inflammation is destructive. It's a constant, low-level immune activation that never turns off. Your body attacks itself, slowly. This inflammation may drive cardiovascular disease, cancer, dementia, arthritis, metabolic dysfunction, and accelerated aging.
 
-After 60, baseline inflammation rises naturally. Immune regulation weakens. Cellular damage accumulates. Inflammatory markers (IL-6, TNF-α, CRP) trend upward even in healthy older adults. This "inflammaging" is one reason age itself is a risk factor for nearly every chronic disease.
+After 60, baseline inflammation rises naturally. Immune regulation weakens. Cellular damage accumulates. Inflammatory markers (IL-6, TNF-α, CRP) trend upward even in healthy older adults. This "inflammaging" is one reason age itself is a risk factor for many chronic diseases.
 
-Alcohol dramatically accelerates this process.
+Alcohol may significantly accelerate this process.
 
 ---
 
@@ -62,13 +62,13 @@ This isn't just theoretical. Studies using stool samples and blood tests show th
 
 Here's where it gets worse: the inflammation triggered by gut permeability doesn't stay in the gut.
 
-**Liver:** Endotoxins travel to the liver via the portal vein. Liver Kupffer cells (immune cells) detect the endotoxins and release inflammatory cytokines. This contributes to fatty liver disease, alcoholic hepatitis, and cirrhosis. The liver becomes inflamed, which impairs its ability to detoxify alcohol, creating another vicious cycle.
+**Liver:** Endotoxins travel to the liver via the portal vein. Liver Kupffer cells (immune cells) detect the endotoxins and release inflammatory cytokines. This may contribute to fatty liver disease, alcoholic hepatitis, and cirrhosis. The liver becomes inflamed, which may impair its ability to detoxify alcohol, creating another potential vicious cycle.
 
-**Brain:** Inflammatory signals reach the brain via the vagus nerve (direct gut-brain connection) and through the bloodstream. This triggers neuroinflammation, microglia activation (brain immune cells), and contributes to cognitive decline, dementia risk, and mood disorders. Your gut inflammation is literally inflaming your brain.
+**Brain:** Inflammatory signals reach the brain via the vagus nerve (direct gut-brain connection) and through the bloodstream. This may trigger neuroinflammation, microglia activation (brain immune cells), and may contribute to cognitive decline, dementia risk, and mood disorders. Gut inflammation may directly affect brain inflammation.
 
-**Everywhere else:** Elevated IL-6, TNF-α, and CRP in circulation affect every organ. These inflammatory cytokines are predictors of cardiovascular disease, cancer progression, muscle loss (sarcopenia), bone loss (osteoporosis), insulin resistance, and all-cause mortality in older adults.
+**Everywhere else:** Elevated IL-6, TNF-α, and CRP in circulation may affect multiple organ systems. These inflammatory cytokines are predictors of cardiovascular disease, cancer progression, muscle loss (sarcopenia), bone loss (osteoporosis), insulin resistance, and all-cause mortality in older adults.
 
-Chronic inflammation is the fire under every chronic disease. Alcohol is the gasoline.
+Chronic inflammation may be a major driver of many chronic diseases. Alcohol may be the accelerant.
 
 ---
 
@@ -76,49 +76,49 @@ Chronic inflammation is the fire under every chronic disease. Alcohol is the gas
 
 At 60+, we're already fighting elevated baseline inflammation. The immune system is less precise, cellular damage accumulates faster, and anti-inflammatory mechanisms weaken. This is why aging itself increases risk for heart disease, cancer, dementia, arthritis.
 
-Adding alcohol on top of this existing inflammation is like adding kindling to a smoldering fire. What might cause moderate inflammation in a 30-year-old causes severe, multi-system inflammation in a 70-year-old.
+Adding alcohol on top of this existing inflammation may be like adding kindling to a smoldering fire. What might cause moderate inflammation in a 30-year-old may cause more severe, multi-system inflammation in a 70-year-old.
 
-The research on older adults is unambiguous: alcohol-induced inflammation accelerates the aging process and compounds every age-related disease. The same intake that a younger person might tolerate creates measurably higher inflammatory markers in older adults.
+Research suggests alcohol-induced inflammation may accelerate the aging process and compound age-related diseases. The same intake that a younger person might tolerate may create measurably higher inflammatory markers in older adults.
 
 ---
 
 ## The Successful Aging Angle
 
-Successful aging requires low inflammation. It's the foundation for everything else: cardiovascular health, cancer prevention, cognitive function, metabolic health, physical mobility, mood stability.
+Successful aging is associated with lower inflammation. It may be foundational for: cardiovascular health, cancer prevention, cognitive function, metabolic health, physical mobility, mood stability.
 
-You can't age successfully while chronically inflamed. Your body is fighting itself. Energy goes to damage control, not thriving. Repair mechanisms are overwhelmed. Disease processes accelerate.
+Chronic inflammation may work against successful aging. Your body may be fighting itself. Energy may go to damage control rather than thriving. Repair mechanisms may be overwhelmed. Disease processes may accelerate.
 
-Alcohol is incompatible with low-inflammation aging. Every drink elevates inflammatory markers, disrupts the gut microbiome, increases endotoxin exposure, and triggers immune activation. The research shows this clearly and consistently.
+Alcohol may be incompatible with low-inflammation aging. Research shows drinking can elevate inflammatory markers, disrupt the gut microbiome, increase endotoxin exposure, and trigger immune activation.
 
-The good news: this is reversible. Stop drinking, and gut permeability improves within weeks. Microbiome diversity recovers. Inflammatory markers drop. The fire dims.
+The good news: much of this may be reversible. Research suggests that when you stop drinking, gut permeability may improve within weeks. Microbiome diversity may recover. Inflammatory markers may drop. The fire may dim.
 
 Every alcohol-free day gives your body a chance to calm the inflammation, repair the gut lining, restore microbiome balance, and shift from damage control to thriving.
 
-This chapter sets the foundation. In the chapters that follow, we'll see how this chronic inflammation drives specific harms: heart disease, cancer, dementia, poor sleep, mental health erosion, and metabolic dysfunction.
+This chapter sets the foundation. In the chapters that follow, we'll see how this chronic inflammation may contribute to specific harms: heart disease, cancer, dementia, poor sleep, mental health erosion, and metabolic dysfunction.
 
-But first, understand this: **inflammation is the hidden fire under everything else.** Alcohol is the fuel. Remove the fuel, and the fire goes out.
+But first, understand this: **inflammation may be a major driver of many age-related health issues.** Alcohol may be the fuel. Remove the fuel, and the fire may go out.
 
 ---
 
 ## Key takeaways (scan)
 
-- Chronic inflammation drives cardiovascular disease, cancer, dementia, arthritis, metabolic dysfunction, accelerated aging
+- Chronic inflammation may drive cardiovascular disease, cancer, dementia, arthritis, metabolic dysfunction, accelerated aging
 - "Inflammaging": baseline inflammation rises naturally after 60
 - Alcohol increases gut permeability ("leaky gut"), allowing bacterial endotoxins into bloodstream
 - Endotoxins trigger systemic immune activation, elevated IL-6, TNF-α, CRP
 - Dose-dependent: more alcohol = higher inflammatory markers (Health, Aging, and Body Composition study, adults 70-79)
 - Disrupts gut microbiome, reduces anti-inflammatory bacteria (Faecalibacterium, Roseburia)
-- Creates self-reinforcing cycle: dysbiosis → permeability → endotoxemia → inflammation → repeat
-- Inflammation travels via gut-liver-brain axis, affects every organ
-- After 60, alcohol-induced inflammation compounds existing "inflammaging," accelerating all age-related diseases
-- Reversible: gut heals, microbiome recovers, inflammatory markers drop when alcohol stops
+- May create self-reinforcing cycle: dysbiosis → permeability → endotoxemia → inflammation → repeat
+- Inflammation may travel via gut-liver-brain axis, potentially affecting multiple organ systems
+- After 60, alcohol-induced inflammation may compound existing "inflammaging," potentially accelerating age-related diseases
+- May be reversible: research suggests gut may heal, microbiome may recover, inflammatory markers may drop when alcohol stops
 
 ---
 
 ## Transition: From Foundation to Specific Harms
 
-We've established the foundational mechanism. Alcohol creates chronic, systemic inflammation through gut permeability, microbiome disruption, and endotoxin-driven immune activation. This inflammation is measurable, dose-dependent, and worse after 60.
+We've established the foundational mechanism. Alcohol may create chronic, systemic inflammation through gut permeability, microbiome disruption, and endotoxin-driven immune activation. This inflammation is measurable, dose-dependent, and may be more pronounced after 60.
 
-Now let's see what this inflammation actually does. We'll start with your heart, because cardiovascular disease is the leading cause of death in older adults, and chronic inflammation is the primary driver.
+Now let's see what this inflammation may actually do. We'll start with your heart, because cardiovascular disease is the leading cause of death in older adults, and chronic inflammation may be a primary driver.
 
-The inflammation we just discussed? It's attacking your heart right now.
+The inflammation we just discussed? It may be affecting your cardiovascular system right now.
