@@ -22,7 +22,7 @@ More importantly, you don't have 25-30 years of the life you're living right now
 
 The window for the life you want to live—traveling, learning, being present with grandchildren, pursuing hobbies, contributing something meaningful—is narrow. And it's closing.
 
-If you're 65, you might have 15 good years left. If you're 70, maybe 10. These aren't pessimistic estimates. They're realistic ones, informed by the actuarial tables we prefer not to read and the experiences we've watched friends and family go through.
+If you're 65, you might have 15 good years left. If you're 70, maybe 10. These aren't pessimistic estimates. They're realistic ones. According to Social Security Administration data, a 60-year-old man has a remaining life expectancy of about 22 years, a woman about 25 years. But those are averages—and they include the years of decline. The window of high-functioning independence is narrower than the total, and individual outcomes vary widely based on health choices, genetics, and luck.
 
 We're in the autumn of our lives. Not the end—autumn. The season of harvest and preparation. The season where light becomes precious because we know winter is coming.
 
@@ -68,7 +68,7 @@ The alternative to loving your fate is resenting it—spending your remaining ye
 
 Amor fati asks: What if you embraced this stage of life? What if you treated your 60s, 70s, and 80s not as decline, but as a distinct and valuable phase with its own opportunities? What if aging well became the project—the challenge you chose to pursue with full commitment?
 
-You have time now. Many of us are retired or semi-retired. The external pressures are gone. You can read, learn, move your body, connect deeply with people you care about, pursue hobbies you never had bandwidth for during your working years.
+You have time now. Many of us are retired or semi-retired. The external pressures are gone. You're sovereign over your choices in a way you weren't during your working years. You can read, learn, stay curious, move your body to maintain capacity, connect deeply with people you care about, pursue what matters.
 
 The question isn't "Why is this happening to me?" The question is "What am I going to do with the time I have?"
 
@@ -91,6 +91,8 @@ We do control:
 - Who we spend time with
 - Whether we numb ourselves or stay present
 - Our daily choices, repeated hundreds of times
+
+More precisely, we control our *judgments* and *efforts*—we can't guarantee outcomes (you can eat well and still get cancer), but we fully control the choices we make and the attention we bring to them. This distinction matters: it prevents us from feeling responsible for bad luck while keeping us accountable for daily decisions.
 
 Alcohol is particularly insidious because it gives the illusion of control ("I'm relaxing, I'm managing my stress") while actually stealing your agency. Every evening you drink, you're choosing to be less present, less capable, less yourself. You're outsourcing control of your mood, your sleep, your mental clarity to a substance.
 
@@ -120,7 +122,7 @@ When you drink, you:
 - Voluntarily degrade your sleep (the very thing you need to maintain health)
 - Voluntarily increase your risk of the diseases you fear most (cancer, heart disease, cognitive decline)
 
-You wouldn't choose to have a minor stroke every evening. But functionally, that's what alcohol does—it temporarily impairs the exact capacities you'd fight desperately to preserve if they were permanently threatened.
+You wouldn't choose to have a minor stroke every evening. But alcohol produces what functionally feels like one—it temporarily impairs the exact capacities you'd fight desperately to preserve if they were permanently threatened. Research from Part II shows that even moderate drinking increases fall risk, impairs balance and coordination, and degrades cognitive function. These aren't abstract harms. They're voluntary simulations of the decline you most fear.
 
 Negative visualization makes this visible. When you imagine what it would be like to lose your independence, your clarity, your mobility—and then realize you're voluntarily giving those things up multiple times per week—the choice becomes absurd.
 
@@ -176,6 +178,8 @@ One person spends evenings drinking wine, watching TV, going to bed foggy. Their
 
 The other person stops drinking. They read, learn, move, connect, stay engaged. Their mornings are clear. Their afternoons are productive. Their bodies maintain capacity. Their minds stay sharp. By 75, they're still capable. By 80, they're still independent.
 
+Of course, genetics and luck play their hand. A sober person can get sick; a drinker can get lucky and live to 95. We're not guaranteeing outcomes—we're maximizing probabilities. One trajectory creates the conditions for sustained independence and capacity. The other volunteers for decline.
+
 The difference wasn't one big decision. It was thousands of small decisions—daily choices about how to spend the time they had—that compounded into radically different outcomes.
 
 Here's the critical insight: **You're making those choices right now.** Today. Tonight. Tomorrow morning.
@@ -215,18 +219,15 @@ The mortality paradox asks us to live with greater agency *because* time is limi
 
 That means making hard choices. Changing habits. Building systems. Staying engaged when it would be easier to disengage. Pursuing challenge when it would be easier to seek comfort.
 
-It means becoming a **sovereign modern elder-athlete**—someone who:
-- Owns their choices (sovereign)
-- Stays curious and engaged (modern elder)
-- Maintains physical capacity to live fully (athlete)
+It means fully embodying what we might call a **sovereign modern elder-athlete**—someone who owns their choices, stays curious and engaged, and maintains the physical capacity to live fully
 
 This identity is built on agency. And alcohol is fundamentally incompatible with it.
 
 ---
 
-## The Foundation for What Follows
+## The Framework for What Follows
 
-This chapter—this awareness that time is finite, that every day matters, that we must live with agency and intention—is the foundation for everything that follows in Part III.
+This chapter establishes the core insight that makes everything else possible: time is finite, every day matters, and we must live with agency and intention.
 
 The remaining chapters will show you *how* to build the life that mortality awareness demands:
 
@@ -253,11 +254,11 @@ You can spend those years with clarity, presence, capability, and agency—fully
 
 Or you can spend them numbed, diminished, foggy, and passive—drifting through evenings you don't remember toward a decline you didn't choose.
 
-The choice is binary. And it's yours.
+These are diverging paths we choose with each evening's decision. And the choice is yours.
 
 Alcohol promises relaxation but delivers diminishment. It promises escape but delivers time loss. It promises ease but delivers dependence. It's fundamentally incompatible with living well with mortality awareness.
 
-This isn't about morality. It's not about "being good" or "having willpower." It's about math and biology and the unavoidable reality that you have limited time and drinking steals it from you.
+This isn't about morality. It's not about "being good" or "having willpower." It's about math and biology and the unavoidable reality that you have limited time and drinking steals it from you—through increased risk of dementia, heart disease, and falls (Part II), and through the daily diminishment of presence, clarity, and capability.
 
 The mortality paradox says: when you truly understand that your time is finite, when you viscerally feel that the clock is running, when you internalize that every day is a day you don't get back—you stop wasting those days.
 
@@ -277,6 +278,6 @@ And drinking isn't on the list.
 
 ---
 
-**Next:** With this foundation in place—with the clear understanding that time is finite and must be spent with agency—we're ready to build the mental frameworks that make intentional living possible. Chapter 2 will give you the tools to identify real needs, manage expectations, and navigate the emotional landscape of change.
+**Next:** With this foundation in place—with the clear understanding that time is finite and must be spent with agency—we're ready to build the mental frameworks that make intentional living possible. Chapter 2 confronts the emotional challenge directly: understanding what you're really seeking when you reach for a drink, recognizing the triggers that undermine agency, and building the mental operating system that lets you meet real needs without numbing.
 
-The mortality paradox gives us *why*. The chapters that follow give us *how*.
+The mortality paradox gives us *why*. The chapters that follow give us *how*—starting with the hardest part: managing the emotional landscape of change itself.
