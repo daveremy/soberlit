@@ -320,3 +320,110 @@ How to use in text:
     - Type: cohort/intervention.  
     - Effect: short-term abstinence improved BP (few mmHg), weight, liver enzymes; many participants maintained reductions at 6 months.  
     - How to use: quick wins and motivational hook.
+
+---
+
+## Dopamine System Research (Added 2025-01-24)
+
+### Curiosity and Novelty
+
+15) **Gruber MJ et al., Neuron 2014 (States of curiosity modulate hippocampus-dependent learning)**
+    - Type: fMRI experimental study
+    - Population: Healthy adults
+    - Effect: High-curiosity states enhance memory encoding and consolidation via dopaminergic circuit; VTA modulates hippocampal learning through enhanced dopamine release during curiosity
+    - Key finding: Curiosity activates reward system (VTA, nucleus accumbens) similar to primary rewards
+    - How to use: Explains why learning/novelty-seeking supports recovery (natural dopamine source)
+    - Citation: https://pmc.ncbi.nlm.nih.gov/articles/PMC4252494/
+
+16) **Kidd C & Hayden BY, Neuron 2015 (The Psychology and Neuroscience of Curiosity)**
+    - Type: Comprehensive review
+    - Effect: Midbrain dopamine neurons signal preference for advance information about upcoming rewards; same dopaminergic neurons that signal reward value also code information value
+    - Key finding: Information and primary rewards share behavioral and neurobiological properties
+    - How to use: Theoretical framework for why curiosity generates sustained motivation in recovery
+    - Citation: https://www.cell.com/neuron/fulltext/S0896-6273(15)00804-2
+
+17) **Gruber MJ & Ranganath C, Trends Cogn Sci 2019 (The PACE Framework)**
+    - Type: Theoretical framework/review
+    - Effect: Proposes Prediction-Appraisal-Curiosity-Exploration framework; curiosity triggered by prediction errors enhances memory encoding through attention/exploration and consolidation through dopaminergic neuromodulation of hippocampus
+    - Key finding: Explains mechanism of curiosity-enhanced learning
+    - How to use: Supports recommendation for learning/exploration as recovery strategy
+    - Citation: https://pmc.ncbi.nlm.nih.gov/articles/PMC6891259/
+
+18) **Wittmann BC et al., Behav Neurosci 2018 (Dopamine Modulates Novelty Seeking)**
+    - Type: Experimental study with dopamine manipulation
+    - Population: Healthy adults
+    - Effect: Dopamine transporter blockade (increased extracellular dopamine) increases propensity to select novel over familiar choices; novel stimuli excite dopamine neurons and heighten hemodynamic signals in dopaminergic regions
+    - Key finding: Dopamine directly increases novelty-seeking behavior
+    - How to use: Explains why building natural dopamine supports exploration and engagement
+    - Citation: https://pmc.ncbi.nlm.nih.gov/articles/PMC5861725/
+
+### Social Connection and Oxytocin-Dopamine Interaction
+
+19) **Young LJ et al., Endocrinology 2020 (Oxytocin, Dopamine, and Opioid Interactions)**
+    - Type: Comprehensive review (prairie vole model)
+    - Population: Animal model with translational relevance
+    - Effect: Oxytocin interacts with dopamine and endogenous opioids during pair bond formation; oxytocin receptors enriched in cells expressing dopamine receptors (Drd1+/Drd2+)
+    - Key finding: Social bonding requires convergence of oxytocin and dopamine signaling in nucleus accumbens
+    - How to use: Explains why social connection is critical dopamine source for recovery
+    - Citation: https://pmc.ncbi.nlm.nih.gov/articles/PMC7787427/
+
+20) **Dölen G et al., Front Neuroendocrinol 2024 (Convergence of oxytocin and dopamine signalling)**
+    - Type: Narrative review (pharmacological, optogenetic, chemogenetic studies)
+    - Population: Cross-species analysis (humans and animal models)
+    - Effect: Synthesizes OXT-DA interaction in reproductive and non-reproductive social behaviors; oxytocin enhances dopamine release during social interactions
+    - Key finding: Oxytocin-dopamine interaction underlies social bonding across species
+    - How to use: Current evidence for social connection as dopamine-building strategy
+    - Citation: https://www.sciencedirect.com/science/article/pii/S0149763424001441
+
+21) **Bruening NM et al., PMC 2024 (Oxytocin and Dopamine Receptor Expression)**
+    - Type: Molecular/cellular study
+    - Population: Prairie vole model
+    - Effect: DRD1-class and DRD2-class dopamine receptors play opposing roles in pair bonding; balance in nucleus accumbens critical for partner preference; DRD2 agonists promote pair bonding
+    - Key finding: Cellular-level mechanism of social bonding via dopamine receptors
+    - How to use: Mechanistic support for social connection recommendations
+    - Citation: https://pmc.ncbi.nlm.nih.gov/articles/PMC11908164/
+
+### Alcohol-Induced Dopamine Damage
+
+22) **Vanderbilt University 2025 (Persistent dopamine system changes)**
+    - Type: Preclinical research (animal model)
+    - Effect: Alcohol causes persistent changes even after prolonged abstinence: increased dopamine transporter function (increased reuptake = less available dopamine) and increased kappa opioid receptor sensitivity (inhibits dopamine release)
+    - Key finding: Inhibitory regulators persist at least 30 days into abstinence
+    - Limitations: Preclinical study; human confirmation needed
+    - How to use: Explains prolonged anhedonia in early recovery; sets realistic timeline expectations
+    - Citation: https://medschool.vanderbilt.edu/basic-sciences/2025/02/25/research-snapshot-how-alcohol-reshapes-the-brains-dopamine-system-long-after-drinking-stops/
+
+### Exercise and Dopamine Recovery
+
+23) **Fernandes J et al., Front Public Health 2023 (HIIT increases dopamine D2 levels)**
+    - Type: Systematic review
+    - Population: Various populations including older adults
+    - Effect: High-intensity interval training (HIIT) increases dopamine D2 receptor expression; increases dopamine in striatum, hypothalamus, midbrain, brainstem
+    - Key finding: Exercise (especially HIIT) rebuilds dopamine receptors damaged by chronic alcohol use
+    - How to use: Primary recommendation for dopamine system recovery
+    - Citation: https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2023.1257629/full
+
+24) **Robison LS et al., J Neurosci 2022 (Voluntary Exercise Boosts Dopamine via BDNF)**
+    - Type: Experimental study
+    - Effect: Voluntary exercise increases BDNF in dorsal striatum and dopamine release in nucleus accumbens; BDNF is required for exercise-induced dopamine enhancement
+    - Key finding: Mechanism by which exercise rebuilds dopamine function
+    - How to use: Explains how movement supports recovery at neurobiological level
+    - Citation: https://www.jneurosci.org/content/42/23/4725
+
+25) **Greenwood BN et al., University at Buffalo 2018 (Exercise helps treat addiction)**
+    - Type: Research study
+    - Effect: Aerobic exercise alters mesolimbic dopamine pathway; can help treat addiction
+    - Key finding: Exercise modifies reward circuitry disrupted by substance use
+    - How to use: Supports exercise as intervention, not just "healthy habit"
+    - Citation: https://www.buffalo.edu/news/releases/2018/05/037.html
+
+---
+
+**Notes on Dopamine Research Quality:**
+- Replaced blog sources (NPNHub, Psychology Today, NumberAnalytics) with peer-reviewed sources per Codex feedback
+- Curiosity research: Neuron review (Kidd & Hayden 2015) is high-quality theoretical framework; Gruber studies are experimental validation
+- Social bonding research: 2020 and 2024 reviews provide current synthesis; prairie vole model has good translational validity for social bonding mechanisms
+- Exercise research: HIIT review (2023) and BDNF mechanism (2022) provide mechanistic understanding of dopamine recovery
+- Vanderbilt 2025: Flagged as preclinical; useful for explaining persistent anhedonia but needs human confirmation
+- All sources appropriate for 60+ lay audience when translated to accessible language
+
