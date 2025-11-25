@@ -3,5 +3,5 @@
 *.swo
 *.tmp
 node_modules/
-dist/
+# dist/ - removed to allow distribution files for book drafts
 out/
