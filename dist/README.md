@@ -3,13 +3,16 @@
 **Generated:** November 24, 2024
 **Version:** Working Draft
 
+![Book Cover](cover.png)
+
 ---
 
 ## Available Formats
 
 ### 📱 **EPUB (Recommended for Apple Books)**
-**`SoberLit_Draft_20241124.epub`** (258 KB)
+**`SoberLit_Draft_20241124.epub`** (354 KB)
 - Perfect for Apple Books on iPhone, iPad, Mac
+- **Includes professional cover image**
 - Reflowable text (adjusts to screen size)
 - Built-in table of contents
 - Night mode compatible
@@ -22,7 +25,8 @@
 ---
 
 ### 📄 **PDF**
-**`SoberLit_Draft_20241124.pdf`** (475 KB)
+**`SoberLit_Draft_20241124.pdf`** (598 KB)
+- **Professional cover page included**
 - Professional formatting
 - Fixed layout (looks the same on all devices)
 - Table of contents with clickable links
@@ -36,6 +40,15 @@
 - Styled with clean, readable CSS
 - Searchable with browser find (Cmd+F)
 - Can work offline
+
+---
+
+### 🎨 **Cover Image**
+**`cover.png`** (122 KB)
+- Professional minimalist design
+- Deep blue-gray with gold accents
+- Features the identity mantra: "curious mind • capable body • clear choices"
+- Embedded in EPUB and PDF versions
 
 ---
 
