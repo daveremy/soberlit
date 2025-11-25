@@ -34,7 +34,7 @@ And the slowing that does occur is **not inevitable**. It's heavily influenced b
 
 **Neuroplasticity persists throughout life.** The brain can form new neural connections, reorganize pathways, and adapt at any age. Learning a new language, musical instrument, or complex skill at 60, 70, or 80 creates measurable changes in brain structure and function.
 
-**Alcohol accelerates decline.** Chronic drinking shrinks brain volume (particularly in the hippocampus and prefrontal cortex), impairs neuroplasticity, disrupts sleep (which is when the brain consolidates learning), and increases dementia risk. The cognitive slowing attributed to "normal aging" is often partially attributable to years of drinking.
+**Alcohol accelerates decline.** As shown in Part II's Dementia chapter, chronic drinking shrinks brain volume (particularly in the hippocampus and prefrontal cortex), impairs neuroplasticity, disrupts sleep (which is when the brain consolidates learning), and significantly increases dementia risk—even at moderate consumption levels. The cognitive slowing attributed to "normal aging" is often partially attributable to years of drinking.
 
 **Physical activity protects cognition.** Aerobic exercise increases BDNF (brain-derived neurotrophic factor), improves blood flow to the brain, and is one of the most powerful interventions for maintaining cognitive function. The elder-athlete identity (Chapter 3) directly supports the modern elder identity (this chapter).
 
@@ -186,6 +186,25 @@ This fulfills the elder role (contribution) while reinforcing your own learning 
 - Practice intellectual humility: "I don't know" or "I might be wrong about this"
 
 **Goal:** Stay intellectually flexible rather than rigid. The modern elder updates their views based on new information rather than defending outdated positions.
+
+### 7. Legacy Work (Uniquely Suited to This Life Stage)
+
+At 60+, you have accumulated decades of experience, knowledge, and stories. Legacy work—documenting and sharing this wisdom—is high-level cognitive work that serves both intellectual engagement and contribution.
+
+**Forms of legacy work:**
+- **Memoir writing:** Document your life story, significant experiences, lessons learned
+- **Family history:** Research and organize genealogy, interview relatives, preserve family stories
+- **Ethical will:** Write a document sharing your values, life lessons, and hopes for future generations (not legal/financial, but wisdom and guidance)
+- **Oral history:** Record interviews with yourself or elders in your community
+- **Skill documentation:** Create guides, tutorials, or videos teaching skills you've mastered over a lifetime
+
+**Why it matters for intellectual engagement:**
+- Requires deep recall and organization of complex memories
+- Demands clear articulation of tacit knowledge
+- Creates meaning and purpose through contribution
+- Generates dopamine through accomplishment and connection (sharing with family/community)
+
+**Action:** Start small. Write one story. Interview one relative. Document one skill. The goal isn't a published book—it's the cognitive and emotional work of making meaning from your lived experience.
 
 ---
 

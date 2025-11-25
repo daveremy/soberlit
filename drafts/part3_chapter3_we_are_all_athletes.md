@@ -105,8 +105,11 @@ You don't need a complicated training program. You need to address three fundame
 Why it matters:
 - Getting up from a chair, the floor, or the toilet requires leg strength
 - Carrying groceries, lifting luggage, or moving objects requires upper body strength
+- Grip strength predicts longevity and independence (opening jars, catching yourself in a fall, maintaining functional capacity)
 - Preventing falls requires core and leg strength to recover balance
 - Maintaining bone density requires load-bearing (muscles pulling on bones)
+
+**The Floor Test:** Can you get up from the floor without using your hands? This single test is a powerful predictor of functional independence and longevity. If you can't do it now, make it a training goal. Practice: sit-to-stand from progressively lower surfaces (chair → bench → cushion → floor).
 
 Minimum effective protocol:
 - **2x per week, 20-30 minutes per session**
@@ -114,6 +117,7 @@ Minimum effective protocol:
   - **Lower body:** Squats (bodyweight, goblet, or barbell), lunges, step-ups
   - **Upper body push:** Pushups (modified as needed), overhead press
   - **Upper body pull:** Rows (resistance band, cable, or dumbbell)
+  - **Grip:** Farmer's carries (walk with heavy objects), dead hangs (hang from bar), grip trainers
   - **Core:** Planks, dead bugs, bird dogs
 - **2-3 sets of 8-12 repetitions** at a weight/resistance that's challenging by the last few reps
 - Progressive overload: gradually increase weight, reps, or difficulty over time
@@ -142,6 +146,7 @@ Why it matters:
 - Falls are the leading cause of injury-related death in adults 65+
 - Even non-fatal falls often result in fractures, hospitalization, loss of independence, and fear of movement (which accelerates decline)
 - Balance declines rapidly without practice because it's a "use it or lose it" skill
+- As shown in Part II's Falls & Balance chapter, alcohol significantly impairs balance and coordination, increasing fall risk even at moderate consumption levels
 
 Minimum effective protocol:
 - **Practice balance 3-5 minutes per day** (can be integrated into other activities)
@@ -154,6 +159,33 @@ Minimum effective protocol:
 - Additional practices that train balance: yoga, tai chi, hiking on uneven terrain
 
 Balance training doesn't require dedicated workout time. You can practice while brushing teeth (stand on one leg), waiting for coffee (tandem stand), or walking (step over obstacles, walk on curbs).
+
+### Adaptations for Limited Mobility or Chronic Conditions
+
+**If walking is painful or difficult:**
+- Chair cardio: seated marching, arm circles, seated boxing movements
+- Pool walking or water aerobics (buoyancy reduces joint stress)
+- Recumbent bike or hand cycle
+- **The goal:** Elevate heart rate for 20-30 minutes, even if you're seated
+
+**If balance is compromised:**
+- Start all balance work seated or holding onto a stable surface
+- Progress to light fingertip touch, then hands-free
+- Use a walking aid (cane, walker) without shame—independence means moving safely, not moving unaided
+
+**If you have arthritis or joint pain:**
+- Movement is medicine for joints, not a cause of damage (unless you're doing high-impact when contraindicated)
+- Water-based exercise is ideal (warm pool, low impact)
+- Focus on range of motion and gentle strength work
+- Consult a physical therapist for exercise modifications
+
+**If you have heart disease, COPD, or other chronic conditions:**
+- Start conservatively with your physician's clearance
+- Use Rate of Perceived Exertion (RPE) instead of heart rate targets (aim for 5-6 out of 10)
+- Build gradually—any movement is better than no movement
+- Work with a cardiac rehab program or physical therapist if available
+
+The principle remains: you're an athlete training your body to maintain capacity. The specific protocols adapt to your current limitations.
 
 ---
 

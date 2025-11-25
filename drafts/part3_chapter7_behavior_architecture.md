@@ -2,6 +2,12 @@
 
 The first six chapters gave you the philosophy, identity, and mental frameworks for thriving after 60 without alcohol. You understand *why* (Chapter 1's mortality awareness), *who* you're becoming (the sovereign modern elder-athlete), and what capacities to build (emotional regulation, physical strength, resilience, connection, curiosity).
 
+Let's anchor that identity one more time:
+
+**You're a sovereign modern elder-athlete.** You own your choices and refuse passive drift. You stay intellectually curious and engaged. You maintain the physical capacity to live fully. You're emotionally regulated, psychologically resilient, and deeply connected to people who matter. This is who you're becoming.
+
+**Identity mantra:** "I'm a sovereign modern elder-athlete—curious mind, capable body, clear choices."
+
 But understanding isn't the same as doing. Philosophy doesn't execute itself. Identity doesn't translate automatically into daily choices.
 
 This chapter is about **behavior architecture**—the systems, environment design, and habit structures that make the identity sustainable. It's the bridge from philosophy to practice.
@@ -119,7 +125,9 @@ The protocol removes decision-making during the vulnerable window. You're not as
 
 ## Dopamine Stacking Strategy: Rebuilding Natural Rewards
 
-In Chapter 2, we covered the dopamine deficit that makes early sobriety feel flat. This section gives you the complete strategy for rebuilding natural dopamine sources—which is both the key to managing cravings and the foundation for long-term thriving.
+**Quick recap from Chapter 2:** Chronic alcohol use downregulates dopamine receptors, increases dopamine reuptake, and creates a hypodopaminergic state (anhedonia—inability to feel pleasure from normal activities). This is why early sobriety feels flat. The good news: this is temporary and recoverable through deliberate use of natural dopamine sources.
+
+This section gives you the complete practical strategy for rebuilding your dopamine system—which is both the key to managing cravings and the foundation for long-term thriving.
 
 Alcohol provided a single, artificial dopamine surge every evening. We're replacing that with multiple natural sources throughout the day that build capacity instead of depleting it.
 
@@ -127,20 +135,14 @@ Alcohol provided a single, artificial dopamine surge every evening. We're replac
 
 **1. Movement Dopamine (Most Powerful)**
 
-**Why it works:**
-- Aerobic exercise increases dopamine D2 receptor density (reversing alcohol-induced downregulation)
-- HIIT provides the strongest boost, but brisk walking (Zone 2) is highly effective and safer for most 60+ readers
-- Strength training generates dopamine through accomplishment and progressive challenge
-- Movement works when nothing else does—it's the most reliable tool in early recovery
+**Why it works:** See Chapter 2 for full dopamine neuroscience and Chapter 3 for the athlete identity foundation. In brief: aerobic exercise increases dopamine D2 receptor density (reversing alcohol-induced downregulation), and movement works when nothing else does—it's the most reliable tool in early recovery.
 
 **Minimum effective protocol:**
 - **Daily:** 20-30 minutes brisk walking (Zone 2 cardio—can talk but not sing easily)
 - **2-3x per week:** Strength training (Chapter 3 protocols)
 - **Optional but powerful:** 1-2x per week HIIT (20-30 seconds hard effort, 90 seconds recovery, 6-8 rounds)
 
-**⚠️ Exercise Safety for 60+ Readers:**
-
-If you have cardiovascular disease, uncontrolled hypertension, joint limitations, or haven't exercised regularly, consult your healthcare provider before starting intense exercise. Start conservatively (walking) and progress gradually. HIIT is powerful but not necessary—consistent Zone 2 walking provides enormous benefit with minimal risk.
+**⚠️ Exercise Safety:** See Chapter 3 for complete safety guidelines and adaptations for limited mobility. Key point: if you have cardiovascular disease, uncontrolled hypertension, or haven't exercised regularly, consult your healthcare provider before starting. HIIT is powerful but optional—consistent Zone 2 walking provides enormous benefit with minimal risk.
 
 **2. Novelty and Curiosity Dopamine**
 

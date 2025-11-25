@@ -122,7 +122,7 @@ When you drink, you:
 - Voluntarily degrade your sleep (the very thing you need to maintain health)
 - Voluntarily increase your risk of the diseases you fear most (cancer, heart disease, cognitive decline)
 
-You wouldn't choose to have a minor stroke every evening. But alcohol produces what functionally feels like one—it temporarily impairs the exact capacities you'd fight desperately to preserve if they were permanently threatened. Research from Part II shows that even moderate drinking increases fall risk, impairs balance and coordination, and degrades cognitive function. These aren't abstract harms. They're voluntary simulations of the decline you most fear.
+You wouldn't choose to have a minor stroke every evening. But alcohol produces what functionally feels like one—it temporarily impairs the exact capacities you'd fight desperately to preserve if they were permanently threatened. As shown in Part II's chapters on Falls & Balance and Dementia, even moderate drinking increases fall risk, impairs balance and coordination, accelerates brain atrophy, and significantly raises dementia risk. These aren't abstract harms. They're voluntary simulations of the decline you most fear.
 
 Negative visualization makes this visible. When you imagine what it would be like to lose your independence, your clarity, your mobility—and then realize you're voluntarily giving those things up multiple times per week—the choice becomes absurd.
 
@@ -258,7 +258,7 @@ These are diverging paths we choose with each evening's decision. And the choice
 
 Alcohol promises relaxation but delivers diminishment. It promises escape but delivers time loss. It promises ease but delivers dependence. It's fundamentally incompatible with living well with mortality awareness.
 
-This isn't about morality. It's not about "being good" or "having willpower." It's about math and biology and the unavoidable reality that you have limited time and drinking steals it from you—through increased risk of dementia, heart disease, and falls (Part II), and through the daily diminishment of presence, clarity, and capability.
+This isn't about morality. It's not about "being good" or "having willpower." It's about math and biology and the unavoidable reality that you have limited time and drinking steals it from you—through increased risk of dementia (Part II: Dementia chapter), cardiovascular disease (Part II: Cardiovascular chapter), cancer, falls, and metabolic dysfunction, and through the daily diminishment of presence, clarity, and capability.
 
 The mortality paradox says: when you truly understand that your time is finite, when you viscerally feel that the clock is running, when you internalize that every day is a day you don't get back—you stop wasting those days.
 

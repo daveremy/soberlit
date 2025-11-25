@@ -189,7 +189,41 @@ But the relationships that matter will adapt. And new relationships, built on sh
 - Be honest if asked why you're not drinking: "I'm prioritizing my health and clarity" is sufficient
 - Don't preach or judge others' drinking (your choice is yours; theirs is theirs)
 
+**Handling "The Pusher":**
+
+You will encounter the friend who won't let it go. "Oh come on, just one won't hurt." "You're not an alcoholic, are you?" "Don't be boring."
+
+**Scripts to use:**
+- "I appreciate the offer, but I'm good with what I have."
+- "I feel better not drinking. My doctor and I agreed this is best for me." (Health/medical reasoning usually shuts down pushers)
+- "I'm not interested in debating this. I've made my choice."
+- If they persist: "Why does it bother you that I'm not drinking?" (Turns it back on them—often reveals their own discomfort)
+
+**The truth:** People who push hard are usually defending their own relationship with alcohol. Their discomfort is not your problem. A real friend respects your choice. If someone can't be around you sober, that tells you everything you need to know about the relationship.
+
 The friends who respect your choice and remain engaged are the ones worth keeping.
+
+### 6. Adapt to Your Life Constraints
+
+Not everyone at 60+ has unlimited free time. Many readers are still working, caregiving for a spouse or parent, or managing chronic health issues that limit energy and availability.
+
+**If you're still working:**
+- Connection doesn't require elaborate social calendars—one weekly coffee, one monthly dinner
+- Use lunch breaks for connection (walk with a colleague, call a friend)
+- Weekend activities replace weeknight socializing
+
+**If you're caregiving:**
+- Isolation is common but dangerous—you need support more than ever
+- Join a caregiver support group (in-person or online)
+- Ask for help explicitly ("Can you sit with Dad while I go to the gym?")
+- Protect one 30-minute block per day for your own connection (call a friend while walking)
+
+**If energy/health is limited:**
+- Short, regular contact beats long, infrequent gatherings
+- Phone/video calls require less energy than in-person events
+- Quality over quantity—one real friend who understands your constraints is worth more than a dozen superficial relationships
+
+The principle remains: you need connection. The form adapts to your reality.
 
 ---
 

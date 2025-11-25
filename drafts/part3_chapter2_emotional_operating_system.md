@@ -14,7 +14,7 @@ This chapter gives you that understanding. It's about building the mental operat
 
 Before we talk about cravings, triggers, or tactics, we need to understand the biological reality you're dealing with in early sobriety.
 
-If you've been drinking regularly for years—especially daily or near-daily—your brain's dopamine system has adapted to chronic alcohol exposure. As we covered in Part II's mental health chapter, alcohol causes:
+If you've been drinking regularly for years—especially daily or near-daily—your brain's dopamine system has adapted to chronic alcohol exposure. As detailed in Part II's Mental Health chapter, chronic alcohol use causes:
 
 - **Receptor downregulation:** Fewer dopamine D2 receptors in your brain's reward center
 - **Increased dopamine reuptake:** Dopamine gets cleared faster from synapses
