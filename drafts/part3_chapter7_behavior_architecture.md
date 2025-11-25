@@ -76,6 +76,19 @@ Make it ridiculously easy to do the things you want to do:
 
 The easier the desired behavior, the more likely it happens—especially when motivation is low (which it will be during early sobriety).
 
+### Step 5: Clean Up Your Digital Environment
+
+Your digital environment constantly reinforces drinking through algorithms, ads, and subscriptions. Clean it up.
+
+**Action:**
+- **Unsubscribe** from wine club emails, liquor store promotions, bar/restaurant marketing
+- **Unfollow** wineries, breweries, cocktail accounts on social media
+- **Delete** delivery apps that make alcohol purchasing frictionless (or remove saved payment methods)
+- **Block** alcohol ads if possible (browser extensions, ad settings)
+- **Retrain algorithms:** Actively search for and engage with sober content, fitness content, learning resources—the algorithm will adjust
+
+The goal: stop the constant digital reminders that alcohol exists and is desirable. Out of sight, out of mind.
+
 ---
 
 ## The 5-7 PM Danger Zone: Structured Alternatives
@@ -445,6 +458,26 @@ The goal is awareness and reinforcement, not perfection or optimization.
 
 ## Activation Checklist: Bridge to Part IV
 
+**If you only do three things this week:**
+
+1. **Remove alcohol from your environment** (or create clear agreements if partner drinks)
+2. **Walk 20-30 minutes daily** (movement is the most powerful dopamine intervention)
+3. **Create your 5-7 PM evening protocol** (specific activities, no decision-making)
+
+Everything else builds on these three. Start here.
+
+**Adaptations for constrained circumstances:**
+
+**If your partner still drinks:** Focus on your environment (where alcohol is stored, when/where they drink) and your evening protocol. You can't control their choices, only your systems.
+
+**If you're caregiving:** Protect 30 minutes daily for movement, even if it's broken into 10-minute blocks. Use phone calls for connection during walks. Lower the bar for "perfect" systems—good enough systems that you can sustain are better than ideal systems you can't maintain.
+
+**If you're still working full-time:** Use lunch breaks for movement or connection. Weekend mornings for deeper work. Evenings for the 5-7 PM protocol. The principles apply; the timing adapts.
+
+The activation checklist adapts to your reality, but the core elements remain: environment, movement, protocol.
+
+---
+
 Before moving to Part IV (which gives you specific tactics for movement, nutrition, sleep, hobbies, relationships, and more), complete these foundational steps:
 
 **Environment Design:**
@@ -468,6 +501,28 @@ Before moving to Part IV (which gives you specific tactics for movement, nutriti
 - [ ] Identify your first identity-aligned win from today
 
 Complete these before Part IV. They're the foundation that makes all the specific tactics sustainable.
+
+---
+
+## When the System Fails: The Slip Protocol
+
+The systems you've built reduce the likelihood of drinking, but they don't guarantee perfection. If you slip and drink, here's how to use the systems to reset immediately—not spiral.
+
+**If you drink once:**
+
+1. **Do not shame spiral.** One drink does not erase your progress or identity. You're still the sovereign modern elder-athlete who had one setback.
+2. **Analyze what failed:** What trigger did you miss? What environmental factor wasn't addressed? What need weren't you meeting?
+3. **Fix the gap immediately:** Add friction where it was missing. Strengthen the protocol that failed. Call your accountability partner.
+4. **Recommit today:** Don't wait for Monday or next month. Recommit right now.
+5. **Use it as data:** What did you learn about your triggers, weaknesses, or environment? Apply that learning.
+
+**If you drink repeatedly (multiple times in a week):**
+
+1. **Seek support:** This may indicate you need more help than self-management provides—consider therapy, medical support, or structured programs.
+2. **Reassess your commitment:** Are you actually committed to one year, or are you testing whether you "have to" quit? Clarity matters.
+3. **Strengthen systems:** The environment design isn't strong enough. Remove more friction from desired behaviors, add more friction to drinking.
+
+**Key principle:** Use the systems to recover, not to punish yourself. The architecture is designed to catch you when you stumble—if you engage it.
 
 ---
 
@@ -502,19 +557,47 @@ One full year. 365 days. No exceptions.
 Why a year?
 
 - Long enough for your dopamine system to substantially recover
-- Long enough to experience all seasons, holidays, and life events sober
+- Long enough to experience all four seasons, holidays, and life events sober
 - Long enough to build new habits and identity
 - Long enough to have real data about how you actually feel
 
-After one year, you'll know. You'll know if the sovereign modern elder-athlete identity fits. You'll know if the clarity, capability, and presence are worth it. You'll know if you want to continue.
+**Think of it as Four Seasons:**
+- **Spring (Months 1-3):** Survival and system-building. Physical symptoms ease. Dopamine recovery begins. Habits form.
+- **Summer (Months 4-6):** Stabilization and momentum. You start to genuinely feel better. Natural rewards register more strongly.
+- **Fall (Months 7-9):** Integration and confidence. This is becoming your normal. The identity feels real, not aspirational.
+- **Winter (Months 10-12):** Transformation complete. You've experienced a full year of life events sober. You have the data.
+
+After one year—four full seasons—you'll know. You'll know if the sovereign modern elder-athlete identity fits. You'll know if the clarity, capability, and presence are worth it. You'll know if you want to continue.
 
 But you can't know at 30 days, or 90 days, or 6 months. The dopamine recovery isn't complete. The habits aren't fully formed. The identity isn't fully integrated.
 
-Give yourself a year.
+Give yourself four seasons. One full cycle. Then decide.
 
 Write it down. Tell someone. Make it real.
 
 **"I commit to one full year without alcohol, starting [date]. I am becoming a sovereign modern elder-athlete, and this is how I live."**
+
+---
+
+## Part III Summary: From Philosophy to Practice
+
+You've covered a lot. Let's consolidate what Part III has given you:
+
+**Chapter 1 (The Mortality Paradox):** Time is finite. Living well means living with agency and mortality awareness. Alcohol steals time you don't get back.
+
+**Chapter 2 (Emotional Operating System):** The dopamine deficit is biological and temporary. You have mental frameworks (HALT++, urge surfing, timeline expectations) to navigate triggers without numbing.
+
+**Chapter 3 (We Are All Athletes):** You're training your body to maintain independence. The Big Three—strength, cardio, balance—are non-negotiable. Movement is the most powerful dopamine intervention.
+
+**Chapter 4 (Chosen Adversity):** Challenge builds resilience. Comfort breeds fragility. Voluntary discomfort (physical, cognitive, social, emotional) prepares you for involuntary hardship.
+
+**Chapter 5 (Connection and Community):** Relationships sustain meaning and health. Alcohol undermines genuine connection. You need 3-5 deep relationships and regular engagement.
+
+**Chapter 6 (The Modern Elder):** Stay intellectually alive. Wisdom + curiosity = modern elder. Learning, creating, teaching, and legacy work maintain cognitive capacity and generate dopamine.
+
+**Chapter 7 (Behavior Architecture):** Environment design, dopamine stacking, habit stacking, and identity-based habits make the philosophy sustainable. Systems > willpower.
+
+**You're not trying to quit drinking. You're becoming a sovereign modern elder-athlete—and drinking is incompatible with who you're becoming.**
 
 ---
 
