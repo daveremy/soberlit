@@ -1,22 +1,34 @@
-# Foreword (Personal Intent)
+# Foreword: The Systems Audit
 
-I'm writing this for me—my life, now. I see how alcohol has woven into retired routines, and I want to face its real effects, dismantle the myths, and build a Sober Lit life. This isn't abstract research; it's my own map to clarity, energy, and presence.
+I didn't go looking for a guru. I went looking for an exit.
 
-Underneath, this is a book about successful aging. It's about keeping goals even when "retired," envisioning the rest of my life—including the end—and choosing to live at a vibrant frequency with connection, purpose, and joy. Alcohol doesn't serve that vision; it dulls it. The plan here is to become unfuckwithable about that choice: even if alcohol is around and no one is looking, I wouldn't pick it, because I can meet my real needs directly.
+I am a systems guy. I spent 30 years in tech, building complex architectures, scaling companies, and solving problems that cost millions of dollars. I lived by the **Outer Scorecard**: the title, the exit, the house, the status. By all accounts, I had won.
 
-The evidence is here so I can track it: every claim ties to a study, cohort, or guideline. The GitHub repo holds the full trail if I—or anyone else—wants to go down the rabbit hole. Appendix references are annotated so they're readable, not just citation lists.
+But at 62, I was drifting.
+The structure of work was gone. The "Commander" identity had dissolved.
+My evenings had become a blur of wine, Netflix, and a vague, gnawing sense of irrelevance.
+I told myself I was "relaxing." I told myself I deserved it.
 
-## Who This Book Is For
+But the data didn't lie.
+I tracked my sleep. Garbage.
+I checked my blood pressure. Creeping up.
+I looked at my game—on the pickleball court, where I pride myself on a solid 4.5 rating—and I was slipping.
 
-This book is for **health-conscious adults over 60** who are:
-- Drinking regularly (daily wine, cocktails at dinner, "wine o'clock") and sensing it might be time for a change
-- Seeing the headlines about alcohol risks and wondering what the real data says
-- Optimizing for successful aging—energy, clarity, mobility, presence—not managing a disease
-- Looking for evidence-based guidance, not recovery programs or support groups
-- Making a choice from conviction, not because you "have to"
+I wasn't crashing. I was just... dimming.
 
-**This is NOT a clinical treatment book.** If you're experiencing severe withdrawal symptoms, medical complications from alcohol, or need supervised detoxification, please consult a healthcare provider. This book assumes you can stop drinking safely on your own and are looking for the "why" and "how" to make that choice stick.
+So I did what I always do: I ran an audit.
+I treated my body and my life like a failing codebase. I looked for the bugs. I looked for the memory leaks. I looked for the friction points.
 
-If you're reading this, you're likely where I am: retired or semi-retired, health-aware, tired of the daily habit, and ready to see what life looks like alcohol-free. This isn't about recovery—it's about **thriving**.
+One variable stood out. It was the one variable I protected the most. The one I called "my reward."
+Alcohol.
 
-If this eventually helps others, great. For now, it's my handbook: understanding the situation, seeing the costs and myths clearly, and laying the groundwork for living lit without alcohol.***
+This book is not a memoir of addiction. I wasn't waking up in gutters. I was a "successful" drinker.
+This book is an engineering manual. It is the result of a deep-dive investigation into the mechanics of aging, physiology, and performance.
+
+I wrote this for myself—to lock in the lessons, to secure my 5.0 rating, and to ensure I never drift again.
+If you are reading this, maybe you are drifting too.
+Maybe you are ready to debug the system.
+
+Let's look at the code.
+
+**Dave Remy**

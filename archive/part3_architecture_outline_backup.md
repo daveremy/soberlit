@@ -1,12 +1,12 @@
 # Part III: The Architecture of Thriving — Detailed Outline
 
-> **Purpose:** Transform reader identity from "retired drinker trying to quit" to "optimized elder/athlete choosing to thrive." This is the philosophical foundation that makes the tactical chapters (Part IV) effective.
+> **Purpose:** Transform reader identity from "retired drinker trying to quit" to "optimized senior/athlete choosing to thrive." This is the philosophical foundation that makes the tactical chapters (Part IV) effective.
 
 > **Reader state entering Part III:** "I'm convinced alcohol is harmful (Part II), but nervous. Who will I be without it?"
 
-> **Reader state exiting Part III:** "I'm not 'quitting.' I'm becoming an athlete/philosopher/modern elder. I'm excited about this version of myself."
+> **Reader state exiting Part III:** "I'm not 'quitting.' I'm becoming an athlete/philosopher/modern sovereign. I'm excited about this version of myself."
 
-> **NEW: Unifying Identity Phrase:** "Sovereign modern elder-athlete" - Someone who owns their choices, stays curious and engaged, and maintains physical capacity to live fully.
+> **NEW: Unifying Identity Phrase:** "Sovereign modern sovereign-athlete" - Someone who owns their choices, stays curious and engaged, and maintains physical capacity to live fully.
 
 ---
 
@@ -185,7 +185,7 @@
 
 ---
 
-## Chapter 6: The Modern Elder — Curiosity & Agency
+## Chapter 6: The Modern Sovereign — Curiosity & Agency
 
 **Core Concept:** Maintain curiosity about the world and agency over your life through continuous learning, technology, resource allocation, and engagement. The tools available today make this the best time in history to age well.
 
@@ -279,7 +279,7 @@ You've seen the evidence (Part II). You understand the harms. Now you have the p
 
 You're not a "person trying to quit drinking."
 
-You're an athlete. A philosopher. A modern elder. Someone choosing to live intentionally in the time you have left.
+You're an athlete. A philosopher. A modern sovereign. Someone choosing to live intentionally in the time you have left.
 
 **Bridge to Part IV:**
 Philosophy is necessary but not sufficient. You need tools. Part IV gives you the tactical strategies to execute this vision: social scripts, movement protocols, nutrition, sleep rituals, hydration swaps, hobbies, spirituality practices.

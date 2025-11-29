@@ -66,12 +66,12 @@
   - Recovery within 1-3 months typical (testosterone, vascular function, nerve sensation).
   - Final evidence chapter before transition to solutions.
 
-## Part III — The Architecture of Thriving (Philosophy & Identity)
+## Part III — The Integrated Man (Philosophy & Identity)
 
-> **Purpose:** Transform reader identity from "retired drinker trying to quit" to "sovereign modern elder-athlete choosing to thrive."
-> **Core themes:** Agency (owning your choices, refusing passive aging) and Curiosity (staying intellectually alive, constantly learning)
+> **Purpose:** Transform reader identity from "retired drinker trying to quit" to "Integrated Man choosing to thrive."
+> **Core themes:** Integration (physical, mental, social), Agency (the Architect), and Capacity.
 > **Reader state entering:** "I'm convinced alcohol is harmful, but nervous. Who will I be without it?"
-> **Reader state exiting:** "I'm not 'quitting.' I'm becoming a sovereign modern elder-athlete—someone who owns their choices, stays curious and engaged, and maintains physical capacity to live fully."
+> **Reader state exiting:** "I'm not 'quitting.' I'm becoming an Integrated Man. I'm excited about this version of myself."
 
 **Detailed outline:** `drafts/part3_architecture_outline.md`
 
@@ -81,14 +81,14 @@
 - These two qualities define successful aging in modern times
 - Alcohol numbs both; removing it reclaims both
 
-- **Chapter 1: The Mortality Paradox — Living Well Closer to Death**
+- **Chapter 1: The Mortality Paradox — The Clock is the Ultimate Reality**
   - Successful aging = successful living with mortality awareness
   - Memento mori, stoic principles (amor fati, focus on what you control)
   - Time as most precious resource after 60
   - **Agency connection:** Taking control of how you spend finite time
   - Alcohol numbs urgency and steals time
 
-- **Chapter 2: The Emotional Operating System — Managing the Mind** *(MOVED TO POSITION 2)*
+- **Chapter 2: The Emotional Operating System — The Stoic Upgrade** *(MOVED TO POSITION 2)*
   - HALT framework (Hungry, Angry, Lonely, Tired + Thirst, Stress)
   - Managing expectations (recovery isn't linear, financial stress on fixed income)
   - Managing comparison ("compare and despair")
@@ -97,7 +97,7 @@
   - **Agency connection:** Taking control of emotional responses and mental frameworks
   - *Mental tools before physical identity chapters*
 
-- **Chapter 3: We Are All Athletes — The Case for Motion**
+- **Chapter 3: We Are All Athletes — Preserving the Machine**
   - "We are all athletes" philosophy—movement is fundamental
   - "Motion is lotion" for joints, brain, mood, longevity
   - Fitness completely available to seniors with time
@@ -105,14 +105,14 @@
   - **Agency connection:** Taking control of physical capacity and health
   - Alcohol undermines athletic capacity (balance, coordination, recovery)
 
-- **Chapter 4: Chosen Adversity — Why We Need Challenge**
+- **Chapter 4: Chosen Adversity — Hardening the Spirit**
   - Introduce adversity on own terms (hiking, rucking, cold exposure, fasting)
   - Endurance crew example: glass of water became luxury after hardship
   - Antifragility: systems that gain from stressors (biology, not philosophy)
   - **Agency connection:** Choosing challenges that build resilience
   - Alcohol reduces stress resilience, makes you fragile
 
-- **Chapter 5: Connection, Community & Building Your Network**
+- **Chapter 5: Connection, Community & The Lone Wolf Trap**
   - Build support networks before you need them
   - Types of connection: intimate, close friends, community, weak ties
   - THE MALE FRIENDSHIP DEFICIT (crisis-level urgency for retired men)
@@ -122,7 +122,7 @@
   - **Agency and Curiosity connection:** Building relationships requires both
   - Sober connection is real connection (fully present, fully remembered)
 
-- **Chapter 6: The Modern Elder — Curiosity & Agency**
+- **Chapter 6: The Integrated Man — Curiosity & Competence**
   - **REVISED:** Tighter focus on curiosity and agency as themes
   - Reading extensively (cognitive reserve, dementia protection)
   - Leveraging AI & technology (staying relevant, not dependent)
@@ -132,7 +132,7 @@
   - **Dementia protection** as unifying frame throughout
   - Alcohol impairs focus, retention, motivation to learn
 
-- **Chapter 7: Behavior Architecture — Translating Identity into Action** *(NEW)*
+- **Chapter 7: Behavior Architecture — The Systems Thinker** *(NEW)*
   - Implementation intentions (if-then planning)
   - Environment design (make alcohol-free choices path of least resistance)
   - Habit stacking (attach new behaviors to existing habits)

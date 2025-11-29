@@ -98,13 +98,16 @@ At the heart of this book are two concepts that define successful aging in moder
 
 These two qualities—agency and curiosity—are the foundations of thriving after 60. They're what distinguish those who age well from those who simply age.
 
-And here's the critical insight: **Alcohol numbs both.**
+**The Male Crisis of Relevance:**
+For many of us men, retirement brings a silent crisis: the loss of the "Provider/Producer" identity. The business card is gone. The team is gone. The structure is gone. We face a void. Alcohol is often the tool we use to mask that void, to numb the quiet panic of "Who am I now?" But alcohol doesn't fill the void; it just makes you comfortable with being empty.
+
+And here's the critical insight: **Alcohol numbs both agency and curiosity.**
 
 Alcohol reduces your sense of control over your life. It creates the illusion of relaxation while actually removing your capacity to make clear choices. It makes you a passenger in your own life.
 
 Alcohol also kills curiosity. It makes you content with passivity, with routine, with the path of least resistance. It replaces engagement with sedation.
 
-When you remove alcohol, you reclaim both. You become the **sovereign modern elder-athlete**—someone who owns their choices, stays curious and engaged, and maintains the physical capacity to live fully.
+When you remove alcohol, you reclaim both. You become the **Integrated Man**—someone who unites physical capacity (athlete), mental sharpness (learner), and emotional regulation (stoic).
 
 This book is about building agency and curiosity in every domain: your body (movement), your mind (learning), your relationships (connection), your daily choices (behavior), and your future (planning). Alcohol is incompatible with all of it.
 
@@ -114,15 +117,16 @@ This book is about building agency and curiosity in every domain: your body (mov
 
 I'm writing this book for me. But if you're reading this, you're probably in a similar place:
 
-- Drinking regularly (daily wine, cocktails at dinner, "wine o'clock") and sensing it might be time for a change
-- Seeing the headlines about alcohol risks and wondering what the research *actually* says
-- Optimizing for successful aging, more energy, sharper cognition, better balance, deeper sleep, genuine presence
-- Looking for evidence-based guidance, not support groups or recovery programs
-- Ready to make a choice from **conviction**, not because you hit rock bottom, but because you want to see what your best life looks like
+- **Men over 60** who are tired of the "grumpy old man" drift and want to reclaim their edge.
+- Drinking regularly (daily wine, cocktails at dinner, "wine o'clock") and sensing it might be time for a change.
+- Seeing the headlines about alcohol risks and wondering what the research *actually* says.
+- Optimizing for **capacity**—energy, sharpness, strength, autonomy—not just "health."
+- Looking for evidence-based guidance, not support groups or recovery programs.
+- Ready to make a choice from **conviction**, not because you hit rock bottom, but because you ran the numbers and the ROI of drinking is negative.
 
 **This is NOT a clinical treatment book.** If you're experiencing severe withdrawal symptoms, medical complications from alcohol, or need supervised detoxification, consult a healthcare provider. This book assumes you can stop safely and are looking for the *why* and *how* to make that choice stick.
 
-Retired or semi-retired, health-aware, tired of the daily habit, ready to see what life looks like alcohol-free. This isn't about recovery. It's about **thriving**.
+Retired or semi-retired, health-aware, tired of the daily habit, ready to see what life looks like alcohol-free. This isn't about recovery. It's about **integration**.
 
 ---
 
@@ -130,9 +134,11 @@ Retired or semi-retired, health-aware, tired of the daily habit, ready to see wh
 
 This is a knowledge base for making an informed choice about alcohol after 60.
 
-It's not a recovery program. It's not a wellness guide. It's a research-backed case for why releasing alcohol is one of the highest-leverage moves you can make for successful aging.
+It's not a lecture. It's an **audit**.
 
-Most books about alcohol aren't written for us. They're written for people in crisis, or for general audiences trying to "cut back." This book is specifically for people over 60, likely retired, who are optimizing for the best possible years ahead. We have different physiology (alcohol hits harder), different risks (falls, fractures, medication interactions), and different goals (maintaining independence, clarity, energy, presence).
+We are looking at the balance sheet of your biology and your time. We are checking the structural integrity of your life.
+
+Most books about alcohol aren't written for us. They're written for people in crisis, or for general audiences trying to "cut back." This book is specifically for **men over 60**, likely retired, who are optimizing for the best possible years ahead. We have different physiology (alcohol hits harder, testosterone matters more), different risks (falls, fractures, heart health), and different goals (maintaining independence, clarity, energy, presence).
 
 The evidence chapters will show you what alcohol does to your body and brain at our age. The solutions chapters will give you frameworks and strategies to make the choice stick.
 
@@ -156,8 +162,8 @@ How alcohol shows up in retired life and why the common justifications (heart be
 **Part II: The Harms (The Evidence)**
 What alcohol does to your heart, brain, balance, cancer risk, sleep, mental health, and how it interacts with your medications. Research-focused, age-specific, rigorous. This is the "push"—the conviction that alcohol doesn't serve you.
 
-**Part III: The Architecture of Thriving (Philosophy & Identity)**
-The mortality paradox, the athlete mindset, chosen adversity, emotional frameworks, connection, and continuous learning. This transforms you from "person trying to quit" to "optimized elder choosing to thrive." This is the "pull"—the vision of who you're becoming.
+**Part III: The Integrated Man (Philosophy & Identity)**
+The mortality paradox, the athlete mindset, chosen adversity, emotional frameworks, connection, and continuous learning. This transforms you from "person trying to quit" to "Integrated Man choosing to thrive." This is the "pull"—the vision of who you're becoming.
 
 **Part IV: The Toolkit (Tactical Implementation)**
 Social scripts, movement protocols, nutrition, hydration and substitutes, sleep rituals, hobbies, spirituality, relationships. The specific tools to execute the vision from Part III.

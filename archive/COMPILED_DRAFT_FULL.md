@@ -1,13 +1,9 @@
-# Sober Lit: Thriving After 60 Without Alcohol
-
-**Working Draft for Review**  
-**Compiled: November 24, 2024**
-
-*"You're a sovereign modern elder-athlete—curious mind, capable body, clear choices."*
-
 ---
-
-# Foreword
+title: "Sober Lit: Thriving After 60 Without Alcohol"
+subtitle: "Evidence-Based Health Optimization for the Modern Senior-Athlete"
+author: "Working Draft"
+date: "November 24, 2024"
+---
 
 # Foreword (Personal Intent)
 
@@ -35,8 +31,6 @@ If this eventually helps others, great. For now, it's my handbook: understanding
 
 ---
 
-
-# Introduction
 
 # Introduction
 
@@ -144,7 +138,7 @@ Alcohol reduces your sense of control over your life. It creates the illusion of
 
 Alcohol also kills curiosity. It makes you content with passivity, with routine, with the path of least resistance. It replaces engagement with sedation.
 
-When you remove alcohol, you reclaim both. You become the **sovereign modern elder-athlete**—someone who owns their choices, stays curious and engaged, and maintains the physical capacity to live fully.
+When you remove alcohol, you reclaim both. You become the **sovereign modern senior-athlete**—someone who owns their choices, stays curious and engaged, and maintains the physical capacity to live fully.
 
 This book is about building agency and curiosity in every domain: your body (movement), your mind (learning), your relationships (connection), your daily choices (behavior), and your future (planning). Alcohol is incompatible with all of it.
 
@@ -197,7 +191,7 @@ How alcohol shows up in retired life and why the common justifications (heart be
 What alcohol does to your heart, brain, balance, cancer risk, sleep, mental health, and how it interacts with your medications. Research-focused, age-specific, rigorous. This is the "push"—the conviction that alcohol doesn't serve you.
 
 **Part III: The Architecture of Thriving (Philosophy & Identity)**
-The mortality paradox, the athlete mindset, chosen adversity, emotional frameworks, connection, and continuous learning. This transforms you from "person trying to quit" to "optimized elder choosing to thrive." This is the "pull"—the vision of who you're becoming.
+The mortality paradox, the athlete mindset, chosen adversity, emotional frameworks, connection, and continuous learning. This transforms you from "person trying to quit" to "optimized senior choosing to thrive." This is the "pull"—the vision of who you're becoming.
 
 **Part IV: The Toolkit (Tactical Implementation)**
 Social scripts, movement protocols, nutrition, hydration and substitutes, sleep rituals, hobbies, spirituality, relationships. The specific tools to execute the vision from Part III.
@@ -214,8 +208,6 @@ I'll also share my journey as I live it. The 30/60/90 plan isn't theoretical, it
 
 ---
 
-
-# Part I: The Situation
 
 # The Situation: Alcohol in Retired Life
 
@@ -242,10 +234,6 @@ The aim here is to make the landscape clear: in a retired life with more unstruc
 
 
 ---
-
-
-# Part II: The Evidence — Why This Matters at 60+
-
 
 
 # Cardiovascular Health & Blood Pressure (60+ focus)
@@ -1695,10 +1683,6 @@ That's what the rest of this book is about.
 ---
 
 
-# Part III: The Philosophy — Who You're Becoming
-
-
-
 # Chapter 1: The Mortality Paradox — Living Well Closer to Death
 
 Here's the paradox: the closer we get to death, the more capable we become of living well.
@@ -1920,7 +1904,7 @@ The mortality paradox asks us to live with greater agency *because* time is limi
 
 That means making hard choices. Changing habits. Building systems. Staying engaged when it would be easier to disengage. Pursuing challenge when it would be easier to seek comfort.
 
-It means fully embodying what we might call a **sovereign modern elder-athlete**—someone who owns their choices, stays curious and engaged, and maintains the physical capacity to live fully
+It means fully embodying what we might call a **sovereign modern senior-athlete**—someone who owns their choices, stays curious and engaged, and maintains the physical capacity to live fully
 
 This identity is built on agency. And alcohol is fundamentally incompatible with it.
 
@@ -1936,7 +1920,7 @@ The remaining chapters will show you *how* to build the life that mortality awar
 - **Chapter 3 (We Are All Athletes):** Maintaining the physical capacity to live fully for as many years as possible
 - **Chapter 4 (Chosen Adversity):** Seeking challenge to build resilience rather than comfort that breeds fragility
 - **Chapter 5 (Connection & Community):** Building relationships that sustain meaning and presence
-- **Chapter 6 (The Modern Elder):** Staying curious, engaged, and intellectually alive
+- **Chapter 6 (The Modern Senior):** Staying curious, engaged, and intellectually alive
 - **Chapter 7 (Behavior Architecture):** Translating identity and philosophy into daily action
 
 Each of these chapters is about reclaiming agency in a specific domain. Each is about refusing to drift passively through your remaining years. Each is about building the kind of life that honors the fact that you don't have forever.
@@ -2065,7 +2049,7 @@ We can expand this framework to be more specific and actionable for our 60+ cont
 
 ### Identity/Meaning States
 
-**Purposeless:** Retirement can leave us feeling unmoored. Without work structure, status, or contribution, evenings feel empty. Drinking fills the void. Solution: this is the "modern elder" challenge—staying engaged, curious, contributing. We'll address this fully in Chapter 6. Short-term: pursue any curiosity, no matter how small. Read about something that interests you. Learn a skill. Reach out to someone who could use your expertise.
+**Purposeless:** Retirement can leave us feeling unmoored. Without work structure, status, or contribution, evenings feel empty. Drinking fills the void. Solution: this is the "modern senior" challenge—staying engaged, curious, contributing. We'll address this fully in Chapter 6. Short-term: pursue any curiosity, no matter how small. Read about something that interests you. Learn a skill. Reach out to someone who could use your expertise.
 
 **Celebratory:** You accomplished something, got good news, or simply made it to Friday. Drinking feels like the reward. But it's not a reward—it's theft from tomorrow's energy and clarity. Solution: find non-chemical rewards that actually build capacity (nice meal, movie, early bedtime with a good book, plan something you're excited about).
 
@@ -2162,7 +2146,7 @@ This isn't fear-mongering. It's accurate forecasting. Your brain is selectively 
 
 The urge often comes with a narrative: "I deserve this." "I've earned it." "It's not a big deal." "Everyone else is drinking."
 
-Counter with the agency narrative: "I'm choosing clarity over fog. I'm choosing tomorrow's capability over tonight's sedation. I'm choosing to be the sovereign modern elder-athlete I committed to becoming."
+Counter with the agency narrative: "I'm choosing clarity over fog. I'm choosing tomorrow's capability over tonight's sedation. I'm choosing to be the sovereign modern senior-athlete I committed to becoming."
 
 This isn't self-denial. It's self-authorship. You're not being deprived—you're choosing something better.
 
@@ -2385,17 +2369,17 @@ You're not an athlete if you:
 
 This isn't about how fit you are right now. It's about whether you're training your body as a system that responds to stimulus—because it does, at any age.
 
-### The Elder-Athlete Identity
+### The Senior-Athlete Identity
 
 This identity integrates two roles that are often seen as contradictory:
 
-**Elder:** You have experience, wisdom, perspective. You're not trying to reclaim your 20s. You're in a distinct life phase with its own opportunities and constraints.
+**Senior:** You have experience, wisdom, perspective. You're not trying to reclaim your 20s. You're in a distinct life phase with its own opportunities and constraints.
 
 **Athlete:** You're training your body deliberately to maintain capacity and independence. You refuse to drift passively into decline.
 
-The **elder-athlete** is someone who accepts aging while refusing to accept unnecessary limitation. Someone who trains with intelligence (not ego), consistency (not intensity), and purpose (not performance).
+The **senior-athlete** is someone who accepts aging while refusing to accept unnecessary limitation. Someone who trains with intelligence (not ego), consistency (not intensity), and purpose (not performance).
 
-This is the physical half of the "sovereign modern elder-athlete" identity. You own your choices (sovereign), stay curious and engaged (modern elder), and maintain physical capacity to live fully (athlete).
+This is the physical half of the "sovereign modern senior-athlete" identity. You own your choices (sovereign), stay curious and engaged (modern senior), and maintain physical capacity to live fully (athlete).
 
 ---
 
@@ -2553,7 +2537,7 @@ This time is different because:
 - Your focus is consistency and identity, not short-term results
 - You've removed the obstacle (alcohol) that was undermining sleep, recovery, and motivation
 
-You're not the same person who failed before. You're the sovereign modern elder-athlete who has quit drinking and is rebuilding capacity with deliberate systems.
+You're not the same person who failed before. You're the sovereign modern senior-athlete who has quit drinking and is rebuilding capacity with deliberate systems.
 
 ### "I don't have time."
 
@@ -2590,7 +2574,7 @@ There's a difference between "exercising" and "training."
 
 **Training** is working systematically to maintain or improve specific capacities. It's consistent, progressive, and motivated by long-term identity and function. Training doesn't stop because you "achieved a goal"—it's part of how you live.
 
-As an elder-athlete, you're training. You're not exercising to lose weight or look good. You're training to:
+As an senior-athlete, you're training. You're not exercising to lose weight or look good. You're training to:
 - Maintain the strength to get up from the floor
 - Maintain the cardiovascular fitness to hike, travel, and stay active
 - Maintain the balance to prevent falls
@@ -2637,13 +2621,13 @@ Do you want to:
 
 All of these require physical capacity. And physical capacity at 70, 75, or 80 is determined by what you're doing right now, today, this week.
 
-The elder-athlete identity isn't about performance. It's about maintaining the capacity to live the life you want for as long as possible.
+The senior-athlete identity isn't about performance. It's about maintaining the capacity to live the life you want for as long as possible.
 
 Training doesn't guarantee you'll reach 80 with full independence. Genetics, luck, and disease play their hand. But training maximizes the probability. It's the difference between "probably independent until 75" and "probably independent until 85."
 
 That's a decade. A decade of travel, connection, contribution, and autonomy. A decade where you're living fully rather than managing decline.
 
-That decade is worth 4 hours per week of training. It's worth quitting drinking to allow proper recovery and adaptation. It's worth claiming the elder-athlete identity and refusing to accept unnecessary limitation.
+That decade is worth 4 hours per week of training. It's worth quitting drinking to allow proper recovery and adaptation. It's worth claiming the senior-athlete identity and refusing to accept unnecessary limitation.
 
 ---
 
@@ -2948,7 +2932,7 @@ And it's hard—especially in the first 90 days. But hard isn't bad. Hard is the
 
 When you reframe sobriety this way, it stops being about willpower or self-denial. It becomes about who you're becoming. You're not someone who's depriving themselves. You're someone who's deliberately choosing the harder path because you know it's the path to strength, capacity, and agency.
 
-You're the sovereign modern elder-athlete. You choose challenge because comfort makes you fragile, and fragility is incompatible with living fully.
+You're the sovereign modern senior-athlete. You choose challenge because comfort makes you fragile, and fragility is incompatible with living fully.
 
 ---
 
@@ -3018,7 +3002,7 @@ You can choose:
 
 This freedom is a gift—but only if you use it. If you choose comfort, passivity, and ease, you're wasting the opportunity.
 
-The sovereign modern elder-athlete uses this freedom deliberately. They stack chosen adversity across multiple domains, building comprehensive resilience while they still have the capacity to do so.
+The sovereign modern senior-athlete uses this freedom deliberately. They stack chosen adversity across multiple domains, building comprehensive resilience while they still have the capacity to do so.
 
 Because here's the reality: if you don't build resilience now, while you're 60, 65, or 70, you won't have it at 75 or 80 when involuntary adversity arrives.
 
@@ -3217,7 +3201,7 @@ Relationships are sustained by reciprocity. If you're only taking (venting, aski
 - Introduce people who should know each other
 - Be the person others can count on to show up
 
-The elder role has natural value—experience, perspective, skills developed over decades. Don't hide these. Offer them generously.
+The senior role has natural value—experience, perspective, skills developed over decades. Don't hide these. Offer them generously.
 
 ### 5. Address the Alcohol Question Directly
 
@@ -3347,19 +3331,19 @@ The goal isn't to feel controlled. It's to feel supported—to have people in yo
 
 ---
 
-## The Elder Role: From Isolation to Contribution
+## The Senior Role: From Isolation to Contribution
 
 One of the reasons 60+ is vulnerable to loneliness is the loss of the contributor role. When you stop working, you can feel useless, irrelevant, or invisible.
 
-But the elder role—when claimed intentionally—is one of contribution, not withdrawal.
+But the senior role—when claimed intentionally—is one of contribution, not withdrawal.
 
-Elders have:
+Seniors have:
 - **Experience** that younger people lack
 - **Perspective** that only decades of living provides
 - **Skills** accumulated over a lifetime
 - **Time** to offer mentorship, volunteering, and service
 
-The modern elder (which we'll explore fully in Chapter 6) stays engaged by contributing—teaching, mentoring, volunteering, creating, sharing wisdom.
+The modern senior (which we'll explore fully in Chapter 6) stays engaged by contributing—teaching, mentoring, volunteering, creating, sharing wisdom.
 
 And contribution creates connection. When you're offering value, people seek you out. You're not isolated—you're engaged.
 
@@ -3378,27 +3362,27 @@ This isn't about ego or status. It's about recognizing that you have value to of
 
 This chapter showed why connection matters for health, meaning, and dopamine recovery—and how to build the relationships that sustain engagement.
 
-But connection alone isn't enough. The modern elder doesn't just maintain relationships—they stay intellectually alive. They remain curious, learning, exploring, and growing.
+But connection alone isn't enough. The modern senior doesn't just maintain relationships—they stay intellectually alive. They remain curious, learning, exploring, and growing.
 
-Chapter 6 will show you how to embody the "modern elder" identity: someone who combines the wisdom of age with the curiosity of youth, staying engaged with ideas, learning, and contribution rather than drifting into passive consumption and cognitive decline.
+Chapter 6 will show you how to embody the "modern senior" identity: someone who combines the wisdom of age with the curiosity of youth, staying engaged with ideas, learning, and contribution rather than drifting into passive consumption and cognitive decline.
 
 You're not just surviving your remaining years. You're staying intellectually alive. That's what's next.
 
-**Next:** Chapter 6: The Modern Elder — Staying Curious, Engaged, and Intellectually Alive
+**Next:** Chapter 6: The Modern Senior — Staying Curious, Engaged, and Intellectually Alive
 
 
 ---
 
 
-# Chapter 6: The Modern Elder — Staying Curious, Engaged, and Intellectually Alive
+# Chapter 6: The Modern Senior — Staying Curious, Engaged, and Intellectually Alive
 
 We've covered the physical (Chapter 3), psychological (Chapter 4), and social (Chapter 5) dimensions of thriving after 60. This chapter addresses the intellectual and existential dimension: **how to remain mentally engaged, curious, and learning rather than drifting into passive consumption and cognitive decline**.
 
-The term "elder" often carries connotations of obsolescence—someone past their prime, out of touch, intellectually rigid, no longer learning or contributing. That's the traditional elder: wise perhaps, but static. Fixed. Done growing.
+The term "senior" often carries connotations of obsolescence—someone past their prime, out of touch, intellectually rigid, no longer learning or contributing. That's the traditional senior: wise perhaps, but static. Fixed. Done growing.
 
-The **modern elder** is different. The modern elder combines the wisdom and perspective of age with the curiosity and openness of youth. They're still learning, still exploring, still contributing. They refuse to accept cognitive decline as inevitable or intellectual passivity as appropriate.
+The **modern senior** is different. The modern senior combines the wisdom and perspective of age with the curiosity and openness of youth. They're still learning, still exploring, still contributing. They refuse to accept cognitive decline as inevitable or intellectual passivity as appropriate.
 
-This identity—the final component of "sovereign modern elder-athlete"—is about staying intellectually alive. And it's fundamentally incompatible with regular drinking.
+This identity—the final component of "sovereign modern senior-athlete"—is about staying intellectually alive. And it's fundamentally incompatible with regular drinking.
 
 ---
 
@@ -3428,15 +3412,15 @@ And the slowing that does occur is **not inevitable**. It's heavily influenced b
 
 **Alcohol accelerates decline.** As shown in Part II's Dementia chapter, chronic drinking shrinks brain volume (particularly in the hippocampus and prefrontal cortex), impairs neuroplasticity, disrupts sleep (which is when the brain consolidates learning), and significantly increases dementia risk—even at moderate consumption levels. The cognitive slowing attributed to "normal aging" is often partially attributable to years of drinking.
 
-**Physical activity protects cognition.** Aerobic exercise increases BDNF (brain-derived neurotrophic factor), improves blood flow to the brain, and is one of the most powerful interventions for maintaining cognitive function. The elder-athlete identity (Chapter 3) directly supports the modern elder identity (this chapter).
+**Physical activity protects cognition.** Aerobic exercise increases BDNF (brain-derived neurotrophic factor), improves blood flow to the brain, and is one of the most powerful interventions for maintaining cognitive function. The senior-athlete identity (Chapter 3) directly supports the modern senior identity (this chapter).
 
 The point: cognitive decline is not a fixed trajectory. It's heavily influenced by choices you make daily—and the choice to stay intellectually engaged is one of the most protective.
 
 ---
 
-## The Modern Elder: Wisdom + Curiosity
+## The Modern Senior: Wisdom + Curiosity
 
-The term "modern elder" comes from Chip Conley, entrepreneur and author who joined Airbnb at age 52 to mentor the young founders. He describes the modern elder as someone who brings the **wisdom of experience** while maintaining the **curiosity of youth**.
+The term "modern senior" comes from Chip Conley, entrepreneur and author who joined Airbnb at age 52 to mentor the young founders. He describes the modern senior as someone who brings the **wisdom of experience** while maintaining the **curiosity of youth**.
 
 **Wisdom** means:
 - Pattern recognition from decades of lived experience
@@ -3452,9 +3436,9 @@ You have this. If you're 60+, you've lived through decades of relationships, wor
 - Active engagement with the unfamiliar
 - Intellectual humility ("I don't know, but I want to find out")
 
-This is what many elders lose. They stop learning. They become fixed in their views. They dismiss new ideas as "not how we did things." They retreat into the familiar and stop engaging with the new.
+This is what many seniors lose. They stop learning. They become fixed in their views. They dismiss new ideas as "not how we did things." They retreat into the familiar and stop engaging with the new.
 
-The modern elder refuses this trajectory. They leverage their wisdom *and* they remain open, curious, and learning.
+The modern senior refuses this trajectory. They leverage their wisdom *and* they remain open, curious, and learning.
 
 This integration—experience + openness—is extraordinarily valuable. It's what makes great mentors, advisors, teachers, and leaders. And it's what makes aging a stage of contribution rather than withdrawal.
 
@@ -3509,7 +3493,7 @@ Active engagement requires effort. It's harder. But it's what maintains and buil
 
 Here's the trap: passive consumption feels easier in the moment, especially when your dopamine system is compromised (early sobriety) or when you're tired (evenings after drinking). So you default to passive consumption, which provides minimal dopamine, which reinforces the flat feeling, which makes active engagement feel even harder.
 
-The modern elder breaks this cycle by deliberately choosing active engagement even when it feels effortful—because they know that effort is the stimulus for cognitive maintenance and dopamine recovery.
+The modern senior breaks this cycle by deliberately choosing active engagement even when it feels effortful—because they know that effort is the stimulus for cognitive maintenance and dopamine recovery.
 
 ---
 
@@ -3566,7 +3550,7 @@ Let's make this concrete. Here are specific ways to stay intellectually alive at
 - Volunteer as a tutor
 - Share knowledge informally (write how-tos, answer questions in online communities)
 
-This fulfills the elder role (contribution) while reinforcing your own learning and cognitive capacity.
+This fulfills the senior role (contribution) while reinforcing your own learning and cognitive capacity.
 
 ### 6. Engaging with Difficult Ideas
 
@@ -3577,7 +3561,7 @@ This fulfills the elder role (contribution) while reinforcing your own learning 
 - Have conversations with people who think differently than you
 - Practice intellectual humility: "I don't know" or "I might be wrong about this"
 
-**Goal:** Stay intellectually flexible rather than rigid. The modern elder updates their views based on new information rather than defending outdated positions.
+**Goal:** Stay intellectually flexible rather than rigid. The modern senior updates their views based on new information rather than defending outdated positions.
 
 ### 7. Legacy Work (Uniquely Suited to This Life Stage)
 
@@ -3587,7 +3571,7 @@ At 60+, you have accumulated decades of experience, knowledge, and stories. Lega
 - **Memoir writing:** Document your life story, significant experiences, lessons learned
 - **Family history:** Research and organize genealogy, interview relatives, preserve family stories
 - **Ethical will:** Write a document sharing your values, life lessons, and hopes for future generations (not legal/financial, but wisdom and guidance)
-- **Oral history:** Record interviews with yourself or elders in your community
+- **Oral history:** Record interviews with yourself or seniors in your community
 - **Skill documentation:** Create guides, tutorials, or videos teaching skills you've mastered over a lifetime
 
 **Why it matters for intellectual engagement:**
@@ -3614,13 +3598,13 @@ Let's be blunt about what alcohol does to intellectual capacity:
 
 **Long-term cognitive decline:** Chronic drinking accelerates brain atrophy, increases dementia risk, and impairs neuroplasticity. The cumulative effect over years or decades is significant cognitive decline that's entirely preventable.
 
-You cannot be a modern elder—someone staying intellectually alive, curious, and engaged—while drinking regularly. The two goals are opposed. Alcohol makes you passive, foggy, and cognitively diminished. The modern elder requires clarity, curiosity, and active engagement.
+You cannot be a modern senior—someone staying intellectually alive, curious, and engaged—while drinking regularly. The two goals are opposed. Alcohol makes you passive, foggy, and cognitively diminished. The modern senior requires clarity, curiosity, and active engagement.
 
 ---
 
 ## The Sovereignty of Intellectual Choice
 
-Here's what "sovereign" means in the modern elder-athlete identity:
+Here's what "sovereign" means in the modern senior-athlete identity:
 
 You own your choices about what to learn, how to spend your attention, and what to contribute. You're not passively consuming whatever's served to you (news feeds, TV programming, social media algorithms). You're actively choosing what's worth your limited time and cognitive capacity.
 
@@ -3630,7 +3614,7 @@ At 60+, this sovereignty is both a privilege and a responsibility.
 
 **Responsibility:** You have limited years left. The time you spend passively consuming is time you don't get back. The cognitive capacity you don't maintain is capacity you'll lose.
 
-The sovereign modern elder exercises choice deliberately:
+The sovereign modern senior exercises choice deliberately:
 
 - "I'm not going to watch 3 hours of TV tonight—I'm going to read, learn, or create."
 - "I'm not going to numb my boredom with alcohol—I'm going to pursue curiosity."
@@ -3665,16 +3649,16 @@ If you're drinking regularly, you're on the second path—whether you realize it
 
 If you quit drinking and actively choose intellectual engagement—reading, learning, creating, teaching—you're on the first path. You're maintaining the neuroplasticity and cognitive capacity that let you remain intellectually alive for as many years as biology allows.
 
-The modern elder isn't an accident. It's a choice—repeated daily through what you read, what you learn, and what you choose to engage with.
+The modern senior isn't an accident. It's a choice—repeated daily through what you read, what you learn, and what you choose to engage with.
 
 ---
 
 ## From Identity to Action: Behavior Architecture
 
-We've now covered all six dimensions of the sovereign modern elder-athlete identity:
+We've now covered all six dimensions of the sovereign modern senior-athlete identity:
 
 - **Sovereign:** Owning your choices and refusing passive drift (Chapter 1)
-- **Modern Elder:** Staying curious, learning, contributing (Chapter 6)
+- **Modern Senior:** Staying curious, learning, contributing (Chapter 6)
 - **Athlete:** Maintaining physical capacity (Chapter 3)
 - **Emotionally regulated:** Managing triggers without numbing (Chapter 2)
 - **Resilient:** Building capacity through chosen adversity (Chapter 4)
@@ -3694,13 +3678,13 @@ Philosophy (Chapters 1-6) tells you *why* and *who*. Behavior architecture (Chap
 
 # Chapter 7: Behavior Architecture — Systems and Habits That Make This Sustainable
 
-The first six chapters gave you the philosophy, identity, and mental frameworks for thriving after 60 without alcohol. You understand *why* (Chapter 1's mortality awareness), *who* you're becoming (the sovereign modern elder-athlete), and what capacities to build (emotional regulation, physical strength, resilience, connection, curiosity).
+The first six chapters gave you the philosophy, identity, and mental frameworks for thriving after 60 without alcohol. You understand *why* (Chapter 1's mortality awareness), *who* you're becoming (the sovereign modern senior-athlete), and what capacities to build (emotional regulation, physical strength, resilience, connection, curiosity).
 
 Let's anchor that identity one more time:
 
-**You're a sovereign modern elder-athlete.** You own your choices and refuse passive drift. You stay intellectually curious and engaged. You maintain the physical capacity to live fully. You're emotionally regulated, psychologically resilient, and deeply connected to people who matter. This is who you're becoming.
+**You're a sovereign modern senior-athlete.** You own your choices and refuse passive drift. You stay intellectually curious and engaged. You maintain the physical capacity to live fully. You're emotionally regulated, psychologically resilient, and deeply connected to people who matter. This is who you're becoming.
 
-**Identity mantra:** "I'm a sovereign modern elder-athlete—curious mind, capable body, clear choices."
+**Identity mantra:** "I'm a sovereign modern senior-athlete—curious mind, capable body, clear choices."
 
 But understanding isn't the same as doing. Philosophy doesn't execute itself. Identity doesn't translate automatically into daily choices.
 
@@ -4091,20 +4075,20 @@ Stack the dopamine sources onto existing routines so you don't have to rely on m
 The most sustainable habits are identity-based, not goal-based.
 
 **Goal-based:** "I want to lose 20 pounds" or "I want to quit drinking for 90 days"
-**Identity-based:** "I'm the kind of person who moves my body daily" or "I'm a sovereign modern elder-athlete who doesn't drink"
+**Identity-based:** "I'm the kind of person who moves my body daily" or "I'm a sovereign modern senior-athlete who doesn't drink"
 
 Goal-based motivation fades when the goal is reached (or when progress stalls). Identity-based motivation persists because it's about *who you are*, not what you're trying to achieve.
 
 **Daily identity reinforcement:**
 
-- Morning: "I am a sovereign modern elder-athlete. What would that person do today?"
-- Before choices: "What would a sovereign modern elder-athlete choose right now?"
-- Evening: "Today I acted as a sovereign modern elder-athlete by [specific choice]."
+- Morning: "I am a sovereign modern senior-athlete. What would that person do today?"
+- Before choices: "What would a sovereign modern senior-athlete choose right now?"
+- Evening: "Today I acted as a sovereign modern senior-athlete by [specific choice]."
 
 **Journal your identity-aligned wins:**
 
 - "Today I chose to walk instead of drink because I am an athlete who maintains capacity."
-- "Today I chose to read instead of scroll because I am a modern elder who stays curious."
+- "Today I chose to read instead of scroll because I am a modern senior who stays curious."
 - "Today I chose connection over numbing because I am sovereign over my choices."
 
 Each choice reinforces the identity. The identity makes future choices easier.
@@ -4139,7 +4123,7 @@ Track enough to maintain awareness, but not so much that it becomes burdensome.
 - **Days sober:** Simple counter (app, calendar marks, journal). Seeing the streak reinforces commitment.
 - **Movement:** Did you move today? (Y/N) Weekly count. No need for precise metrics.
 - **Dopamine sources:** End-of-day check: Which sources did I access today? (Movement, novelty, connection, accomplishment, learning)
-- **Identity wins:** Weekly journal: 3 times this week I acted as the sovereign modern elder-athlete.
+- **Identity wins:** Weekly journal: 3 times this week I acted as the sovereign modern senior-athlete.
 
 **What NOT to track obsessively:**
 - Weight (lagging indicator, fluctuates, creates anxiety)
@@ -4190,7 +4174,7 @@ Before moving to Part IV (which gives you specific tactics for movement, nutriti
 - [ ] Schedule 2-3 social connections for the coming week
 
 **Identity Reinforcement:**
-- [ ] Write out your identity statement: "I am a sovereign modern elder-athlete who..."
+- [ ] Write out your identity statement: "I am a sovereign modern senior-athlete who..."
 - [ ] Create a daily reminder (phone note, index card, journal prompt)
 - [ ] Identify your first identity-aligned win from today
 
@@ -4204,7 +4188,7 @@ The systems you've built reduce the likelihood of drinking, but they don't guara
 
 **If you drink once:**
 
-1. **Do not shame spiral.** One drink does not erase your progress or identity. You're still the sovereign modern elder-athlete who had one setback.
+1. **Do not shame spiral.** One drink does not erase your progress or identity. You're still the sovereign modern senior-athlete who had one setback.
 2. **Analyze what failed:** What trigger did you miss? What environmental factor wasn't addressed? What need weren't you meeting?
 3. **Fix the gap immediately:** Add friction where it was missing. Strengthen the protocol that failed. Call your accountability partner.
 4. **Recommit today:** Don't wait for Monday or next month. Recommit right now.
@@ -4224,7 +4208,7 @@ The systems you've built reduce the likelihood of drinking, but they don't guara
 
 Let's connect everything:
 
-**Chapters 1-6 gave you the identity:** You're a sovereign modern elder-athlete who owns choices (sovereign), stays curious and engaged (modern elder), and maintains physical capacity (athlete). You're emotionally regulated, resilient, connected, and intellectually alive.
+**Chapters 1-6 gave you the identity:** You're a sovereign modern senior-athlete who owns choices (sovereign), stays curious and engaged (modern senior), and maintains physical capacity (athlete). You're emotionally regulated, resilient, connected, and intellectually alive.
 
 **Chapter 7 gave you the systems:** Environment design makes identity-aligned choices easier. Dopamine stacking rebuilds natural rewards. Habit stacking automates behaviors. Identity-based habits make change sustainable.
 
@@ -4261,7 +4245,7 @@ Why a year?
 - **Fall (Months 7-9):** Integration and confidence. This is becoming your normal. The identity feels real, not aspirational.
 - **Winter (Months 10-12):** Transformation complete. You've experienced a full year of life events sober. You have the data.
 
-After one year—four full seasons—you'll know. You'll know if the sovereign modern elder-athlete identity fits. You'll know if the clarity, capability, and presence are worth it. You'll know if you want to continue.
+After one year—four full seasons—you'll know. You'll know if the sovereign modern senior-athlete identity fits. You'll know if the clarity, capability, and presence are worth it. You'll know if you want to continue.
 
 But you can't know at 30 days, or 90 days, or 6 months. The dopamine recovery isn't complete. The habits aren't fully formed. The identity isn't fully integrated.
 
@@ -4269,7 +4253,7 @@ Give yourself four seasons. One full cycle. Then decide.
 
 Write it down. Tell someone. Make it real.
 
-**"I commit to one full year without alcohol, starting [date]. I am becoming a sovereign modern elder-athlete, and this is how I live."**
+**"I commit to one full year without alcohol, starting [date]. I am becoming a sovereign modern senior-athlete, and this is how I live."**
 
 ---
 
@@ -4287,11 +4271,11 @@ You've covered a lot. Let's consolidate what Part III has given you:
 
 **Chapter 5 (Connection and Community):** Relationships sustain meaning and health. Alcohol undermines genuine connection. You need 3-5 deep relationships and regular engagement.
 
-**Chapter 6 (The Modern Elder):** Stay intellectually alive. Wisdom + curiosity = modern elder. Learning, creating, teaching, and legacy work maintain cognitive capacity and generate dopamine.
+**Chapter 6 (The Modern Senior):** Stay intellectually alive. Wisdom + curiosity = modern senior. Learning, creating, teaching, and legacy work maintain cognitive capacity and generate dopamine.
 
 **Chapter 7 (Behavior Architecture):** Environment design, dopamine stacking, habit stacking, and identity-based habits make the philosophy sustainable. Systems > willpower.
 
-**You're not trying to quit drinking. You're becoming a sovereign modern elder-athlete—and drinking is incompatible with who you're becoming.**
+**You're not trying to quit drinking. You're becoming a sovereign modern senior-athlete—and drinking is incompatible with who you're becoming.**
 
 ---
 
@@ -4302,16 +4286,6 @@ You have the philosophy. You have the architecture. Now get the toolkit.
 
 ---
 
-
-# Part IV: The Tactics
-
-*[Chapters outlined but not yet fully drafted. See separate outline documents.]*
-
-
----
-
-
-# Part V: The Execution — Your First 90 Days
 
 # Chapter 16: One Possible Path—My 30/60/90 Journey
 

@@ -1,21 +1,49 @@
-# Nutrition & Supplements (Supportive, Check with Clinician)
+# Toolkit 3: Fuel — Protein and Testosterone
 
-> Focus on basics; avoid medical claims. Remind to consult a clinician, especially with meds/conditions.
+> **The Goal:** Metabolic Armor
+> **The Tactic:** Protein Prioritization
 
-## Fundamentals
-- Eat protein at each meal (aim ~1.2–1.6 g/kg/day if tolerated; adjust per clinician), especially helpful for preserving muscle after 60 ([ProtAge2013]: evidence-based recommendations for older adults to prevent sarcopenia; distribute 25–30g across meals for optimal muscle protein synthesis).
-- Emphasize whole foods: lean proteins, beans/lentils, vegetables, fruits, nuts, whole grains as tolerated.
-- Keep fiber and hydration up; regular meals help blunt cravings and stabilize energy.
+Food is not entertainment. Food is fuel.
+At 60, your margin for error is zero.
+*   **Alcohol:** Poison.
+*   **Sugar:** Inflammatory.
+*   **Protein:** Structural.
 
-## Supplements (talk to your clinician)
-- **Creatine (3–5 g/day):** supports muscle/strength when combined with resistance training; emerging evidence for cognitive benefits in older adults ([CreatineMeta2023]: enhanced memory performance, especially ages 66–76; supports ATP regeneration in brain and muscle). Generally safe but check kidney function and medication interactions with clinician.
-- **Vitamin D:** supplement if deficient; check levels.
-- **Omega-3:** via fatty fish or supplement; watch interactions (bleed risk with anticoagulants).
-- **B1 (thiamine):** consider if long-term heavy alcohol use; consult.
-- **Electrolytes:** when sweating/low-carb; avoid excess sugar if glucose issues.
+## The Protein Imperative
 
-## Practical tips
-- Plan simple, repeatable meals; batch cook.
-- Pair carbs with protein/fat to reduce spikes/crashes.
-- Eat before social events to reduce “hungry + trigger” overlap.
-- Use hydration (see `solutions_hydration_substitutes.md`) alongside meals.
+You are fighting **Anabolic Resistance**.
+As you age, your body becomes less efficient at turning protein into muscle. You need *more* protein just to maintain what you have.
+
+**The Target:** 1 gram of protein per pound of *ideal* body weight.
+If you want to weigh 180 lbs, you eat 180g of protein.
+
+**Why?**
+1.  **Satiety:** Protein kills cravings. If you are full of steak, you don't want wine.
+2.  **Muscle:** It feeds the armor.
+3.  **Thermic Effect:** It burns more calories to digest than fat or carbs.
+
+## The Testosterone Support Protocol
+
+You stopped drinking (which stops the estrogen conversion). Now support the T-production.
+
+1.  **Zinc & Magnesium:** Essential for T-production.
+2.  **Vitamin D3:** Most men are deficient. Get sun or supplement (5000 IU).
+3.  **Cholesterol:** Your body *needs* dietary cholesterol to make testosterone. Eat the eggs (yolks included).
+
+## The "Kill Cravings" Meal
+
+When you want a drink at 5:00 PM, you are often just **hypoglycemic** (low blood sugar).
+Alcohol is liquid sugar. Your brain wants the spike.
+
+**The Counter-Measure:**
+Eat a high-protein, high-fat snack at 4:00 PM.
+*   Beef jerky.
+*   Hard-boiled eggs.
+*   Handful of almonds.
+
+Stabilize the blood sugar, and the craving dissolves.
+
+## Summary
+*   Prioritize Protein (30g+ per meal).
+*   Don't fear healthy fats (eggs, steak, avocado).
+*   Kill the 5:00 PM craving with food, not booze.

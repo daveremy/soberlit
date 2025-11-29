@@ -1,35 +1,62 @@
-# 30/60/90-Day Plan (Sober Lit Build)
+# The 90-Day Operations Plan
 
-> Phased, gentle progression; supportive tone. Adjust pacing as needed.
+> **The Phase:** Stabilization
+> **The Goal:** New Baseline
 
-## Phase 0 (Days 0–7): Audit & Define Territory
-- Log when/why you drink; note triggers ([HALT]+Thirst/Stress).
-- Define your territory: You're choosing conviction, not avoidance. The bottle in the fridge is as irrelevant as bleach—you know it's toxic, so you have no desire for it. Stock alcohol-free options (NA, hydration) because they taste better and serve your goals, not to hide from booze.
-- Add evening wind-down (no alcohol): see `solutions_sleep_ritual.md`.
-- Start daily hydration targets; anchor morning/midday glasses ([Fogg2020] habit anchoring).
-- Move daily (walk + 3–5 min balance); 1–2 strength sessions.
+You survived the extraction. Now we build the base.
+90 days is the magic number. It takes 90 days for the liver to regenerate, the dopamine receptors to upregulate, and the habit loops to rewrite.
 
-## Phase 1 (Days 8–30): Replace & Stabilize
-- Alcohol-free: use trigger→swap table (`solutions_hydration_substitutes.md`; [Duhigg2012] habit loop); social scripts for events ([Gollwitzer1999] implementation intentions).
-- Movement: follow starter week (`solutions_movement.md`); 2–3 strength, balance daily, walking most days.
-- Sleep: stick to routine; track subjective sleep/energy ([Walker2017]).
-- Social: schedule 1–2 alcohol-free socials/week (coffee/walk/game/book club).
-- Mindset: morning/evening affirmation; note wins daily.
+## Days 15-30: The Physical Rebuild
 
-## Phase 2 (Days 31–60): Build Capacity
-- Maintain alcohol-free; review triggers weekly.
-- Progress movement (longer walks, add load to strength); keep balance work.
-- Nutrition/hydration: hit protein; keep hydration; add electrolytes as needed.
-- Social: one “anchor” event/week (movement + social); refine scripts.
-- Track: simple log (mood/sleep/energy).
+**The Focus:** The Machine.
+Your energy is back. Use it.
 
-## Phase 3 (Days 61–90): Deepen & Prevent
-- Solidify routines; plan for known risk dates/events.
-- Add a new hobby/learning block; consider volunteering/team activity.
-- Relationships: proactive time with partner/family/grandkids; sober presence.
-- Review: monthly check-in; adjust affirmations; plan maintenance.
+*   **Protocol:**
+    *   **Training:** Hit the weights 3x a week. Ruck 2x a week.
+    *   **Fuel:** Hit your protein targets every day.
+    *   **Sleep:** Lock in the 3-2-1 protocol.
 
-## Maintenance (post-90)
-- Monthly reflection: sleep, mood, energy, social, movement; adjust goals ([BaltesSoc1990] ongoing optimization).
-- Stock alcohol-free options (NA, hydration) you genuinely enjoy; keep scripts authentic.
-- After-action review: if you choose to drink, pause afterward; hydrate; eat; sleep; move lightly. Review the choice: what triggered it (HALT/stress/social)? What need was actually present? What worked, what didn't? Adjust your swap plan and recommit. No guilt spirals—treat it as data and learning ([Lally2009]: habit formation is resilient to occasional misses). You made a choice; now make the next one.
+**The Trap:** The "Pink Cloud." You feel invincible. You over-commit. You start a business, a marathon, and a remodel.
+**The Fix:** Slow down. Stability is the goal. Don't burnout.
+
+## Days 31-60: The Mental Upgrade
+
+**The Focus:** The Mind.
+The brain fog is gone. You are sharp.
+
+*   **Protocol:**
+    *   **Deep Work:** Use your mornings for high-leverage tasks.
+    *   **Learning:** Start the "Learner Mission" (Chapter 6). Read the hard books.
+    *   **Stoicism:** Practice the "Stoic Pause." Regulate your reactions.
+
+**The Trap:** Boredom. The drama of drinking is gone. Life feels "routine."
+**The Fix:** Routine is where high-performers live. Embrace the boring.
+
+## Days 61-90: The Social Re-Entry
+
+**The Focus:** The Tribe.
+You are stable. Now you can be useful.
+
+*   **Protocol:**
+    *   **The Crew:** Reach out to the allies. Plan the hike. Plan the dinner.
+    *   **The Test:** Go to a social event. Order the soda water. Realize nobody cares.
+    *   **The Patriarch:** Show up for your family with full presence.
+
+**The Trap:** "I'm cured." You think you can handle a beer at the BBQ.
+**The Fix:** Re-read Chapter 1. The math hasn't changed.
+
+## The 90-Day Review
+
+At Day 90, do an audit.
+*   Look at your face in the mirror (compare to Day 1).
+*   Look at your bank account.
+*   Look at your sleep data.
+*   Look at your relationships.
+
+The data will be undeniable.
+You are a different man.
+
+## Summary
+*   Month 1: Build the Body.
+*   Month 2: Sharpen the Mind.
+*   Month 3: Lead the Tribe.

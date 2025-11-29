@@ -10,7 +10,7 @@
 ## Available Formats
 
 ### 📱 **EPUB (Recommended for Apple Books)**
-**`SoberLit_Draft_20241124.epub`** (354 KB)
+**`SoberLit_Draft_20241124.epub`** (319 KB)
 - Perfect for Apple Books on iPhone, iPad, Mac
 - **Includes professional cover image**
 - Reflowable text (adjusts to screen size)
@@ -25,7 +25,7 @@
 ---
 
 ### 📄 **PDF**
-**`SoberLit_Draft_20241124.pdf`** (598 KB)
+**`SoberLit_Draft_20241124.pdf`** (536 KB)
 - **Professional cover page included**
 - Professional formatting
 - Fixed layout (looks the same on all devices)
@@ -35,7 +35,7 @@
 ---
 
 ### 🌐 **HTML (Single Page)**
-**`SoberLit_Draft_20241124.html`** (365 KB)
+**`SoberLit_Draft_20241124.html`** (363 KB)
 - Read in any web browser
 - Styled with clean, readable CSS
 - Searchable with browser find (Cmd+F)
@@ -44,10 +44,10 @@
 ---
 
 ### 🎨 **Cover Image**
-**`cover.png`** (122 KB)
+**`cover.png`** (90 KB)
 - Professional minimalist design
 - Deep blue-gray with gold accents
-- Features the identity mantra: "curious mind • capable body • clear choices"
+- Clean typography with title and subtitle
 - Embedded in EPUB and PDF versions
 
 ---
@@ -83,7 +83,7 @@ All formats contain the same complete draft:
 - Chapter 3: We Are All Athletes
 - Chapter 4: Chosen Adversity
 - Chapter 5: Connection and Community
-- Chapter 6: The Modern Elder
+- Chapter 6: The Modern Senior
 - Chapter 7: Behavior Architecture
 
 **Part V: The Execution**
@@ -112,7 +112,7 @@ All formats contain the same complete draft:
 All formats generated from the same source markdown using Pandoc with metadata:
 
 - Title: "Sober Lit: Thriving After 60 Without Alcohol"
-- Subtitle: "Evidence-Based Health Optimization for the Modern Elder-Athlete"
+- Subtitle: "Evidence-Based Health Optimization for the Modern Senior-Athlete"
 - Language: English (US)
 - TOC depth: 2 levels
 - Chapter splitting: Level 2 headings
